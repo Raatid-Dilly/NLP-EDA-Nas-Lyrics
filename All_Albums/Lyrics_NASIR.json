@@ -1,0 +1,511 @@
+{
+ "_type": "album",
+ "api_path": "/albums/429552",
+ "cover_art_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+ "full_title": "NASIR by Nas",
+ "id": 429552,
+ "name": "NASIR",
+ "name_with_artist": "NASIR (artist: Nas)",
+ "release_date_components": {
+  "year": 2018,
+  "month": 6,
+  "day": 15
+ },
+ "url": "https://genius.com/albums/Nas/Nasir",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/56",
+  "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+  "id": 56,
+  "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Nas",
+  "slug": "Nas",
+  "url": "https://genius.com/artists/Nas",
+  "iq": 40364
+ },
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/3721008",
+    "artist_names": "Nas (Ft. 070 Shake & Diddy)",
+    "full_title": "Not For Radio by\u00a0Nas (Ft.\u00a0070\u00a0Shake & Diddy)",
+    "header_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "id": 3721008,
+    "instrumental": false,
+    "lyrics_owner_id": 3390361,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1636828186,
+    "path": "/Nas-not-for-radio-lyrics",
+    "pyongs_count": 30,
+    "relationships_index_url": "https://genius.com/Nas-not-for-radio-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 6,
+     "day": 15
+    },
+    "release_date_for_display": "June 15, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 199052
+    },
+    "title": "Not For Radio",
+    "title_with_featured": "Not For Radio (Ft.\u00a0070\u00a0Shake & Diddy)",
+    "updated_by_human_at": 1640741247,
+    "url": "https://genius.com/Nas-not-for-radio-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/82",
+      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/YxmnpOsRKqedMBLugK8l_oie_15632191kzs2eJ0.jpg",
+      "id": 82,
+      "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/jGCvpYJWTjKU9zcg01aa_photo.jpg",
+      "index_character": "d",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Diddy",
+      "slug": "Diddy",
+      "url": "https://genius.com/artists/Diddy",
+      "iq": 680
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/650841",
+      "header_image_url": "https://images.genius.com/bdaba32f53fd4791c0557a61b27b572c.1000x747x1.jpg",
+      "id": 650841,
+      "image_url": "https://images.genius.com/a799ed0551a46952c798d771af35ff9b.645x645x1.jpg",
+      "index_character": "0",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "070 Shake",
+      "slug": "070-shake",
+      "url": "https://genius.com/artists/070-shake",
+      "iq": 350
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Not For Radio Lyrics[Intro: Nas & Puff Daddy]\nEscobar season begins\nAyo, we ain't posin' for no pictures in 2018\nCandid shit only\nScared motherfuckers\n\n[Verse 1: Nas & Puff Daddy]\nBlack Kemet gods (Yeah), black Egyptian gods (Let's go)\nSummoned from heaven, blessed, dressed in only Goyard\nHomie go hard like Stone and Robert in a stolen car\nShoot the ballot box, no voter card, they all are frauds\nSenegal's finest, minerals, diamonds\nThe Earth is cursed but I survive many climates\nCalm and thoroughly, they try to Hyman Roth me\nJohn Fitzgerald me, the industry never bought me\n(You know God sent me here)\nFear will make you reveal who you really are\nFeel me God? Be solid, your foes hold you in ill regard\nThis ain't knowledge, this is not intense\nFor honored men, women too\nUs who can see the same thing, but have a different view (Let's go)\nAll of a sudden, frontin' niggas knew you from your past\nGot all kinds of guys sayin' we go way back\nAnd who y'all comparin' me to is nonsense\nShow gratitude in the presence of dominance\n[Chorus: 070 Shake & Nas]\nI think they scared of us, yeah\nI think they scared of us\nI think they scared of us, yeah\nI think they scared\nTo Catholics\u2026\n\n[Verse 2: Nas & Puff Daddy]\nTo Catholics, Moors and Masons (Motherfuckers!)\nJohn Hanson was not the first black pres to make it\nAbe Lincoln did not free the enslaved\nProgress was made 'cause we forced the proclamation\n(Fuck your proclamation!)\nSWAT was created to stop the Panthers\nGlocks were created for murder enhancement\nFor hunting men, circumstances\nEdgar Hoover was black\nWillie Lynch is a myth, Colombians created crack\nThe government made stacks (Welcome to America, niggas!)\nReagan had Alzheimer's, that's true\nFox News was started by a black dude, also true (Fuck you too!)\nConvinced my experiences were meant to be\nHelps me navigate as they validate they treachery\nFelt established, fake as he smile, handshake questionable\n\"Am I good?\" he ask, thinkin', \"But is he testin' you?\"\n(Is he testin' you?) In my hood, fear does a few things\nMake you pussy, make you a snitch\nMake irrational moves or even turn you to food\n[Chorus: 070 Shake & Puff Daddy]\nI think they're scared of us, yeah\nI think they're scared of us\nI think they're scared of us, yeah\nI think they scared\nI think they scared of us, yeah\nI think they scared of us\nSee, we don't care about what you think about us\nI think they scared of us, yeah\nWhat you say about us\nI think they scared\nYou bitch ass, yeah\n[Outro: Puff Daddy]\nAyo, that's why they be killing us and shooting us\nThat's why they feel uncomfortable around us\n'Cause of our greatness\nYou're lucky God made us compassionate\nAnd forgiving\nPssh, man, they scared of us, Nas\nWe see that bitch in your eyes30Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/3780016",
+    "artist_names": "Nas (Ft. Kanye West)",
+    "full_title": "Cops Shot the Kid by\u00a0Nas (Ft.\u00a0Kanye\u00a0West)",
+    "header_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "id": 3780016,
+    "instrumental": false,
+    "lyrics_owner_id": 196603,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1625851735,
+    "path": "/Nas-cops-shot-the-kid-lyrics",
+    "pyongs_count": 16,
+    "relationships_index_url": "https://genius.com/Nas-cops-shot-the-kid-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 6,
+     "day": 15
+    },
+    "release_date_for_display": "June 15, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 167974
+    },
+    "title": "Cops Shot the Kid",
+    "title_with_featured": "Cops Shot the Kid (Ft.\u00a0Kanye\u00a0West)",
+    "updated_by_human_at": 1642209516,
+    "url": "https://genius.com/Nas-cops-shot-the-kid-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/72",
+      "header_image_url": "https://images.genius.com/5a1c57451e9eb6bcf89bf0946ef11a37.640x480x1.jpg",
+      "id": 72,
+      "image_url": "https://images.genius.com/2cb70fed229a26b327c41eda7c8d3eba.750x750x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kanye West",
+      "slug": "Kanye-west",
+      "url": "https://genius.com/artists/Kanye-west"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Cops Shot the Kid Lyrics[Intro: Richard Pryor]\nThe cops used to come around in my neighborhood\n\"Alright, you kids, stop having so much fun, move along!\"\nOh they'd arrest me, you know, especially at night\nThey had a curfew, niggas had to be home at 11, negros, 12\nAnd you'd be trying to get home, doing your crew runs\nAnd they'd always catch you out in front of a store or something\n'Cause you'd be taking shortcuts, right\nCops, \"Ree, put your hands up, black boy!\"\n\n[Chorus: Slick Rick]\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\n[Verse 1: Nas]\nI don't wanna hurt nobody\nWe just came here to party\nSee a few dames, exchange some names\nI'm a top shotta, kid, stay in your lane\nThe cop shot the kid, same old scene\nPour out a little liquor, champagne for pain\nSlap-boxin' in the street\nCrack the hydrant in the heat\nCop cars on the creep\nDoin' they round-ups, we just watch for the sweep\nYeah, it's hotter than July\nIt's the summer when niggas die\nIt's the summer when niggas ride\nTogether we'll be strong, but forever we divide\nSo y'all are blowin' my high\nType of shit that's killin' my vibe\nWhite kids are brought in alive\nBlack kids get hit with like five\nGet scared, you panic, you're goin' down\nThe disadvantages of the brown\nHow in the hell the parents gon' bury their own kids\nNot the other way around?\nReminds me of Emmett Till\nLet's remind 'em why Kap kneels\n[Chorus: Slick Rick]\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nI still hear him scream\n\n[Verse 2: Kanye West]\nStay tuned up and down your timeline\nThis fake news, people is all lyin'\nMoney is bein' made when a mom cries\nWon't be satisfied 'til we all die\nTell me, who do we call to report crime\nIf 9-1-1 doin' the driveby?\nIt's certain things I can't abide by\nI ain't bein' extreme, this is my side\nTalkin' big shit, ready to die\nI know every story got two sides\nClaimin' he paranoid by the black guy\nCop wanna make it home by nighttime\nJust a good kid, he wasn't that guy\nHad a little hit, he wasn't that high\nCop gon' claim that it was self-defense\nSay he was ridin' dirty so the case rests\n[Chorus: Slick Rick & Kanye West]\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013 (workin' nine-to-five)\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013 (tryna stay alive)\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013 (makin' ends meet)\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013 (shot him this week)\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nThe cops shot the kid, the cops shot\u2013\nThe cops shot the kid\nI still hear him scream16Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/3780017",
+    "artist_names": "Nas",
+    "full_title": "White Label by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "id": 3780017,
+    "instrumental": false,
+    "lyrics_owner_id": 5738847,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1658469347,
+    "path": "/Nas-white-label-lyrics",
+    "pyongs_count": 11,
+    "relationships_index_url": "https://genius.com/Nas-white-label-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 6,
+     "day": 15
+    },
+    "release_date_for_display": "June 15, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 104931
+    },
+    "title": "White Label",
+    "title_with_featured": "White Label",
+    "updated_by_human_at": 1658469347,
+    "url": "https://genius.com/Nas-white-label-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "White Label Lyrics[Intro: Mano & Shahram Shabpareh]\nY'all niggas better not be coming around me with that fugazi no more, you know? Got that thang for your ass, you know?\n(I'm gonna, I'm gonna, I'm gonna, I'm gonna, I'm gonna\nI'm gonna have to leave you)\n\n[Verse 1]\nA vet stylin' in Met Gala, tuna salad from La Scala\nBlack sweats, swallow a lot of reefer\nGod, it hard to quit the bottom feeder, lobster eater\nWhen I fast, I see Elijah's features\nA million cash for a Nas feature\nNah it's cheaper, do it for free if you do it for me\n52 bar verse if the beat is movin' me\nStumble through customs, coppin' Cubans at the Duty Free\nLayin' on the most expensive beds, still I'm losin' sleep\nNext to Jet's Beauty of the Week 1993\nChin-grabber, neck-choker, in-her-mouth-spitter\nBlouse-ripper, ass-gripper, that dig-you-out nigga\nI ain't gon' hold you, old head gave me old news\nI don't owe you, shoulda heard when I told you\nYou are an extension of what I've worked hard to build\nYou believe in your own lies, can't be real\nAnd the odds is that what you love can kill you\nLike a heart physician who dies from a heart attack\nI know the consumer behavior, I target that\nYou impressed with what they wearin', I started that\n[Verse 2]\nIt's kinda terrific, the product of Slick Rick\nSomebody woulda told me then I would come outta this shit rich\nAnd start up a business, I woulda thought they was playin'\nAll them niggas I ran with, all that weight they was weighin'\nA light bulb switched in my mind at the classes I cut\nJust a spazz, puttin' wax in the blunt\nThe baddest I want, she wear Lipmatic to front\nWe building businesses, you can be mad if you want\nIt's bubbly 'til it's bubbles we see\nDrinkin' like Dean Martin is nothin' to me\nThe spirits is somethin' I can't part and it's fun to be me\nSo cheers, here's to the Kanye production this eve\nWar of the Roses, it's war, baby\nMy nigga High said it's me, I drive 'em all crazy\n\n[Outro: Shahram Shabpareh]\n(I'm gonna, I'm gonna, I'm gonna\nI'm gonna, I'm gonna, I'm gonna, I'm gonna\nI'm gonna, I'm gonna, I'm gonna)11Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/3780012",
+    "artist_names": "Nas (Ft. The World Famous Tony Williams)",
+    "full_title": "Bonjour by\u00a0Nas (Ft.\u00a0The\u00a0World Famous Tony Williams)",
+    "header_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "id": 3780012,
+    "instrumental": false,
+    "lyrics_owner_id": 5738847,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1592496464,
+    "path": "/Nas-bonjour-lyrics",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Nas-bonjour-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 6,
+     "day": 15
+    },
+    "release_date_for_display": "June 15, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 109687
+    },
+    "title": "Bonjour",
+    "title_with_featured": "Bonjour (Ft.\u00a0The\u00a0World Famous Tony Williams)",
+    "updated_by_human_at": 1629651181,
+    "url": "https://genius.com/Nas-bonjour-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/951",
+      "header_image_url": "https://images.genius.com/8b44326532ec4ac78b39e3061664621d.491x720x1.jpg",
+      "id": 951,
+      "image_url": "https://images.genius.com/dbd48305983ea82a335f011d6966cbb9.491x491x1.jpg",
+      "index_character": "w",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "The World Famous Tony Williams",
+      "slug": "The-world-famous-tony-williams",
+      "url": "https://genius.com/artists/The-world-famous-tony-williams",
+      "iq": 11473
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Bonjour Lyrics[Verse 1: Nas & The World Famous Tony Williams]\n(Bonjour) I should be more mature, sure, I'm spoiled\nHit up the south of France after tour, bonjour (bonjour)\nHow many girls pre-bate right before they date\nSo she can have restraint? She still get slayed (bonjour)\nThat's ill behavior, want the whip matted\nWant her ass the fattest, beat it: Thriller jacket\nA street metaphor: if your dog piss on the floor\nPut his nose in it, check these niggas from the door\n\n[Chorus: The World Famous Tony Williams]\nOooh oooh la la, oui-oui amour\nPlenty of kisses, plein de bisous\nGood day and best wishes\nComment allez-vous?\nBonjour\n[Verse 2: Nas & The World Famous Tony Williams]\nEat at selective kitchens, speak on our next intentions\nOver-creamy Polenta, it come chef recommended (bonjour)\nCome through the side entrance; I arrived, bitches\nCrackheads still owe me from '89 fixes (bonjour)\nHavin' drinks in Vegas, my business\nShe didn't see me comin', now she's an eyewitness\nLaissez le bon temps rouler\nSay ahh so the kids could play\n\n[Chorus: The World Famous Tony Williams]\nOooh oooh la la, oui-oui amour\nPlenty of kisses, plein de bisous\nGood day and best wishes\nComment allez-vous?\nBonjour\n\n[Verse 3: Nas & The World Famous Tony Williams]\nVacation, twisted, whatever happened, missed it\nVacations I didn't like, put myself through a guilt trip (bonjour)\nAll these beautiful places, but the cities be poor\nYou wealthy when your kid's upbringin' better than yours\nAll this money we gettin' could be gone in a minute\nIf we don't invest it\u2014we long-term affected\nWatch who you gettin' pregnant, that's long-term stressin'\nI got a mil for every bump on your face, that's what I call a blessin'\nFlexin'\n[Verse 4: The World Famous Tony Williams]\nMy head looks straight up\nAnd I'm wonderin', \"What did I do?\" (bonjour)\nShe looked at me like, \"Damn, did I surprise you?\"\nSure enough, as the sky's blue, she turned back around\nAnd walked back down the avenue (bonjour)\nShe's waitin' for the right cue (bonjour)\nI'm waitin' for the right clue (bonjour)\n\n[Outro: The World Famous Tony Williams]\n(Oooh oooh la la, oui-oui amour)\nShe be leavin', still I smell of eau de parfum\nShe can't run 'cause I got Cinderella's right shoe\nIn that white gown that I be seein' right through\nCrowd obscurin' my view\nThere's nothin' left to argue (bonjour)\nAt least there's not from my view (bonjour)18Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/3780052",
+    "artist_names": "Nas (Ft. Kanye West & The-Dream)",
+    "full_title": "\u200beverything by\u00a0Nas (Ft.\u00a0Kanye\u00a0West & The-Dream)",
+    "header_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "id": 3780052,
+    "instrumental": false,
+    "lyrics_owner_id": 3795869,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1654779195,
+    "path": "/Nas-everything-lyrics",
+    "pyongs_count": 46,
+    "relationships_index_url": "https://genius.com/Nas-everything-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 6,
+     "day": 15
+    },
+    "release_date_for_display": "June 15, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 253087
+    },
+    "title": "\u200beverything",
+    "title_with_featured": "\u200beverything (Ft.\u00a0Kanye\u00a0West & The-Dream)",
+    "updated_by_human_at": 1654779195,
+    "url": "https://genius.com/Nas-everything-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/72",
+      "header_image_url": "https://images.genius.com/5a1c57451e9eb6bcf89bf0946ef11a37.640x480x1.jpg",
+      "id": 72,
+      "image_url": "https://images.genius.com/2cb70fed229a26b327c41eda7c8d3eba.750x750x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kanye West",
+      "slug": "Kanye-west",
+      "url": "https://genius.com/artists/Kanye-west"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/1181",
+      "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+      "id": 1181,
+      "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "The-Dream",
+      "slug": "The-dream",
+      "url": "https://genius.com/artists/The-dream",
+      "iq": 12847
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "\u200beverything Lyrics[Pre-Chorus: Kanye West & The-Dream]\nYou'll live, and you'll learn\nSee 'cause you've never been the same as anyone else\nDon't think the same as everyone else\nYou'll love, and you'll learn\nSee you'll never conclude with anyone else\nDon't think the same as everyone else\n\n[Chorus: Kanye West]\nIf I had everything, everything\nI could change anything\nIf I changed anything, I mean anything\nI would change everything, oh yeah\n[Post-Chorus: The-Dream & Kanye West]\nDark boy, don't you cry\nThere's too much life left in those eyes\nDon't you let that face go waterfall\nDon't you learn to love your scars and all?\nDark boy, don't you die\nThey're just human, let them lie\nYou just know your world and speak your truth\nLet them come to you\nFor you'll love, in your heart\nSee 'cause you've never been the same as anyone else\nDon't think the same as everyone else\nThis is your call, there are no wrongs\nSee you'll never conclude with anyone else\nDon't think the same as everyone else\n\n[Chorus: Kanye West]\nIf I had everything, everything\nI could change anything, I could change anything\nIf I changed anything, I mean anything\nI would change everything, oh yeah\n\n[Verse 1: Nas]\nWhen the media slings mud, we use it to build huts\nIrrefutable facts, merciful, beautiful black beloved brother\nYou fail to embarrass him, harassin' him\nTo my life, your life pales in comparison\nSo go write whatever blog, messiness is not ever the God\nDo what's necessary, I'm never worried\nListen vultures, I've been shackled by Western culture\nYou convinced most of my people to live off emotion\nThat's why we competin', death by the chrome barrel\nForgot the secrets, my Kilimanjaro bone marrow's the deepest\nYou can peep at the comments, but don't fall for that\nWe want freedom, I'm a scholar; an almanac\nPeople do anything to be involved in everything\nInclusion is a hell of a drug\nSome people have everything they probably ever wanted in life\nAnd never have enough\n[Chorus: Kanye West]\nIf I had everything, everything\nI could change anything\nIf I changed anything, I mean anything\nI would change everything, oh yeah\n\n[Verse 2: Nas]\nFrom the birth of a child, the world is foul\nExcursions of a searchin' child\nShould learn to take nothin' personal\nA parent hates to watch his baby's face\nTakin' his first immunization shots, but this is great\nThe child's introduction to suffering and pain\nUnderstands without words, nothin' is explained\nOr rushed to the brain, lookin' up at his parents' face\nLike, \"I thought you would protect me from this scary place?\"\n\"Why'd you let them inject me?\"\n\"Who's gonna know how these side effects is gonna affect me?\"\nWho knew I would grow to meet presidents that respect me?\nIf Starbucks is bought by Nestl\u00e9, please don't arrest me\nI need to use your restroom and I ain't buy no espresso\nSoon enough, assume the cuffs, the position\nNot new to us, since back on the bus sittin'\nSaid, \"Screw that bus!\" \u2013 boycotted that bus outta business\nThe future's us, yet every citizen's in prison\n[Chorus: Kanye West]\nIf I had everything, everything\nI could change anything\nIf I changed anything, I mean anything\nI would change everything, oh yeah\n\n[Verse 3: Nas]\nWatch me as I walk through the folly, golly, New York to Saudi\nIn Italy, I'm Eduardo Baccari\nBut Nasty the hustler, nasty like mustard gas, sulfur\nAnd I could sell Alaska to Russia, no pressure\nMy first house, 11,000-square-feet mansion\nIt was a haunted by dead rich whites\nMad a nigga bought his crib to hang up pictures of black Christ\nCircular driveways, black cars and black ice\nMy second house, still in my twenties, illin' with money\nChilled through my spine, spillin' wine, it's funny\nDid good for a staircase loiterer, euphoria\nWhat you saw when you seen a teen turn to a warrior\nDid every Fourth of July, bustin' in the sky\nIt was important to a guy who was mob-minded\nFuture Murci\u00e9lago driver 'til Lambos got average on me\nI started likin' the look like I ain't had no money\nYellow taxi seats over Maybach seats\nJust to remind me, just to inspire me\nTo stay focused, it's a real sick society\nJust 'cause I got your support don't mean you're buyin' me\nI'm buyin' back the land owned by the slave masters\nWhere my ancestors lived, just to say a rapper\nMade a change, the pants-sagger put plans in action\nTo lay claim the Pan-African made it happen\n\n[Pre-Chorus: Kanye West and The-Dream]\nYou'll live, and you'll learn\nSee 'cause you've never been the same anyone else\nDon't think the same as everyone else\nYou'll live, and you'll learn\nSee you'll never conclude with anyone else\nDon't think the same as everyone else\n\n[Chorus: Kanye West]\nIf I had everything, everything\nI could change anything\nIf I changed anything, I mean anything\nI would change everything, oh yeah\n\n[Post-Chorus: The-Dream & Kanye West]\nDark boy, don't you cry\nThere's too much life left in those eyes\nDon't you let that face go waterfall\nDon't you learn to love your scars and all\nDark boy, don't you die\nThey're just human, let them lie\nYou just know your world and speak your truth\nAnd let them come to you\nFor you'll love, in your heart\nSee 'cause you've never been the same as anyone else\nDon't think the same as everyone else\nThis is your call, there are no wrongs\nSee you'll never conclude with anyone else\nDon't think the same as everyone else46Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 33,
+    "api_path": "/songs/3780008",
+    "artist_names": "Nas (Ft. The-Dream)",
+    "full_title": "Adam and Eve by\u00a0Nas (Ft.\u00a0The-Dream)",
+    "header_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "id": 3780008,
+    "instrumental": false,
+    "lyrics_owner_id": 3795869,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1643261066,
+    "path": "/Nas-adam-and-eve-lyrics",
+    "pyongs_count": 33,
+    "relationships_index_url": "https://genius.com/Nas-adam-and-eve-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 6,
+     "day": 15
+    },
+    "release_date_for_display": "June 15, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 237958
+    },
+    "title": "Adam and Eve",
+    "title_with_featured": "Adam and Eve (Ft.\u00a0The-Dream)",
+    "updated_by_human_at": 1643261067,
+    "url": "https://genius.com/Nas-adam-and-eve-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1181",
+      "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+      "id": 1181,
+      "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "The-Dream",
+      "slug": "The-dream",
+      "url": "https://genius.com/artists/The-dream",
+      "iq": 12847
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Adam and Eve Lyrics[Verse 1: Nas]\nThe ghetto Othello, the Moor\nOh my God, they speak venomous on the boy\nOh my Lord, my enemy is fear, and I'm sure\nOh my God, they want the end of me 'cause I'm pure\nOh my Lord, discipline for the win, I just go for it\nIt's a trend for these men to die on their own sword\nJourney far, learn who you can be\nBut you can learn who you are when you around family\nChip off the shoulders of soldiers, on they grizzle\nMy granddaddy Mack Little married Nannie Little\nThey passed down wisdom, blessings were given\nPray my sins don't get passed to my children\nI made a killin', I'm alive like the morning star\nCourt Jordan's for the price on stock, so what the Hornets are?\nI need evaluations, I'm savvy, y'all\nEatin' foie gras and caviar, listen\n[Chorus: The-Dream]\nAdam and Eve\nDon't fall too far from the apple tree, ayy\nAdam and Eve, Adam and Eve\nDon't fall too far from the apple tree, apple tree\n\n[Verse 2: Nas]\nThe ghosts of gangsters dance\nChinchillas shake on the hanger, the force of this banger\nYeah, my language advanced, my cadence amazin'\nThe voice triggers somethin', what is this conundrum?\nThe clouds scurry, your spirit rumble, a boyish smile\nStill puff the loud, it's nothin' less than a quarter pound\nSavage narrative, every verse that I write bursts light\nBrings awareness to my personal life\nAfter my morning walk, Havana cigar, the ganja spark\nSee my doctor more, sweat in the sauna or the spa\nSpendin' fifty large at the Bellagio\nSpent twenty on a bad bitch I hardly know\nNew girl every night, two girls was every other night\nSexual addiction, gangster tradition\nThey wanna fuck me, have me under they belt, slightly offended\nYeah, that's how I felt, that's how it ended\nI'm just good at existin', existin' in my truth\nAs long as I enjoy the fruit, yeah\n[Chorus: The-Dream]\nAdam and Eve\nDon't fall too far from the apple tree, ayy\nAdam and Eve, Adam and Eve\nDon't fall too far from the apple tree, apple tree\n\n[Verse 3: Nas]\nWhat come first, peace or the paper?\nBefore I had a piece of paper, peace was in my favor\nBefore I sat to eat at the table, it had leeches and traitors\nCut the fat from the meat, extract the weak, bon appetit\nNo bacon, brothers is swine\nIt's so hard to trust 'em 'cause my hustle is mine\nIt's evident they all the same, with gray hair and still mean muggin'\nGray hairs of wisdom, that means you seen somethin'\nSay somethin', you stay frontin'\nBut these clowns got false crowns, fictitional kings\nYou broke my heart, Fredo\nYou bring this thing of ours down to a fable\nBe advised my guys dyin', enterprisin' at a boss's table\nThere's always room at my table\nInsecurities is keepin' you disabled\nAll this money to get, is there less time?\nThey ain't stopped printin' money, 'cause they made mine\nI learned to stretch time, these are the best times\nI'm in my neighborhood in stadiums, the Mets' kind\nWith restaurants and Carbone, spicy rigatoni\nGo hard, a red Bordeaux, oh God\n[Chorus: The-Dream]\nAdam and Eve\nDon't fall too far from the apple tree, ayy\nAdam and Eve, Adam and Eve\nDon't fall too far from the apple tree, apple tree33Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/3780010",
+    "artist_names": "Nas",
+    "full_title": "Simple Things by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "id": 3780010,
+    "instrumental": false,
+    "lyrics_owner_id": 3795869,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1598086106,
+    "path": "/Nas-simple-things-lyrics",
+    "pyongs_count": 11,
+    "relationships_index_url": "https://genius.com/Nas-simple-things-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 6,
+     "day": 15
+    },
+    "release_date_for_display": "June 15, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a9abb4468d35dbcbb121cd5e44c6c989.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 83507
+    },
+    "title": "Simple Things",
+    "title_with_featured": "Simple Things",
+    "updated_by_human_at": 1629651698,
+    "url": "https://genius.com/Nas-simple-things-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Simple Things Lyrics[Intro: Justin Vernon sample]\nAnd I know where I'm going to\n\n[Verse 1: Nas]\nI'm lookin' in Longevity's eyes\nI play with Infinity's mind, Forever's my guy\nMy pedigree, above your ass, you'll never see I\nI love the past, but see where I'm goin', I get to fly\nNever sold a record for the beat, it's my verses they purchase\nWithout production I'm worthless\nBut I'm more than the surface\nWant me to sound like every song on the Top 40\nI'm not for you, you not for me, you bore me\nI drop lines prestigious schools read to their students\nLook at my album plaques, somebody agrees with the music\nWas lovin' women you'll never see\nAll you know's my kids' mothers, some celebrities\nDamn, look at the jealousy!\nLucky me, I meet some beauties\nMake you wanna shoot me\nHate to brag, my worst batch kills off your best cutie\nFacts is deep, we break up, they hook up with athletes\nGet married 'cause we wasn't that match, my G\nDon't attach me to the games, I'm lucky, I'm blessed\nOne of my exes could be your next, dog\u2014trust me, don't test\n[Chorus: Nas]\nIt's the simple things in life, simple things in life\nSimple things in life, simple things in life\nIt's the simple things in life, simple things in life\nSimple things in life, simple things in life\n\n[Verse 2: Nas]\nRollin' dice, throw no aces\nWith my gangsters, we discussin' buyin' acres\nOther safe bets, nothin' regular or basic\nRidin' back to back, me and Jungle in some spaceships\nWhere the squad at?\nYou can see us on the ave, chop it up as always\nStand up Queensbridge, now the world know us\nEverybody sayin' my humility's infectious\nI just want my kids to have the same peace I'm blessed with11Embed"
+   }
+  }
+ ]
+}

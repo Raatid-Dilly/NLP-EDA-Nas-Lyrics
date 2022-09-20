@@ -1,0 +1,886 @@
+{
+ "_type": "album",
+ "api_path": "/albums/333386",
+ "cover_art_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+ "full_title": "Distant Relatives by Nas & Damian Marley",
+ "id": 333386,
+ "name": "Distant Relatives",
+ "name_with_artist": "Distant Relatives (artist: Nas & Damian Marley)",
+ "release_date_components": {
+  "year": 2010,
+  "month": 5,
+  "day": 18
+ },
+ "url": "https://genius.com/albums/Nas-and-damian-marley/Distant-relatives",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/2397167",
+  "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+  "id": 2397167,
+  "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Nas & Damian Marley",
+  "slug": "Nas-and-damian-marley",
+  "url": "https://genius.com/artists/Nas-and-damian-marley"
+ },
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 53,
+    "api_path": "/songs/1027",
+    "artist_names": "Nas & Damian Marley",
+    "full_title": "As We Enter by\u00a0Nas\u00a0& Damian Marley",
+    "header_image_thumbnail_url": "https://images.genius.com/d94dd4e8a7dec9a0a6fbbd9e566ea364.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d94dd4e8a7dec9a0a6fbbd9e566ea364.500x500x1.jpg",
+    "id": 1027,
+    "instrumental": false,
+    "lyrics_owner_id": 680,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1640207962,
+    "path": "/Nas-and-damian-marley-as-we-enter-lyrics",
+    "pyongs_count": 25,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-as-we-enter-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 2,
+     "day": 23
+    },
+    "release_date_for_display": "February 23, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d94dd4e8a7dec9a0a6fbbd9e566ea364.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d94dd4e8a7dec9a0a6fbbd9e566ea364.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 93026
+    },
+    "title": "As We Enter",
+    "title_with_featured": "As We Enter",
+    "updated_by_human_at": 1640207962,
+    "url": "https://genius.com/Nas-and-damian-marley-as-we-enter-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "As We Enter Lyrics[Produced by Damian Marley]\n\n[Verse 1: Damian Marley & Nas]\nAs we enter\nCome now, we take you on the biggest adventure\nMust be dementia\nThat you ever thought you could touch our credentials\nWhat's the initials?\nQ.B., Jamrock\u2014the lyrical official\nSend out the order, laws and the rituals\nBurn candles, say prayers, paint murals\nIt is truth, we big news, we hood heroes\nBreak past the anchor, we come to conquer\nMan a badman, we no play Willy Wonka\nAnd I got the guns, I got the ganja\nAnd we could blaze it up on your block if you wanna\nOr haze it up, stash-box in a Hummer\nOr you could run up and get done up\nOr get somethin' that you want none of\nUnlimited amount you collect from us\nDirect from us, street intellectuals\nAnd I'm shrewd about decimals\nAnd my man'll speak Patois, and I can speak rap star\nY'all feel me even if it's in Swahili\nHabari Gani, Mzuri Sana\nSwitch up the language, I move through Ghana\nSalute and honor, real revolution rhymers\nRhythm piranhas like two Obamas, unfold the drama\n[Hook: Nas]\nWord is out, hysteria you heard about\nNas and Jr. Gong gonna turn it out\nBody the verse until they scream \"murder\" out\nThe kings is back, time to return the crown\nWho want it? Tuck your chain when dude comin'\nRenegades that'll peel you back like new hundreds\nBet your jewels on it, you don't want to lose on it\nEither move on or move on it\n\n[Verse 2: Damian Marley & Nas]\nQueens to Kingston\nGunshot we use and govern the kingdom\nRise of the Winston, I can see the fear up in your eyes\nRealize you can die any instant\nAnd I can hear the sound of your voice\nWhen you must lose your life like mice in the kitchen\nSnitchin', I can see him pissin' on hisself\nAnd he's wettin' up his thighs and he tryin' to resist it\nSwitchin', I can smell him diggin' up shit like a fly\nCome around and be persistent\nThat's how you end up in a hit list\nIn a badman business\nNo evidence, crime scene fingerprint-less\nFlow effortless, casual like the weekends\nNo pressure when we're comfy and decent\nWe set this off beastin', huntin' season\nAnd, frankly speakin'\n[Hook: Nas]\nWord is out, hysteria, you heard about\nNas and Jr. Gong came to turn it out\nBody the verse until they scream \"murder\" out\nThe kings is back, time to return the crown\nWho want it? Tuck your chain when dude coming\nRenegades that'll peel you back like new hundreds\nBet your jewels on it, you don't want to lose on it\nEither move on or move on it\nWord is out, hysteria you heard about\nNas and Jr. Gong came to turn it out\nBody the verse until they scream \"murder\" out\nThe kings is back, time to return the crown\nWho want it? Tuck your chain when dude coming\nRenegades that'll peel you back like new hundreds\nBet your jewels on it, you don't want to lose on it\nEither move on or move on it25Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 39,
+    "api_path": "/songs/3237",
+    "artist_names": "Nas & Damian Marley (Ft. K'naan)",
+    "full_title": "Tribes at War by\u00a0Nas\u00a0& Damian Marley (Ft.\u00a0K'naan)",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 3237,
+    "instrumental": false,
+    "lyrics_owner_id": 7,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1638121284,
+    "path": "/Nas-and-damian-marley-tribes-at-war-lyrics",
+    "pyongs_count": 12,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-tribes-at-war-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 63363
+    },
+    "title": "Tribes at War",
+    "title_with_featured": "Tribes at War (Ft.\u00a0K'naan)",
+    "updated_by_human_at": 1638121285,
+    "url": "https://genius.com/Nas-and-damian-marley-tribes-at-war-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/481",
+      "header_image_url": "https://images.genius.com/4634f896aca5f8d69b86db7996d7e28f.706x880x1.jpg",
+      "id": 481,
+      "image_url": "https://images.genius.com/654caba7c794fe0ca96931118286b131.514x514x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "K\u2019naan",
+      "slug": "Knaan",
+      "url": "https://genius.com/artists/Knaan"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Tribes at War Lyrics[Refrain: Damian Marley]\nTribal war, we nah want no more a dat\nEvery man deserve to earn\nAnd every child deserve to learn, now\nTribal war, a nuh dat we a defend\nEvery man deserve a turn like a flame deserve to burn\nTribal war, a nuh dat we a defend\nEach and every man deserve to earn\nAnd every child deserve to learn\nTribal war, a nuh dat we a defend\nEvery man deserve a turn, like Babylon deserve to burn\n[Verse 1: Nas]\nMan what happened to us?\nGeographically they moved us from Africa\nWe was once happiness-pursuers\nNow we back stabbing, combative and abusive\nThe African and Arab go at it they most Muslim\nUsed to be moving in unison, disputes would end\nBounty hunters and grape street get cool again\nSub-standard housing, got the young running rampant\nWilding, for a Phantom he can style in\nMask on his face, grabbing his Ruger\nSaying nobody move or I'll shoot you\nMan you're expiring, catch 25 and he does it like a man\nHe sides with black, white pride and Mexican\nSurvive the best he can, strap a shank to his thigh\nWhy do we all collide? Why do the young die?\nExtortion, murder and burglary, tattoos his chest\nSays his enemies don't deserve to breathe\n[Refrain: Damian Marley]\nTribal war, we nah want no more a dat\nEvery man deserve to earn\nAnd every child deserve to learn, now\nTribal war, a nuh dat we a defend\nEvery man deserve a turn like a flame deserve to burn\nTribal war, a nuh dat we a defend\nEvery man deserve a turn\nAnd every child deserve to learn\nTribal war, a nuh dat we a defend\nEvery man deserve a turn, like Babylon deserve to burn\n[Verse 2: K'Naan]\nI drink poison then I vomit diamonds\nI gave you Mandela, black Dalai Lamas\nI gave you music, you enthused in my kindness\nSo how dare you reduce me to Donny Imus\nTimeless in case we never been acquainted\nFlyness who made it, it gets duplicated\nMindless violence, well let me try to paint it\nHere's the 5 steps in hopes to explain it\nONE: It's me and my nation against the world\nTWO: Then me and my clan against the nation\nTHREE: Then me and my fam' against the clan\nFOUR: Then me and my brother we no hesitation, uh\nGo against the fam' until they cave in\nFIVE: Now who's left in this deadly equation?\nThat's right, it's me against my brother\nThen we point a Kalashnikov and kill one another\n[Refrain: Damian Marley]\nTribal war, we nah want no more a dat\nEvery man deserve to earn\nAnd every child deserve to learn, now\nTribal war, a nuh dat we a defend\nEvery man deserve a turn like a flame deserve to burn\nTribal war, a nuh dat we a defend\nEvery man deserve a turn\nAnd every child deserve to learn\nTribal war, a nuh dat we a defend\nEvery man deserve a turn, like Babylon deserve to burn\n[Verse 3: Damian Marley]\nMan a war tribal over colors\nOver money, over land, and over oil, and over god\nAnd over idols, and even lovers\nOver breakfast, over dinner, over suppers\nOver jungle, over rema, over buckers\nOver Brooklyn, over Queens, and over Rutgers\nOver red, and over blue, and over chuckers\nOver red and over blue and under covers\nTribal trouble, the drive-bys double\nCause the youth dem nah go war and go fight with knuckle\nThe two sides scuffle\nVietnam nah go a war with no more kung fu nun chuckle\nMissile and shuttle\nAnd the Queen of England and Uncle Sam\nDem a flex dem muscle\nThe tribal hustle, blood diamond puddle, survival struggle12Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 59,
+    "api_path": "/songs/473",
+    "artist_names": "Nas & Damian Marley",
+    "full_title": "Strong Will Continue by\u00a0Nas\u00a0& Damian Marley",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 473,
+    "instrumental": false,
+    "lyrics_owner_id": 157,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1594427684,
+    "path": "/Nas-and-damian-marley-strong-will-continue-lyrics",
+    "pyongs_count": 13,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-strong-will-continue-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 4,
+     "day": 13
+    },
+    "release_date_for_display": "April 13, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 131384
+    },
+    "title": "Strong Will Continue",
+    "title_with_featured": "Strong Will Continue",
+    "updated_by_human_at": 1600108641,
+    "url": "https://genius.com/Nas-and-damian-marley-strong-will-continue-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Strong Will Continue Lyrics[Intro: Nas]\nAll I do is stay focused\nLooking straight forward at the world and beyond\nI feel people pulling me down\nI feel some pulling me up\nI can't get stuck\nI just keep moving forward\nI got places to go man\nLet's go\n\n[Chorus: Damian Marley]\nWhen the armageddon's dark and dread\nA lot of weak hearted weep and moan\nOnly the strong will continue\nDo you have it in you?\nCome, we've got a journey to go\nAnd when the battle get sour and dread\nA lot of weak hearted wither and  moan\nOnly the strong will continue\nI know you have it in you\nI know you have it in you\n[Verse 1: Damian Marley]\nHey, the victory's found in truth\nLike innocence found in youth\nSelf defeat is your own dispute\nAnd man, you put yourself in your own shoes\nEither you're winning or losing\nDon't you get it confused\nPlay a star and you know your own movie\nPlaying of the role you choose, so\nStand up and fight if you know that you're right\nAnd know you will never fail\nTipping the scale and the wind shall prevail\nAnd the boat shall forever sail\nHey, there ain't no stopping or cruising\nEven when you're battered and bruised\nOutrun all the sprinters on Mount Olympus\nMy God's tougher than Zeus\n\n[Chorus: Damian Marley (Nas)]\nWhen the Armageddon's dark and dread\n(I get up and make it happen)\nA lot of weak hearted wither and moan\n(I get up and we get it cracking)\nOnly the strong will continue\nDo you have it in you?\nCome, we've got a journey to go\nAnd when the battle get sour and dread\n(I get up and I get it going)\nA lot of weak hearted wither and moan\n(We get up and we keep it flowing)\nOnly the strong will continue (yeah)\nI know you have it in you (yeah, yeah)\nI know you have it in you\n[Verse 2: Nas]\nAs I walk through the valley of the shadow of death\nNew York to Cali, for the money, power, respect\nIt's a journey, some'll get left behind\nCause in life, you cannot press rewind\nGet it right, you only have one first chance\nTo make one first impression that lasts a lifetime\nReputation supersedes itself\nDo you believe in Hell? Babylon greed for wealth\nDo you deceive yourself and let your ego swell?\nAnd disregard those who most need your help\nThick skin, the dark won't take my soul\nSurvive spiritual wars, see my welts\nAnd the evil's felt, but the faith is stronger\nI saw grown men fall when I was a youngster\nBut I clench my fists, ready to go against whoever\nTie my Timbs and rise in the end\n[Chorus: Damian Marley (Nas)]\nWhen the armageddon's dark and dread\n(I get up and make it happen)\nA lot of weak hearted weep and moan\n(I get up and we get it cracking)\nOnly the strong will continue\nDo you have it in you?\nCome, we've got a journey to go\nAnd when the battle get sour and tread\n(I get up and I get it going)\nA lot of weak hearted wither and moan\n(We get up and we keep it flowing)\nOnly the strong will continue (yeah)\nI know you have it in you (yeah, yeah)\nI know you have it in you\n[Verse 3: Damian Marley]\nNo man live forever, but never say never\nEvery good he want better, must be a go getter\nAnd always be clever in every endeavor\nCause drastic time call for drastic measure\nYuh birthright to pleasure From yuh navel string sever\nThe land and the treasure, work for whatever\nJah said don't be a beggar, the Alpha Omega\nWill bless every soul no matter which name you prefer\nThe immortal stepper, believe in every skin no matter which color they are\nWe never let we don't know here which kind of weather\nYou're destined to rise like the Son of Rebecca\nDon't stop for a second\nEveryone reckon, it sure would be good to be there\nWhether Zion or Mecca\nWhen the gates are finally closed\nAnd the saints go marching in\n\n[Chorus: Damian Marley & (Nas)]\nWhen the armageddon's dark and dread\nA lot of weak hearted weep and moan\nOnly the strong will continue\nDo you have it in you?\nCome, we've got a journey to go\nAnd when the battle get sour and dread\nA lot of weak hearted wither and  moan\nOnly the strong will continue\nI know you have it in you\nI know you have it in you\n\n\n[Verse 4: Nas]\nI'm a street lifer\nAlways harrassed by the cee cyphers\nChief like Geronimo with his peace pipe\nI emerged from the street life\nThis for the homies who relate\nKnow what it be like\nMy QB life takin' a turn to the Louis XIII life\nTwisted and mangled sort of like Bruce Lee life\nCursed with his son Brandon\nIf that's you and me, Knight, I pray our fates greater\nI speak life I still matter as a rapper, not doubtin'\nEven Toni Braxton signed a deal with Craig Kallman\nHow in, the hell am I supposed stay comfy\nWhen I pay child support, alimony monthly?\nGot Maseratis and Ferraris\nOnly like a woman who's a rider, But only ho's want me\nSingle life crazy, niggas wives on me\nI say stay faithful, they say their man corny\nSo I'm, stuck with a married woman\nSo fine, cheatin while they husband\nRushing on the 40-yard line, wonder if\nThis is what my ex did the whole time\nGood niggas seem to always end up\nWith some hard times, hope not\nIf a pimp slippin and a ho plot\nAin't nothin to a G in a two-tone drop, kid\nAnd it don't stop, See a nigga dissapearin\nWith the baddest honeys in the whole spot, yeah13Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 37,
+    "api_path": "/songs/34776",
+    "artist_names": "Nas & Damian Marley (Ft. Stephen Marley)",
+    "full_title": "Leaders by\u00a0Nas\u00a0& Damian Marley (Ft.\u00a0Stephen\u00a0Marley)",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 34776,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1616743535,
+    "path": "/Nas-and-damian-marley-leaders-lyrics",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-leaders-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 44946
+    },
+    "title": "Leaders",
+    "title_with_featured": "Leaders (Ft.\u00a0Stephen\u00a0Marley)",
+    "updated_by_human_at": 1616743535,
+    "url": "https://genius.com/Nas-and-damian-marley-leaders-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2361",
+      "header_image_url": "https://images.genius.com/7e10a474f32540f5ec57ca31972821a0.630x420x1.jpg",
+      "id": 2361,
+      "image_url": "https://images.genius.com/7e10a474f32540f5ec57ca31972821a0.630x420x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Stephen Marley",
+      "slug": "Stephen-marley",
+      "url": "https://genius.com/artists/Stephen-marley"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Leaders Lyrics[Chorus: Stephen Marley]\nThis one's for all the leaders\nLeader\nLets all change the world\nChange\nThe world\nThis one's for all the leaders\nLeader\nLets all change the\nWorld\nChange the world\n[Verse 1: Nas]\nYeah!\nGot out the 600, blunted\nChicks hunt him\nNeighborhood know he comin'\nJake hate him, snakes could not violate him\nPimps memorize his lines verbatim\nHe reps N.Y., yo\nGives C-notes to winos\nNot church, it's how he tithe though\nHe walks the tenement\nSleeps at his super fly condo\nMy kinda nigga, my Icon, my idol\nNo certificate for this misfit who handle business\nThe odds stacked against him\nHe fights back mackin' Benzes\nNever puts cash or ass before friendship\nHe laughs last?\nAs some die young, he is still existin'\nSomehow he got around the pitfalls of the system\nWhen he walks, we watch\nWhen he talks, we listen\nLeaders\n\n[Chorus: Stephen Marley]\nThis one's for all the leaders\nLeader\nLets all change the world\nChange the world\nThis one's for all the leaders\nLeader\nLets all change the world\nChange the world\n[Verse 2: Damian Marley]\nWho do I follow?\nWho do I copy?\nLook in to the mirror, and it's you I see look at me\nEverything new like it fresh from the factory\nEverything you do? It impact me\nYour lifestyle attract me\nParents try distract me\nWhen I grow up, I want to be like you exactly\nAnd as soon as I get over this acne\nThere's no way anybody coulda stop me\nMe gravitate toward the aura\nAnd all the mannerism\nThe sendin' out of orders\nAnd man start movin' busy\nThe lockin' of the corners?\nThe streets and all the buildings\nMi love you like a father\nMi ready and mi willin'\nAnything what you a talk is law in my dominion\nAnd mi have similar thoughts, I share the same opinions\nMi have it say you smart\nWith mi best interest at heart\nI'm followin' your path\nYow mine whe you a walk\n[Chorus: Stephen Marley]\nThis one's for all the leaders\nLeader\nLets all change the world\nChange the world\nThis one's for all the leaders\nLeader\nLets all change the world\nChange the world\n\n[Verse 3: Nas]\nThey appeal to the conscious\nThe Paramount, the Caesar, the monsters\nThe grandiose, the martyrs\nThe hell on earth pompous\nEllsworth Bumpy Johnsons\nThe Harlemites, the Garveyites\nBlack as the credit card we swipe\nPoppin' Dom tonight\nFor all of mine\nI can see myself back at the Autobahn\nMalcolm on the podium, shells drop to linoleum\nSwipe those, place 'em on display at the Smithsonian\nNext to only gems that were left behind by holy men\nInfectious charisma of those who gave us direction\nThe anti-sexists\nResistance against oppression\nProgressive thinkin'\nGhetto speakers\nProtestors against the colored\nOnly section to the Jena 6 and\nThe Frost Nixon\nThe contradiction\nThe cross, the crucifixion\nThe loss we took for sinnin'\nOn Esau's back inscription\nThat it was written\nThat nothing is coincidence'n\nThey took our leaders and they lynched them\n\n[Chorus: Stephen Marley]\nThis one's for all the leaders\nLeader\nLets all change the world\nChange the world\nThis one's for all the leaders\nLeader\nLets all change the world\nChange the world\nChange the world, change the world\nChange the world\nChange the world, change the world\nYou change the world5Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 27,
+    "api_path": "/songs/34774",
+    "artist_names": "Nas & Damian Marley",
+    "full_title": "Friends by\u00a0Nas\u00a0& Damian Marley",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 34774,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1630637317,
+    "path": "/Nas-and-damian-marley-friends-lyrics",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-friends-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 125751
+    },
+    "title": "Friends",
+    "title_with_featured": "Friends",
+    "updated_by_human_at": 1630637317,
+    "url": "https://genius.com/Nas-and-damian-marley-friends-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Friends Lyrics[Produced by Damian Marley]\n[Chorus 1: African Sample]\n\n[Verse 1: Damian Marley]\nThese later days in Babylon as I watch your children grow\nAnd the years them carry on and I miss you even more\nStill I send them go to school and tell them\nWhat dem fi know\nAll of mi friend dem mi salute, Daddi gon Lenny Screw\nAnother year has come and past, man a drop like morning dew\nUncle Warrick sick and gone when him couldn't catch a flu\nPicka T you a mi don, respect long and overdue\nWhen nothing never did a gwan you still have on somethin' new\nOur friendship ever last all when one minus from few\nYes we surely had a blast, we're like family me and you\nA nuh every path you cross lead to somebody whe true\nOf the many that are called only chosen is a few\n[Chorus 2: Damian Marley]\nOf the real friends that serve you long\nYour memories might fade\nYour real friends will serve you long\nSunshine or rain\nYour real friends will serve you long\nAcquaintances will fade\nYour real friends won't do you wrong\nReal friend don't change\n\n[Verse 2: Nas]\nOnly talking with winners, a loser or two got my number\nStill they think they real but they just really awfully bitter\nSalty niggas hate the smarter ones, these are the doubters\nWho sour 'bout my run, I barely made it out the slums\nMy value high 'cause I do more than rap about a gun\nI made money for niggas, y'all never looking out for none\nI helped millionaires get to that very position\nSome real millionaires see that's ill 'cause look at statistics\nReal millionaires and I ain't talking ghetto riches, thorough business\nYou mistreating niggas, heard your folks bleed in prison\nYou ain't a G and if you was I don't recall\nWho would roll with y'all, bunch of fucking know it  alls who's dough is small\nLook what's it come to our rapport's good no more\nWe was good before till I saw what type a dude you took me for\nWe had a chance to take paper down, what I took was more\nBecause of hatred, opportunity wasted\n[Chorus 3: Damian Marley]\nYour real friends will serve you long\nYour car and clothes will fade\nYour real friend won't do you wrong\nReal friend don't change Eh\n\n[Verse 3: Damian Marley]\nYour real friend won't run in war nuh care what the cost is\nYou real friends are in for all the wins and the losses\nFi Real! No question at all them ready fi rise the tallest\nTake to the enemies all for one and one for all this\nReal friend will hear you out, no secret feelings\nReal friends won't sell you out, no bargain pleading\nFor real, always looking out a meal\nWhen outside a drought your real friend won't hide you out, no\n\n[Chorus 4: Damian Marley]\nYour real friends will serve you long\nWhen all else fails\nYour real friend won't do you wrong\nReal friend don't change\n\n[Verse 4: Nas]\nMay laughter from backstabbers turn to tears faster\nI wish for you no snake shall slither past ya you have to\nKeep your vision clear cause only a coward lives in fear\nMy surroundings got only real powerful niggas here\nReal men we have a code of ethics, no question\nNo jealousies, no feminine tendencies, we expecting\nNo gossip, no phony logic, no counting your homey pocket\nSpare no expense for legal defense if your homey locked up\nNo keeping tabs on who was the last who looked out\nSelfishness that's a character flaw, no holding out\nYo what happened to the honor, you're dealing withsensitive Primadonna drama\nTeflon love for my dudes who solid\n[Chorus 5: Damian Marley]\nYour real friends will serve you long\nYour memories might fade\nYour real friends will serve you long\nSunshine or rain, eh\nYour real friends will serve you long, woe ya woe\nWhen all else fails\nYour real friends won't do you wrong\nReal friend don't change\n\n[Bridge: Damian Marley]\nNow plentiful\nOr scantily\nMy cup be full\nOr emptily\nWith arm in arms\nWe'll all trod on\nThrough destiny\nA friend that's true\nIs there for me\nRespect is due\nThey care for me\nShould I be down\nOr even out\nThey're next to me\nHey\n\n[Outro: Damian Marley]\nYour real friends will serve you long\nYour memories might fade\nYour real friends will serve you long\nSunshine or rain, hey\nYour real friends will serve you long, woe ya woe\nWhen all else fails\nReal friends won't do you wrong\nReal friend don't change\nReal friend don't change\nReal friend don't change\nReal friend don't change\nReal friend don't change6Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 27,
+    "api_path": "/songs/34773",
+    "artist_names": "Nas & Damian Marley",
+    "full_title": "Count Your Blessings by\u00a0Nas\u00a0& Damian Marley",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 34773,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1622433675,
+    "path": "/Nas-and-damian-marley-count-your-blessings-lyrics",
+    "pyongs_count": 9,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-count-your-blessings-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 42976
+    },
+    "title": "Count Your Blessings",
+    "title_with_featured": "Count Your Blessings",
+    "updated_by_human_at": 1622433675,
+    "url": "https://genius.com/Nas-and-damian-marley-count-your-blessings-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Count Your Blessings Lyrics[Hook: Damian Marley]\nAnd I've got studios to voice in\nAnd I've got news for rejoicing\nNow a new sun is rising\nI count my blessings\nThat I'm safe when I'm resting\nFurniture in my nesting\nNot by force, I'm suggesting\nYou count your blessings\nI've got love and assurance\nI've got new heath insurance\nI've got strength and endurance\nSo I count my blessings\nAnd give thanks to the master\nThat through all the disaster\nWe're still here together after\nBetter count your blessings\n[Verse 1: Nas]\nCount yo' blessings\n'Cause yo, this year, can't wait 'til he gets here\n7/21/09, my first son will shine\nAnd it's amazing, I'm about to be raising\nAnother made man, and like his dad they'll praise him\nAnd some will hate him just 'cause we're building a nation\nLike Bob did with Damian, the world will embrace him\nGirls will chase him, foresee they will not break him\nAnd when I'm not around, you look for God and thank him\n\n[Hook: Damian Marley]\nAnd I've got somewhere to dress for\nAnd I've got no need to stress for\nAnd so I'll always put my best forth\nAnd count my blessings\nAnd there'll be no need for tissues\nCause there'll be no further issues\nIf you've got someone who miss you\nMan, count your blessings\nAnd I've got love and assurance\nAnd I've got new health insurance\nAnd I've got strength and endurance\nSo I count my blessings\nAnd give thanks to the master\nThat through all the disaster\nWe're still here together after\nBetter count your blessings\n[Verse 2: Nas]\nYou're wishing you were sitting in the top position\nPicture perfect, nothing less 'cause you deserve it\nWithout the Hermes, you never hurting\nYou knew that you was destined for greatness for certain\nBut see the overzealous, they be thirsting, caught up in emotion\nYou're keeping your composure like Gershwin\nSongs by Earth, Wind, keep you in a zone writing verses\nSo when your pockets light, know that you have a heavy purpose\n\n[Hook: Damian Marley]\nWe've got pre-school and day care\nWe've got pension and well-fare\nAnd though not all will play the game fair\nStill I count my blessings\nI've got joy in abundance\nI've got life full of substance\nI've got meetings and functions\nSo I count my blessings\nI've got something to live for\nI've got surplus to give more\nAnd we're all welcome through his door\nSo I count my blessings\nAnd give thanks to the master\nThat through all the disaster\nWe're still here together after\nSo I count your blessings\n[Verse 3: Nas]\nYeah, yeah\nI think you're looking too hard for it\nWant the double R under your garage door\nAppreciate the things you work hard for\nAnd count your blessing, count your blessings\nSo don't be mad if you ain't fly y'all\nYou got the means to reach the level I'm on\nYou should know that there's only one Nas y'all\nBut count your blessing, count your blessing, rah!\n\n[Hook: Damian Marley]\nAnd I've got studios to voice in\nAnd I've got news for rejoicing\nNow a new son is rising\nI count my blessings\nThat I'm safe when I'm resting\nFurniture in my nesting\nNot by force, I'm suggesting\nYou count your blessings\nI've got love and assurance\nI've got new heath insurance\nI've got strength and endurance\nSo I count my blessings\nAnd give thanks to the master\nThat through all the disaster\nWe're still here together after\nBetter count your blessings9Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/50908",
+    "artist_names": "Nas & Damian Marley",
+    "full_title": "Dispear by\u00a0Nas\u00a0& Damian Marley",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 50908,
+    "instrumental": false,
+    "lyrics_owner_id": 17874,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1660854460,
+    "path": "/Nas-and-damian-marley-dispear-lyrics",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-dispear-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 45080
+    },
+    "title": "Dispear",
+    "title_with_featured": "Dispear",
+    "updated_by_human_at": 1660854460,
+    "url": "https://genius.com/Nas-and-damian-marley-dispear-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Dispear Lyrics[African Choir Intro]\n\n[Hook 1: Damian Marley]\nLord!\nThis Spear, huh!\nShaka Zulu, Bobo Shanti, Nyabinghi\nMan a Mau Mau Warrior\nThis spear, eh\nFear and desperation no depression can't tarry ya\nDespair, hey\nAyatollah, Idi Amin, Mennelek\nMan a Masai Warrior\nThis spear, eh\nFear and desperation no depression can't tarry ya\nDespair\nLike burning spear and such and such before me\nWho all fought for the cause and\nThis Spear, eh\nEnforcing all the laws and\n[Verse 1: Nas]\nThe Master and the Masses\nOne has power, The other one lacks it\nGuns are power\nControlled by assets, Owned by financial forecasters\nWho are the Masters? They are the Gangsters\nThey are the bankers, the ones who tax us\nThe Masses, they are us\nThe sheep, the people, divided in classes\nI go off like a Shi'ite bomb\nAnd all y'all see I'm on my\nWar paint on my face, shit\nMy nine millimeter on my waist\nI'm a problem, shoot up your place shit\nLet a few go, then I get low, blazing Haze again\nThe Masters, the Wall Street War Chiefs\nThe Elitists Groups\nThe Masses, they pray to Jesus\nSaying he will see us through\nThe Masters are the aristocratic\nThe Masses ask if the Most High is on His way here\nI'm trying to stay clear\nMy mind is my modern day Spear\n\n[Hook 2: Damian Marley]\nHey\nI say...\nThis Spear, huh!\nShaka Zulu, Bobo Shanti, Man a Gideon\nMan a Mau Mau Warrior\nDespair, eh\nFear and desperation no depression can't tarry ya\nThis Spear, hey\nThrough the hands of time and cruel men\nIt has slew more than a billion\nDespair, eh\nIt keep on suppressing the humble man's opinion\n[Verse 2: Nas]\nThis land of the Swiss cheese\nWhen the fifth squeeze, misled\nThe media misleads\nScares you to the point where you miss sleep\nWith that said\nThis lead with this Ruger\nAnd that shooter, sub-machine gun\nRatta tat through you, copper tops\nHollow points will do ya something bad, our future\nIs misled\nThree strikes\nThere's no school when a teacher strikes\nThis economy, this monopoly\nGet no job, just own your property\nNow it's back to what comes natural\nMust survive any how you have to\nDespair, Desperation\nBut I have no fear when I hold This Spear\n\n[Intermission]\n\n[Bridge: Damian Marley]\nMake some boy know me nah smile\nCause this spear nah beg friends\nMan a run racket\nMan a run scheme\nMan a run race\nMan a run down Benz\nCan't trust a she nor he nor we nor I\nIn a contact lense\nMan a run from police\nAnd a run down wealth\nAnd dollars and nah make sense\n[Verse 3: Damian Marley]\nSo\nRise up to my defense\nHollow pointed is my preference\nShould have been deterred, don't know what you heard\nGet referred by the wrong reference\nWhen this spear start dispense\nIt a fly and a tear through fence\nDismember your members and all of your limbs\nBody bust in enough segments\nWell\nMan a run drugs, man a run risk\nMan all a run out a time and ends\nMan a run up and down, and a run fi dem life\nAnd a run down this month rent\nNutin' nah go a yard, and food the a road\nThen man have to go touch pavement\nDespair was a tool, that was used to enslave man\nAnd make manservant\nEscape from Despair and Desperation\nBecomes more urgent\nMankind needs to cleanse and wash out dem soul\nWith spiritual detergent\nA distant army, a distant relative\nControlling the circumference\nAnd any man move with no permission\nThey're feeling the circumstance of\n\n[Hook 3: Damian Marley]\nThis Spear, hey\nShaka Zulu, Bobo Shanti, Man a, eh\nMan a Mau Mau Warrior\nDespair, eh!\nFear of your recession and depression can't tarry ya\nThis Spear, hey\nInner city youth dem rise it up disguised as AK-47\nThis Spear, eh!\nAnd anytime them clap it up the whole city level\nThis Spear\nLike Burning Spear\nAnd such and such before I\nWho all fought for the cause and\nThis Spear, eh!\nThey can't ignore me\nNo!\n\n[Outro: Dennis Brown]\nWhat do you think of Africa?\nAfrica, Africa\nHa ha ha, Africa\nJust, just the mention of it\nJust the mention of it, man\nIt's like you call me name, man\nWell you know Africa is motherland\nAnd Africa is were we rightfully belong\nAnd that's were I want to be5Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/34778",
+    "artist_names": "Nas & Damian Marley (Ft. Dennis Brown)",
+    "full_title": "Land of Promise by\u00a0Nas\u00a0& Damian Marley (Ft.\u00a0Dennis\u00a0Brown)",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 34778,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1600110687,
+    "path": "/Nas-and-damian-marley-land-of-promise-lyrics",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-land-of-promise-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 54677
+    },
+    "title": "Land of Promise",
+    "title_with_featured": "Land of Promise (Ft.\u00a0Dennis\u00a0Brown)",
+    "updated_by_human_at": 1600110716,
+    "url": "https://genius.com/Nas-and-damian-marley-land-of-promise-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/34750",
+      "header_image_url": "https://images.genius.com/6d565380b3c22f6d9a794b64f9021de6.1000x563x1.jpg",
+      "id": 34750,
+      "image_url": "https://images.genius.com/68f983c2ce5b11eb6c7870d279649b5c.222x222x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Dennis Brown",
+      "slug": "Dennis-brown",
+      "url": "https://genius.com/artists/Dennis-brown"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Land of Promise Lyrics[Intro: Damian Marley]\nNow I and I say greetings in the name of The Mighty King\nAnd I & I say played by the King love is all I bring\nAnd I & I say Africa is I & I responsibility Dreadlocks\nYes, Huh!\n[Hook 1: Dennis Brown]\nTo the Promise Land\nGoing to The Promise Land\nYes the Promise Land O Gosh now\nTo the Promise Land\nYe\n[Verse 1: Damian Marley]\nImagine Ghana like California with Sunset Boulevard\nJohannesburg would be Miami\nSomalia like New York\nWith the most pretty light\nThe nuffest pretty car\nEver New Year the African Times Square lock-off\nImagine Lagos like Las Vegas\nThe Ballers dem a Ball\nAngola like Atlanta\nA pure plane take off\nBush Gardens inna Mali\nChicago inna Chad\nMagic Kingdom inna Egypt\nPhiladelphia like Sudan\nThe Congo like Colorado\nFort Knox inna Gabon\nPeople living in Morocco like the state of Oregon\nAlgeria warmer than Arizona bring your sun lotion\nEarly morning class of Yoga on the beach in Senegal\nEthiopia the capitol of fi di Congression\nA deh so I belong\nA deh di The King come from\nI can see us all in limos\nJaguars and B'mos\n[Hook 2: Dennis Brown]\nRiding on the King's Highway\nTo the Promise Land\nGoing to the Promise Land\nO Gosh\nYe the Promise Land\nYeaha the Promise Land\nOoo\n\n[Verse 2: Nas]\nPromised Land, I picture Porsches\nBasquiat Portraits\nPinky Rings, realistic princesses, heiresses, bunch a Kings and Queens\nPlus I picture fortunes for kids out in Port-Au-Prince\nPowerless they not allowed to fit, but not about to slip\nVision Promised Land with fashion like Madison Ave, Manhattan\nSaks 5th Ave and Rodeo, Relaxing popping labels\nPromise Land no fables, this where the truth's told\nUse them two holes above your nose\nTo see the proof yo!\nImagine a contraption that could take us back when\nThe world was run by black men\nBack to the future, anything can happen\nIf these are the last days\nAnd 100-foot waves come crashing down\nI get some hash and pounds, pass around the bud then watch the flood\nCan't stop apocalypse, my synopsis is catastrophic\nIf satellites is causing earthquakes\nWill we survive it?\nHonestly man it's the sign of the times and the times at hand\n[Hook 3: Dennis Brown]\nThere's alot of work to be done, O gosh\nIn the Promised Land\nIn the Promised Land\nO Gosh\nTake me to The Promise Land\nYe the Promise Land\nO Gosh now\nTo the Promise Land\nHey\n\n[Verse 3: Dennis Brown]\nThere's plenty of land for you and I\nBuy and Buy\nLost of food to share for everyone\nNo time for segregation\n\n[Hook 4: Dennis Brown]\nIn the Promised Land\nYes a to the Promised Land\nThe Promised Land\nGoing to The Promise Land\nOoo\nThere's a lot of work to be done, oh Gosh, in the Promised Land6Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/34781",
+    "artist_names": "Nas & Damian Marley (Ft. Stephen Marley)",
+    "full_title": "In His Own Words by\u00a0Nas\u00a0& Damian Marley (Ft.\u00a0Stephen\u00a0Marley)",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 34781,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1600110995,
+    "path": "/Nas-and-damian-marley-in-his-own-words-lyrics",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-in-his-own-words-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 24555
+    },
+    "title": "In His Own Words",
+    "title_with_featured": "In His Own Words (Ft.\u00a0Stephen\u00a0Marley)",
+    "updated_by_human_at": 1600110994,
+    "url": "https://genius.com/Nas-and-damian-marley-in-his-own-words-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2361",
+      "header_image_url": "https://images.genius.com/7e10a474f32540f5ec57ca31972821a0.630x420x1.jpg",
+      "id": 2361,
+      "image_url": "https://images.genius.com/7e10a474f32540f5ec57ca31972821a0.630x420x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Stephen Marley",
+      "slug": "Stephen-marley",
+      "url": "https://genius.com/artists/Stephen-marley"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "In His Own Words Lyrics[Hook: Stephen Marley]\nJAH TOLD YOU\nIN HIS OWN WORDS\n\"AND I'LL SEE YOU THROUGH\"\nTO GUIDE YOU\nTHROUGH THIS COLD WORLD\n\"AND I'LL SEE YOU THROUGH\"\nJAH TOLD YOU\nIN HIS OWN WORDS\n\"AND I'LL SEE YOU THROUGH\"\nTO GUIDE YOU\nTHROUGH THIS COLD WORLD\n\"AND I'LL SEE YOU THROUGH\"\n[Verse 1: Nas]\nTwo steps away from death, a vest and a holster\nI detest detectives arresting us over\nWeapons possession, they was checking the Rover\nInspecting the Tattoos on my neck and my shoulder\nHow many times I'm one of six coffin holders\nOr I'm, sitting with goons in the visiting rooms\nFlip it I could have been you, behind state walls biddin'\nThese are the things that a G pray for\nAcquit us, a little stash in the safe or little Shorty to wait for him\nOr a Shorty to take the weight for him\nWhat really did I escape from?\nThought I saw Gods face on the design in my vintage Claiborne\nSwear I see Him every day y'all\nIn a bus or the train or\nThe billboards out there that hang tall\nI still give thanks for Him\nHave faith for Him, no matter what His name's called\nSeen!\n\n[Hook: Stephen Marley]\nJAH TOLD YOU\nIN HIS OWN WORDS\n\"AND I'LL SEE YOU THROUGH\"\nTO GUIDE YOU\nTHROUGH THIS COLD WORLD\n\"AND I'LL SEE YOU THROUGH\"\n[Verse 2: Damian Marley]\nCan you think of a color that you never seen?\nCan you reminisce on places you never been?\nWell is many are called, but them never deemed\nWorthy for the cause, cause them never clean\nHelp who help themselves, Jah nuh raffle dream\nThat's why me chummy with Jah Jah like a Cherubim\nKeep we strong through the winter like an Evergreen\nAnd all of us are more connected than it ever seemed\nAll things are related, and creation is a package\nGenerate together and we increase the wattage\nA how them a go manage?\nTell Babylon them can't do Rasta damage, nor stop we through the passage\nJah did make a promise, God is always honest\nAlways keeps his word, Yow nuh care what the plan is\nDon't be astonished, Stumbling blocks vanish\nOne day the meek gonna live inna di palace\nWoah!\n\n[Hook: Stephen Marley]\nJAH TOLD YOU\nIN HIS OWN WORDS\n\"AND I'LL SEE YOU THROUGH\"\nTO GUIDE YOU\nTHROUGH THIS COLD WORLD\n\"AND I'LL SEE YOU THROUGH\"\nJAH TOLD YOU\nIN HIS OWN WORDS\n\"AND I'LL SEE YOU THROUGH\"\nTO GUIDE YOU\nTHROUGH THIS COLD WORLD\n\"AND I'LL SEE YOU THROUGH\"\n[Verse 3: Nas]\nSome ask me if I feel that Zion is surreal\nAnd in my songs, do I plan to expose and reveal\nWord to the curb that's under these chrome wheels\nMy homies is the only ones I'm taking care of\nBut severe reality starts to become more clear\nAnd these know-it-all rappers have become more weird\nAs if they were superior and fans are inferior\nHow I balance between the streets and the theories of\nCollegiate literature, I hold mirrors up\nGive combinations of pain, joy, fear and love\nThrough my perspective, I can see Jah reflection\nIn the highest definition, getting high with my brethren\nThen I ask him why is Africans dying from circumcision\nThey lack proper surgeons and suffer malnutrition\nUnderestimate the wealth of their own wisdom\nIts like its been exchanged for this penicillin\nSeen\n\n[Hook: Stephen Marley]\nJAH TOLD YOU\nIN HIS OWN WORDS\n\"AND I'LL SEE YOU THROUGH\"\nTO GUIDE YOU\nTHROUGH THIS COLD WORLD\n\"AND I'LL SEE YOU THROUGH\"\nJAH TOLD YOU\nIN HIS OWN WORDS\n\"AND I'LL SEE YOU THROUGH\"\nTO GUIDE YOU\nTHROUGH THIS COLD WORLD\n\"AND I'LL SEE YOU THROUGH\"3Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 48,
+    "api_path": "/songs/34777",
+    "artist_names": "Nas & Damian Marley",
+    "full_title": "Nah Mean by\u00a0Nas\u00a0& Damian Marley",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 34777,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1652067060,
+    "path": "/Nas-and-damian-marley-nah-mean-lyrics",
+    "pyongs_count": 12,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-nah-mean-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 80595
+    },
+    "title": "Nah Mean",
+    "title_with_featured": "Nah Mean",
+    "updated_by_human_at": 1652067060,
+    "url": "https://genius.com/Nas-and-damian-marley-nah-mean-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Nah Mean Lyrics[Intro: Damian Marley]\nTougher than concrete\nEh bwoy\nGo labbajuice\nWatch ya\nCheck it!\nBoom\n\n[Verse 1: Damian Marley]\nYou nah mean? Mi dip out a whole fourteen, nah mean\nAnd reload man extra magazine, nah mean\nAnd wounded them housing scheme, nah mean\nNuff a dem a move sideway and lean, nah mean\nCan't come bout when man deh in, nah mean\nWe nuh like dem colonial regime, nah mean\nEthiopian nuh like Mussoline, nah mean\nMi Queen hafi rock and come in, nah mean\nAnd jump pon mi big trampoline, nah mean\nAnd boost up her self-esteem, nah mean\nNuff a wonder how man kitchen so clean, nah mean\nAnd which recipe dat a steam, nah mean\nThe lyrics dem a flow like a stream, nah mean\nMek you feel like you living in a dream, nah mean\nIt come to the crop man a cream, nah mean\nIt come to discipline man a Dean, nah mean\nMi tougher than a Hummer limousine, nah mean\nWe stepping, we fresh and we clean, nah mean\nI burn the stinkest of green, nah mean\nBetter listen up careful and keen, nah mean\nA Puppa Nas a rock and come in, nah mean\n[Verse 2: Nas]\nWe celebrate like I finished probation, boy boy\nKnotty Head with no chaser, boy boy\nFrom the mouth, I can spit out a razor, boy boy\nOpen up your facial like your boy Roy in his prime\nEat food, dinnertime, Jr. Gong pass the Guinness\nHandle business, black Velvet sippers\nFemales never bid us farewell, they with us\n'Cause we arrive on the scene just like a high beam, nah mean\nDon't let us have to make the 9 scream, nah mean\nAt your racial policin' regime, nah mean\nSpiritual like a Elohim, nah mean\nIn a casino or a yacht, wherever I'm seen\nMy brothers and sisters are never forgot, nah mean\nDon't wanna hear another soldier drop, nah mean\nAnother dope addict get shot with the morphine\nAnd Feds are indictin' my block, nah mean\nThey're wearin' red from they shoes to they top, nah mean\nI'm wishin' that all the violence would stop, nah mean?\n\n[Verse 3: Damian Marley]\nWe nuh like the sound of siren, nah mean\nAnd some bwoy soft like ice cream, nah mean\nFrom a bwoy mek the Feds intervene, nah mean\nWe send a bwoy go tek intravene, nah mean\nParabellum dem a itch up inna spleen, nah mean\nInna Queens, gunman reign Supreme, nah mean\nKingstonians are real blood fiends, nah mean\nThe world is a big crime scene, nah mean\n[Bridge: Damian Marley & Nas]\nYo, yo, Mr. President (Yo, a-Mr. President)\nWhat you doin' for my residents?\n(What you doin' with my residents?)\nYo, Mr. Minister (Mr. Minister)\nWhy you bein' sinister, hey? (Hey)\nYo, yo, Mr. President (Yo, yo, Mr. President)\nWhat you doin' for my residents?\n(What you doin' with my residents?)\nYo, Mr. Minister (Mr. Minister)\nWhy you bein' sinister?\n\n[Verse 4: Damian Marley]\nSay man a di real Buffalo inna Rastafari regime\nBush Bungalow is where mi dwell with mi queen\nTrash to the bone down inna camouflage green\nNuff a dem that can't go the places we been\nNuff a dem that can't see the sights that we seen\nThat's why them face all a twist up and a lean, nah mean\nDem better mind we kick it off clean, nah mean\nMan a gangster just like Gambin', dat mean\nDem can't serve \"Congo dread\" court subpoen', nah mean\nA who you want come in convene, nah mean\nAttorney haffi rock and come in, nah mean\nMi pocket dem green like Spiruline, nah mean\nMi regular fly out and fly in, nah mean\nThe stadium pack like sardine, nah mean\nCan't catch mi speed, a fassy hole need caffeine, nah mean\nRun out a breath and antihistamine (Nah mean)\nWash over gold dem come in like Listerine (Nah mean)\nYou think a lie we badder than Al Pacin' (Nah mean)\n[Outro: Nas]\nIt's genocide, it's a genocide\nIt's a genocide, it's a genocide\nFifth floor, cookin' raw, had my own supply\n'Cause of capitalist ways, that was back in the days\nSo now I do rap and it pays12Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 40,
+    "api_path": "/songs/2528",
+    "artist_names": "Nas & Damian Marley",
+    "full_title": "Patience (Sabali) by\u00a0Nas\u00a0& Damian Marley",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 2528,
+    "instrumental": false,
+    "lyrics_owner_id": 7,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1651590442,
+    "path": "/Nas-and-damian-marley-patience-sabali-lyrics",
+    "pyongs_count": 94,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-patience-sabali-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 958309
+    },
+    "title": "Patience (Sabali)",
+    "title_with_featured": "Patience (Sabali)",
+    "updated_by_human_at": 1651590442,
+    "url": "https://genius.com/Nas-and-damian-marley-patience-sabali-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Patience (Sabali) Lyrics[Intro: Nas]\nHere we are\nHere we are\nYeah\nThis one right here is for the people\n\n[Chorus]\nSabali, sabali, sabali yonkote\nSabali, sabali, sabali kiye\nNi k\u00eara m\u00f4g\u00f4\nSabali, sabali, sabali yonkote\nSabali, sabali, sabali kiye\nNi k\u00eara m\u00f4g\u00f4\n[Interlude: Nas]\nHey yo D\nLet's go all the way in on this one\n\n[Verse 1: Damian Marley]\nSome of the smartest dummies\nCan't read the language of Egyptian mummies\nAn' a fly go a moon\nAnd can't find food for the starving tummies\nPay no mind to the youths\nCause it's not like the future depends on it\nBut save the animals in the zoo\nCause the chimpanzee dem a make big money\nThis is how the media pillages\nOn the TV the picture is\nSavages in villages\nAnd the scientist still can't explain the pyramids, huh\nEvangelists making a living on the videos of ribs of the little kids\nStereotyping the image of the images\nAnd this is what the image is\nYou buy a khaki pants\nAnd all of a sudden you say a Indiana Jones\nAn' a thief out the gold and thief out the scrolls and even the buried bones\nSome of the worst paparazzis I've ever seen and I ever known\nPut the worst on display so the world can see\nAnd that's all they will ever show\nSo the ones in the West\nWill never move East\nAnd feel like they could be at home\nDem get tricked by the beast\nBut a where dem ago flee when the monster is fully grown?\nSolomonic linage whe dem still can't defeat and them coulda never clone\nMy spiritual DNA that print in my soul and I will forever Own Lord\n[Chorus]\nSabali, sabali, sabali yonkote\nSabali, sabali, sabali kiye\nNi k\u00eara m\u00f4g\u00f4\nSabali, sabali, sabali yonkote\nSabali, sabali, sabali kiye\nNi k\u00eara m\u00f4g\u00f4\n\n[Interlude: Nas]\nYeah, Sabali. Thats patience. That's what the old folks told me\nDiscovering the World before this World. A World buried in time\nUncover with rhymes. It gets no realer\n\n[Verse 2: Damian Marley]\nHuh, we born not knowing, are we born knowing all?\nWe growing wiser, are we just growing tall?\nCan you read thoughts? can you read palms?\nHuh, can you predict the future? can you see storms, coming?\nThe Earth was flat if you went too far you would fall off\nNow the Earth is round\nIf the shape change again everybody woulda start laugh\nThe average man can't prove of most of the things\nThat he chooses to speak of\nAnd still won't research and find out\nThe root of the truth that you seek of\nScholars teach in Universities and claim that they're smart and cunning\nTell them find a cure when we sneeze\nAnd that's when their nose start running\nAnd the rich get stitched up, when we get cut\nMan a heal dem broken bones in the bush with the wet mud\nCan you read signs? can you read stars?\nCan you make peace? can you fight war?\nCan you milk cows, even though you drive cars? huh\nCan you survive? Against all odds, now?\n[Chorus]\nSabali, sabali, sabali yonkote\nSabali, sabali, sabali kiye\nNi k\u00eara m\u00f4g\u00f4\nSabali, sabali, sabali yonkote\nSabali, sabali, sabali kiye\nNi k\u00eara m\u00f4g\u00f4\n\n[Interlude: Nas]\nIt's crazy when you feed people the truth you don't know how they're gonna react\nYou're scared of wrong doers, people that just ignorant\nYou're scared of the truth, be patient for now\n\n[Verse 3: Nas]\nWho wrote the Bible? Who wrote the Qur'an?\nAnd was it a lightning storm\nThat gave birth to the Earth\nAnd then dinosaurs were born? damn\nWho made up words? Who made up numbers?\nAnd what kind of spell is mankind under?\nEverything on the planet we preserve and can it\nMicrowaved it and try it\nNo matter what we'll survive it\nWhat's hue? What's man? What's human?\nAnything along the land we consuming\nEatin', deletin', ruin\nTrying to get paper\nGotta have land, gotta have acres\nSo I can sit back like Jack Nicholson\nWatch niggas play the game like the Lakers\nIn a world full of 52 fakers\nGypsies, seances, mystical prayers\nYou superstitious? throw salt over your shoulders\nMake a wish for the day cuz\nLike somebody got a doll of me\nStickin' needles in my arteries\nBut I can't feel it\nSometimes it's like 'part of me, but I got a real big spirit'\nI'm fearless, I'm fearless\nDon't you try and grab hold of my soul\nIt's like a military soldier since seven years old\nI held real dead bodies in my arms\nFelt their body turn cold, oh\nWhy we born in the first place\nIf this is how we gotta go?\nDamn\n\n[Outro: Nas]\nThis goes to all the wisdom and knowledge seekers of the World\nSabali, Patience, yeah94Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/4271",
+    "artist_names": "Nas & Damian Marley (Ft. Joss Stone & Lil Wayne)",
+    "full_title": "My Generation by\u00a0Nas\u00a0& Damian Marley (Ft.\u00a0Joss\u00a0Stone & Lil\u00a0Wayne)",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 4271,
+    "instrumental": false,
+    "lyrics_owner_id": 4409,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1637121631,
+    "path": "/Nas-and-damian-marley-my-generation-lyrics",
+    "pyongs_count": 9,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-my-generation-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 34914
+    },
+    "title": "My Generation",
+    "title_with_featured": "My Generation (Ft.\u00a0Joss\u00a0Stone & Lil\u00a0Wayne)",
+    "updated_by_human_at": 1637121630,
+    "url": "https://genius.com/Nas-and-damian-marley-my-generation-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1853",
+      "header_image_url": "https://images.genius.com/869e7a5f6e4f043c08ba0686da66995f.400x400x1.jpg",
+      "id": 1853,
+      "image_url": "https://images.genius.com/869e7a5f6e4f043c08ba0686da66995f.400x400x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Joss Stone",
+      "slug": "Joss-stone",
+      "url": "https://genius.com/artists/Joss-stone",
+      "iq": 118
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/4",
+      "header_image_url": "https://images.genius.com/3b3485a28f2eb47c5ff3d7691e71bcba.1000x333x1.jpg",
+      "id": 4,
+      "image_url": "https://images.genius.com/aa8b9dce2492fe413c23f77b643788fd.914x914x1.jpg",
+      "index_character": "l",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Lil Wayne",
+      "slug": "Lil-wayne",
+      "url": "https://genius.com/artists/Lil-wayne",
+      "iq": 4611
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "My Generation Lyrics[Chorus: Joss Stone]\nMy generation will make a change\n(Ooh, we'll make a change)\nThis generation will make a change\n(Yes, we will, yes, we will)\nMy generation will make a change\n(Do you hear me now? We 'bout to make a change)\nThis generation will make a change\n(Yeah)\n\n[Verse 1: Damian Marley]\nBoom\nNow me love fi see the schoolers them a graduate\nA-study hard, and save the party for the holidays\nDiplomatic with them diploma and them bound fi great\nBecause them nah pick up no 'matic and a-perpetrate\nAnd then I love the energies, what them a-generate\nMy generation, it so special, it will make a change\nBecause the elders sow the seed and it a-germinate\nSo anytime them see the progress, them a-celebrate\nBecause we rising up despite of the economy\nAnd then a-we a-star the show like the astronomy\nAnd how we keep on breaking through is an anomaly\nBecause we keep remaining true without apology\nThe mission have fi carry through and finish properly\nSay Gambia to Guadeloupe, Paris to Napoli\nSay Zambia to Honolulu, back to Tripoli\nAnd everybody want a future living happily\n[Chorus: Joss Stone]\nMy generation will make a change\n(We'll make a change, we'll make a change, yeah)\nThis generation will make a change\n(This generation, yeah)\nMy generation will make a change\n(We'll make a change, we'll make a change, we'll make a change, I swear we will)\nThis generation will make a change\n(I swear it now, yeah, hey!)\n\n[Verse 2: Nas]\nCan you blame my generation? Subjected gentrification\nDepicting their frustrations over ill instrumentation\n'Cause music is the way to convey to you what I'm facing\nPlacing my life in front of your eyes for your observation\nNow if you can't relate then maybe you are too complacent\nAthletes today are scared to make Muhammad Ali statements\nWhat's up with tomorrow? Will you lead? Will you follow?\nImprove your values, education is real power\nI reach 'em like Bono, so get rid of your self sorrow\nAdd some bravado, get wealthy like Wells Fargo\nIt's truth that I am you and I am proof\nSurviving through, we do what we gotta do\nYo, we could break the cycle, let nobody lie to you\nThen maybe put our sons and our daughters in private school\n'Cause there's a mission, we gotta finish before we leave\nThis generation is destined to do historic deeds\n[Chorus: Joss Stone]\nMy generation will make a change\n(Ooh, ooh, ooh)\nThis generation will make a change\n(My generation, this generation, yeah)\nMy generation will make a change\n(We'll make a change, we'll make a change, we'll make a change, yeah)\nThis generation will make a change\n(This generation now, hey!)\n\n[Verse 3: Lil Wayne]\nIf you weather that storm, then that rain bring sun\nBeen a long time coming, I know change gone come (We're makin' a change)\nMan, I gotta keep it moving to the beat of my drum\nLast night I set the future at the feet of my son\nBut they thinking that my generation gotta die young\nIf we all come together then they can't divide one\nDon't worry 'bout it, just be about it\nGot a message from God: \"Heaven too crowded\"\nBut I say, \"Hey, young world, you never looked better\nAnd I heard change start with the man in the mirror,\" uh\nThis generation, I'mma represent\nA generation led by a black president\nNow how's that for change? Who knew that can change?\nI don\u2019t even look at the flag the same, heck\nUh, so when you finish reading Revelations\nThank God for my generation\n[Chorus: Joss Stone]\nMy generation will make a change, yes\nThis generation will make a change, yeah\nMy generation will make a change for good, for better\nThis generation will make a change, yeah9Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 30,
+    "api_path": "/songs/1599",
+    "artist_names": "Nas & Damian Marley (Ft. K'naan)",
+    "full_title": "Africa Must Wake Up by\u00a0Nas\u00a0& Damian Marley (Ft.\u00a0K'naan)",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 1599,
+    "instrumental": false,
+    "lyrics_owner_id": 1403,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1600112036,
+    "path": "/Nas-and-damian-marley-africa-must-wake-up-lyrics",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-africa-must-wake-up-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 75008
+    },
+    "title": "Africa Must Wake Up",
+    "title_with_featured": "Africa Must Wake Up (Ft.\u00a0K'naan)",
+    "updated_by_human_at": 1600112035,
+    "url": "https://genius.com/Nas-and-damian-marley-africa-must-wake-up-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/481",
+      "header_image_url": "https://images.genius.com/4634f896aca5f8d69b86db7996d7e28f.706x880x1.jpg",
+      "id": 481,
+      "image_url": "https://images.genius.com/654caba7c794fe0ca96931118286b131.514x514x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "K\u2019naan",
+      "slug": "Knaan",
+      "url": "https://genius.com/artists/Knaan"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Africa Must Wake Up Lyrics[Hook: Damian Marley]\nAfrica must wake up, the sleeping sons of Jacob\nFor what tomorrow may bring, may a better day come\nYesterday we were kings, can you tell me young ones\nWho are we today? yeah, now\n\n[Verse 1: Nas, Damian Marley]\nThe black oasis, Ancient Africa the sacred\nAwaking, the sleeping giant, science, art is your creation\nI dreamed that we could visit old Kemet\nYour history is too complex and rigid for some Western critics\nThey want the whole subject diminished\nBut Africa's the origin of all the world's religions\nWe praise bridges that carried us over\nThe battle fronts of Sudanic soldiers\nThe task put before us, do you hear me now?\n[Hook: Damian Marley]\nAfrica must wake up, the sleeping sons of Jacob\nFor what tomorrow may bring, may a better day come\nYesterday we were kings, can you tell me young ones\nWho are we today? yeah, now\nAfrica must wake up, the sleeping sons of Jacob\nFor what tomorrow may bring, may a better day come\nYesterday we were kings, can you tell me young ones\nWho are we today?\n\n[Verse 2: Nas]\nWho are we today? The slums, diseases, AIDS\nWe need that all to fade, we cannot be afraid\nSo who are we today?\nWe are the morning after, the makeshift youth\nThe slave ship captured, our diaspora is the final chapter\nThe ancestral lineage built pyramids\nAmerica's first immigrants\nThe kings, sons and daughters from Nile waters\nThe first architect, the first philosophers\nAstronomers, the first prophets and the doctors were us, us\n\n[Bridge: Damian Marley]\nNow can we all pray? Each in his own way\nTeaching and learning, we can work it out\nWe'll have a warm bed, we'll have some warm bread\nShelter from the storm dread and we can work it out\nMother nature feeds all in famine and drought\nTell those selfish in ways, not to share us out\nWhat's a tree without root? Lion without tooth?\nA lie without truth? You hear me out!\n[Hook: Damian Marley]\nAfrica must wake up, the sleeping sons of Jacob\nFor what tomorrow may bring, may a better day come\nYesterday we were kings, can you tell me young ones\nWho are we today? yeah, Lord\nAfrica must wake up the sleeping sons of Jacob\nWhat tomorrow may bring. may some more love come\nYesterday we were kings, I tell ya young bloods\nThe world is yours today...\n\n[Bridge: K'naan]\nDadyahow daali waayey, nabada diideen\nOo ninkii doortay dinta, waadinka dillee\nOo dal markii ladhiso, waadinka dunshee\nOo daacad ninkii damcay, waadinka dooxee\nDadyahow daali waayey, nabada diideen\nOo ninkii doortay dinta, waadinka dillee\nOo dal markii ladhiso, waadinka dunshee\nOo daacad ninkii damcay, waadinka dooxee\n\n[Guitar/Instrumental Break]\n\n[Break: Nas]\nWe want to thank y'all, everybody out there\nThis is Nas, Damian Marley\nDistant Relatives\nWe're all distant relatives\nNo matter where you from, where you live\nHow near or far\nAfrica, China, Japan, Afghanistan, Israel\nWe're all fam, we're all distant relatives\nSo that's why we came together\nOne of the reasons why myself and Damian came together\n'Cause we all come from one place, and that's Africa\nThat's right, you too\nAnd you\nThe whole world!\nWe're all family, we're just spread out all over the place\nSo to all my distant relatives, let's take it back home!\n[Hook: Damian Marley]\nI say! Africa must wake up, the sleeping sons of Jacob\nFor what tomorrow may bring, may a better day come\nYesterday we were kings, can you tell me young ones\nWho are we today? yeah, now\nAfrica must wake up, the sleeping sons of Jacob\nFor what tomorrow may bring, may a better day come\nYesterday we were kings, can you tell me young ones\nWho are we today? Who are we today?\n\n[Outro: Damian Marley]\nMorning to ya! Morning to ya man!\nMorning to ya love!8Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/101353",
+    "artist_names": "Nas & Damian Marley (Ft. Junior Reid)",
+    "full_title": "Ancient People by\u00a0Nas\u00a0& Damian Marley (Ft.\u00a0Junior\u00a0Reid)",
+    "header_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "id": 101353,
+    "instrumental": false,
+    "lyrics_owner_id": 164386,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1600112605,
+    "path": "/Nas-and-damian-marley-ancient-people-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Nas-and-damian-marley-ancient-people-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 5,
+     "day": 18
+    },
+    "release_date_for_display": "May 18, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f3f3080061320d3661da97535972fba9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 9056
+    },
+    "title": "Ancient People",
+    "title_with_featured": "Ancient People (Ft.\u00a0Junior\u00a0Reid)",
+    "updated_by_human_at": 1600112605,
+    "url": "https://genius.com/Nas-and-damian-marley-ancient-people-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/4165",
+      "header_image_url": "https://images.genius.com/af8b1bb368d31091732176a8dc174595.252x252x1.jpg",
+      "id": 4165,
+      "image_url": "https://images.genius.com/af8b1bb368d31091732176a8dc174595.252x252x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Junior Reid",
+      "slug": "Junior-reid",
+      "url": "https://genius.com/artists/Junior-reid"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/2397167",
+     "header_image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "id": 2397167,
+     "image_url": "https://images.genius.com/53a687711664a5895e7dd99bb9de6f01.834x834x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nas & Damian Marley",
+     "slug": "Nas-and-damian-marley",
+     "url": "https://genius.com/artists/Nas-and-damian-marley"
+    },
+    "artist": "Nas & Damian Marley",
+    "lyrics": "Ancient People Lyrics[Intro: Damian Marley]\nNow greetings to the world\nThe accumulative intelligence of Mankind is what makes us special amongst all other species\nEverything is built upon the foundation before it\nHuh\nBoom\n\n[Hook: Damian Marley]\nThese ancient thoughts\nThis ancient look\nThese ancient hearts\nThis ancient soul\nThese ancient songs\nThese ancient people\n[Bridge: Junior Reid]\nLike the Earth, and the sky\nAnd the sea, and the birds\nAnd the trees, and the songs\nWith melody\nLike a mountain, like a valley\nLike the river, like the lake\nLike the earth, when it quake\nIt's anciency\n\n[Verse 1: Nas]\nThis is rock and roll meets Aristotle\nI fly those G5's through the skies to Cabo\nMartial arts more ancient than Tae Bo\nSwordsman, more ancient than Zorro\nAncient like the pharaohs or priests of Yoruba\nOr Obeah, your phobia, you paro\nYour path narrow like climbing Mountain Kilimanjaro\nAncient men traded cattle\nBefore Columbus was lost in travel, ancient canoes got paddled\nBefore the horse saddle there was camel\nSpears before arrow, arrow before ammo\nTribal paint before camo-\nFlage, chief before sarge, or lieutenant\nVillage elders before the Senate\nUsed to sail the seas before the compass was invented\nAncient people spoke free, they didn't need a 1st Amendment\nIn the beginning, the drum was the text sendin\nThere was moons before months, and time before minutes\n[Hook: Damian Marley]\nThese ancient thoughts\nThis ancient look\nThese ancient hearts\nThis ancient soul\nThese ancient songs\nThese ancient people\nThese ancient thoughts\nThis ancient look\nThese ancient hearts\nThis ancient soul\nThese ancient songs\nThese ancient people\n\n[Verse 2: Damian Marley]\nFrom love, on to language, on to hieroglyphics\nDi invention of the wheel, on to mathematics\nDi almanac, di calendar, on to geographics\nHerbal medicine, to antibiotics\nGinseng to horse tonic\nWater pump, water pumpee on to hydraulics\nMoonlight, candle light, on to electronics\nInstinct to knowledge, classroom to college\nAyyy\nAll of these ancient thoughts\n[Hook: Damian Marley]\nThese ancient thoughts\nThis ancient look\nThese ancient hearts\nThis ancient soul\nThese ancient songs\nThese ancient people\nThese ancient thoughts\nThis ancient look\nThese ancient hearts\nThis ancient soul\nThese ancient songs\nThese ancient people\n\n[Verse 3: Junior Reid]\nMan ah buss di earth, man ah buss di sky\nJunior Gong and Junior Reid we meditation it so high\nMan ah trod de gravel, it dutty and it dry\nOh oi, dem nuh see nuh wings, but man ah fly\nBabylon fi splurt, dem nuh know what life is worth\nOh Oi, tell dem stop polluting Mother Earth\nMan ah mek ah trod, mi robe, mi sandals and mi rod\nDem shoulda know, ancient man, yes man ah God\n\n[Outro: Damian Marley]\nAncient thoughts\nAncient look\nAncient hearts\nAncient soul\nAncient songs\nAncient peopleEmbed"
+   }
+  }
+ ]
+}

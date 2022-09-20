@@ -1,0 +1,4054 @@
+{
+ "_type": "album",
+ "api_path": "/albums/76781",
+ "comment_count": 2,
+ "cover_art_thumbnail_url": "https://images.genius.com/3bdc19b60659feb19317a285090ef09c.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/3bdc19b60659feb19317a285090ef09c.1000x1000x1.jpg",
+ "custom_header_image_url": null,
+ "description_preview": "Although Nas' ninth studio album is Untitled, he initially intended to name the album Nigger but decided to change the title due to controversy around the word. The album\u2019s cover shows whip scars on his back in the form of the letter \u2018N\u2019 as a tie-in with the album\u2019s original title. Despite the controversy, the album received favorable reviews for its politically-charged content. Untitled became his fifth to debut at #1 on the Billboard 200 chart and achieved gold status with support from the single \u201cHero\u201d with Keri Hilson.",
+ "full_title": "Nas (Untitled) by Nas",
+ "header_image_url": "https://images.genius.com/3bdc19b60659feb19317a285090ef09c.1000x1000x1.jpg",
+ "id": 76781,
+ "lock_state": "editable",
+ "name": "Nas (Untitled)",
+ "name_with_artist": "Nas (Untitled) (artist: Nas)",
+ "pyongs_count": 4,
+ "release_date": "2008-07-15",
+ "release_date_components": {
+  "year": 2008,
+  "month": 7,
+  "day": 15
+ },
+ "tracking_paths": {
+  "aggregate": "/albums/Nas/Nas-untitled",
+  "concurrent": "/albums/Nas/Nas-untitled"
+ },
+ "url": "https://genius.com/albums/Nas/Nas-untitled",
+ "current_user_metadata": {
+  "permissions": [
+   "create_comment"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "destroy",
+   "pyong",
+   "lock",
+   "super_lock",
+   "unlock",
+   "sort_songs",
+   "see_short_id"
+  ],
+  "interactions": {
+   "pyong": false
+  }
+ },
+ "song_pageviews": 563528,
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/56",
+  "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+  "id": 56,
+  "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Nas",
+  "slug": "Nas",
+  "url": "https://genius.com/artists/Nas",
+  "iq": 40366
+ },
+ "cover_arts": [
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/76781",
+   "id": 17885,
+   "image_url": "https://images.genius.com/3bdc19b60659feb19317a285090ef09c.1000x1000x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/3bdc19b60659feb19317a285090ef09c.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/17885",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/76781",
+   "id": 231147,
+   "image_url": "https://images.genius.com/12ce9e55e848d392a3299ceb6353fc4a.400x400x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/12ce9e55e848d392a3299ceb6353fc4a.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/231147",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3884391,
+  "annotator_login": "TERRELLTURNER",
+  "api_path": "/referents/12438868",
+  "classification": "accepted",
+  "fragment": "Nas (Untitled)",
+  "id": 12438868,
+  "ios_app_url": "genius://referents/12438868",
+  "is_description": true,
+  "is_image": false,
+  "path": "/12438868/Nas-untitled/Nas-untitled",
+  "range": {
+   "content": "Nas (Untitled)"
+  },
+  "song_id": null,
+  "url": "https://genius.com/12438868/Nas-untitled/Nas-untitled",
+  "verified_annotator_ids": [],
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "add_pinned_annotation_to",
+    "add_community_annotation_to"
+   ],
+   "relationships": {}
+  },
+  "tracking_paths": {
+   "aggregate": "/12438868/Nas-untitled/Nas-untitled",
+   "concurrent": "/albums/Nas/Nas-untitled"
+  },
+  "twitter_share_message": "\u201cAlthough Nas' ninth studio album is Untitled, he initially intended to name the album Nigger but\u2026\u201d \u2014@Genius",
+  "annotatable": {
+   "_type": "album",
+   "api_path": "/albums/76781",
+   "context": "Nas",
+   "id": 76781,
+   "image_url": "https://images.genius.com/3bdc19b60659feb19317a285090ef09c.300x300x1.jpg",
+   "link_title": "Nas (Untitled)",
+   "title": "Nas (Untitled)",
+   "type": "Album",
+   "url": "https://genius.com/albums/Nas/Nas-untitled"
+  },
+  "annotations": [
+   {
+    "_type": "annotation",
+    "api_path": "/annotations/12438868",
+    "being_created": false,
+    "body": {
+     "plain": "Although Nas' ninth studio album is Untitled, he initially intended to name the album Nigger but decided to change the title due to controversy around the word. The album\u2019s cover shows whip scars on his back in the form of the letter \u2018N\u2019 as a tie-in with the album\u2019s original title. Despite the controversy, the album received favorable reviews for its politically-charged content. Untitled became his fifth to debut at #1 on the Billboard 200 chart and achieved gold status with support from the single \u201cHero\u201d with Keri Hilson."
+    },
+    "comment_count": 1,
+    "community": true,
+    "created_at": 1505671497,
+    "custom_preview": null,
+    "deleted": false,
+    "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/12438868/standalone_embed'><a href='https://genius.com/12438868/Nas-untitled/Nas-untitled'>Nas (Untitled)</a><br><a href='https://genius.com/albums/Nas/Nas-untitled'>&#8213; Nas (Untitled)</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+    "has_voters": true,
+    "id": 12438868,
+    "needs_exegesis": false,
+    "pinned": false,
+    "proposed_edit_count": 0,
+    "pyongs_count": null,
+    "referent_id": 12438868,
+    "share_url": "https://genius.com/12438868",
+    "source": null,
+    "state": "accepted",
+    "twitter_share_message": "\u201cAlthough Nas' ninth studio album is Untitled, he initially intended to name the album Nigger but decided\u2026\u201d \u2014@Genius",
+    "url": "https://genius.com/12438868/Nas-untitled/Nas-untitled",
+    "verified": false,
+    "votes_total": 12,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "accepted_by": {
+     "_type": "user",
+     "about_me_summary": "",
+     "api_path": "/users/3492882",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/981605b56878ef16a812df453300d0fc",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/981605b56878ef16a812df453300d0fc",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/981605b56878ef16a812df453300d0fc",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
+     "human_readable_role_for_display": "Contributor",
+     "id": 3492882,
+     "iq": 2927422,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "SmashBeezy",
+     "name": "SmashBeezy",
+     "role_for_display": "contributor",
+     "url": "https://genius.com/SmashBeezy",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "authors": [
+     {
+      "_type": "user_attribution",
+      "attribution": 0.7415730337078652,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "",
+       "api_path": "/users/3492882",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3492882,
+       "iq": 2927422,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "SmashBeezy",
+       "name": "SmashBeezy",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SmashBeezy",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "_type": "user_attribution",
+      "attribution": 0.2584269662921348,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "My shit keeps getting deleted by the \u201cBrilliant Minds\u201d on here\u2026. but it\u2019s whatever.",
+       "api_path": "/users/3884391",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/fe383994bfe092ebb5627434cf08473e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/fe383994bfe092ebb5627434cf08473e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/fe383994bfe092ebb5627434cf08473e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/fe383994bfe092ebb5627434cf08473e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/fe383994bfe092ebb5627434cf08473e",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3884391,
+       "iq": 11768,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "TERRELLTURNER",
+       "name": "TERRELLTURNER",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/TERRELLTURNER",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "created_by": {
+     "_type": "user",
+     "about_me_summary": "My shit keeps getting deleted by the \u201cBrilliant Minds\u201d on here\u2026. but it\u2019s whatever.",
+     "api_path": "/users/3884391",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/fe383994bfe092ebb5627434cf08473e",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/fe383994bfe092ebb5627434cf08473e",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/fe383994bfe092ebb5627434cf08473e",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/fe383994bfe092ebb5627434cf08473e",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/fe383994bfe092ebb5627434cf08473e",
+     "human_readable_role_for_display": "Contributor",
+     "id": 3884391,
+     "iq": 11768,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "TERRELLTURNER",
+     "name": "TERRELLTURNER",
+     "role_for_display": "contributor",
+     "url": "https://genius.com/TERRELLTURNER",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "rejection_comment": null,
+    "top_comment": {
+     "_type": "comment",
+     "api_path": "/comments/9022509",
+     "body": {
+      "plain": "Easily the most underrated & underappreciated album in his discography."
+     },
+     "commentable_id": 12438868,
+     "commentable_type": "Annotation",
+     "created_at": 1638928095,
+     "has_voters": true,
+     "id": 9022509,
+     "pinned_role": null,
+     "votes_total": 3,
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "vote",
+       "accept",
+       "reject",
+       "mark_spam",
+       "integrate",
+       "archive",
+       "destroy"
+      ],
+      "interactions": {
+       "vote": null
+      }
+     },
+     "anonymous_author": null,
+     "author": {
+      "_type": "user",
+      "about_me_summary": "",
+      "api_path": "/users/7728405",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/ecb4375230eff4e9b63b1548a258d940",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/ecb4375230eff4e9b63b1548a258d940",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/ecb4375230eff4e9b63b1548a258d940",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/ecb4375230eff4e9b63b1548a258d940",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/avatars/medium/ecb4375230eff4e9b63b1548a258d940",
+      "human_readable_role_for_display": null,
+      "id": 7728405,
+      "iq": 105,
+      "is_meme_verified": false,
+      "is_verified": false,
+      "login": "Michaell767",
+      "name": "Michaell767",
+      "role_for_display": null,
+      "url": "https://genius.com/Michaell767",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     },
+     "reason": null
+    },
+    "verified_by": null
+   }
+  ]
+ },
+ "performance_groups": [
+  {
+   "label": "Design Concept",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1468590",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1468590,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kevin Lacey",
+     "slug": "Kevin-lacey",
+     "url": "https://genius.com/artists/Kevin-lacey"
+    }
+   ]
+  },
+  {
+   "label": "Design",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1107427",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1107427,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TaVon Sampson",
+     "slug": "Tavon-sampson",
+     "url": "https://genius.com/artists/Tavon-sampson"
+    }
+   ]
+  },
+  {
+   "label": "Art Direction",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1107427",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1107427,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TaVon Sampson",
+     "slug": "Tavon-sampson",
+     "url": "https://genius.com/artists/Tavon-sampson"
+    }
+   ]
+  },
+  {
+   "label": "Design [Cover]",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1011471",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1011471,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eric Altenburger",
+     "slug": "Eric-altenburger",
+     "url": "https://genius.com/artists/Eric-altenburger"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1107427",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1107427,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TaVon Sampson",
+     "slug": "Tavon-sampson",
+     "url": "https://genius.com/artists/Tavon-sampson"
+    }
+   ]
+  },
+  {
+   "label": "Illustration Cover",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1107427",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1107427,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TaVon Sampson",
+     "slug": "Tavon-sampson",
+     "url": "https://genius.com/artists/Tavon-sampson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1011471",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1011471,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eric Altenburger",
+     "slug": "Eric-altenburger",
+     "url": "https://genius.com/artists/Eric-altenburger"
+    }
+   ]
+  },
+  {
+   "label": "Photography",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1468585",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1468585,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Meeno Peluce",
+     "slug": "Meeno-peluce",
+     "url": "https://genius.com/artists/Meeno-peluce"
+    }
+   ]
+  },
+  {
+   "label": "Performers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/11657",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 11657,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mykal",
+     "slug": "Mykal",
+     "url": "https://genius.com/artists/Mykal"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2582",
+     "header_image_url": "https://images.genius.com/0c144909375314c8ca3e544017a9307f.300x180x1.jpg",
+     "id": 2582,
+     "image_url": "https://images.genius.com/a4a798abf88f32abcd9c8969a199f0a1.687x687x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Last Poets",
+     "slug": "The-last-poets",
+     "url": "https://genius.com/artists/The-last-poets"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/338",
+     "header_image_url": "https://images.genius.com/3b5bbef2983cf4f309a6cdf466a530a1.1000x667x1.jpg",
+     "id": 338,
+     "image_url": "https://images.genius.com/d872e4b2ec49a47787457eac5fba7895.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Busta Rhymes",
+     "slug": "Busta-rhymes",
+     "url": "https://genius.com/artists/Busta-rhymes",
+     "iq": 400
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/759",
+     "header_image_url": "https://images.genius.com/1a27f30675f983a5b683e5cb88fa783e.1000x251x1.jpg",
+     "id": 759,
+     "image_url": "https://images.genius.com/fd15addc0eaae85e719b175679b4158e.886x886x1.jpg",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Keri Hilson",
+     "slug": "Keri-hilson",
+     "url": "https://genius.com/artists/Keri-hilson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/42",
+     "header_image_url": "https://images.genius.com/5862783a10f54de5c61799bc3b4ff207.1000x428x1.jpg",
+     "id": 42,
+     "image_url": "https://images.genius.com/23a3ca8df26e9dea38634304ba6d972f.596x596x1.png",
+     "index_character": "g",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "The Game",
+     "slug": "The-game",
+     "url": "https://genius.com/artists/The-game",
+     "iq": 1179
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/438",
+     "header_image_url": "https://images.genius.com/10b8087d5a34b24f8d2c9c29ecbce552.1000x333x1.png",
+     "id": 438,
+     "image_url": "https://images.genius.com/2c3d218869657bd87e10e29860e23d16.380x380x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Brown",
+     "slug": "Chris-brown",
+     "url": "https://genius.com/artists/Chris-brown"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1145030",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1145030,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eban Thomas",
+     "slug": "Eban-thomas",
+     "url": "https://genius.com/artists/Eban-thomas"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    }
+   ]
+  },
+  {
+   "label": "Samples",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/132070",
+     "header_image_url": "https://images.genius.com/85db7604ad68bff820dbe89144a2725c.500x500x1.jpg",
+     "id": 132070,
+     "image_url": "https://images.genius.com/85db7604ad68bff820dbe89144a2725c.500x500x1.jpg",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Whatnauts",
+     "slug": "Whatnauts",
+     "url": "https://genius.com/artists/Whatnauts"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/71544",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 71544,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bThe Persuaders",
+     "slug": "The-persuaders",
+     "url": "https://genius.com/artists/The-persuaders"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/11156",
+     "header_image_url": "https://images.genius.com/f8dad108955fb8dd1fe12e6de7767cf5.769x1000x1.jpg",
+     "id": 11156,
+     "image_url": "https://images.genius.com/2ea65f941f25d663261a95b67806f6f1.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Barack Obama",
+     "slug": "Barack-obama",
+     "url": "https://genius.com/artists/Barack-obama",
+     "iq": 100
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/59",
+     "header_image_url": "https://images.genius.com/40ecf8460b42287ba6ef0f62272fccd1.1000x667x1.png",
+     "id": 59,
+     "image_url": "https://images.genius.com/33fbfb347a0e60fb12ac2132c9aa0538.1000x1000x1.jpg",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "2Pac",
+     "slug": "2pac",
+     "url": "https://genius.com/artists/2pac"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/353282",
+     "header_image_url": "https://images.genius.com/cbf76a0d6195adade2849710ef972268.745x510x1.jpg",
+     "id": 353282,
+     "image_url": "https://images.genius.com/ad372306eb64e5eeb61c0e28797d1f68.1000x1000x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yann Tiersen",
+     "slug": "Yann-tiersen",
+     "url": "https://genius.com/artists/Yann-tiersen"
+    }
+   ]
+  },
+  {
+   "label": "Producers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2014",
+     "header_image_url": "https://images.genius.com/690da5dc431d6281564e94ccccb013aa.1000x1000x1.jpg",
+     "id": 2014,
+     "image_url": "https://images.genius.com/690da5dc431d6281564e94ccccb013aa.1000x1000x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Green Lantern",
+     "slug": "Dj-green-lantern",
+     "url": "https://genius.com/artists/Dj-green-lantern"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27502",
+     "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+     "id": 27502,
+     "image_url": "https://images.genius.com/15dcc8e6dec36481821d7f3856caa154.388x388x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eric Hudson",
+     "slug": "Eric-hudson",
+     "url": "https://genius.com/artists/Eric-hudson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/8231",
+     "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+     "id": 8231,
+     "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mark Ronson",
+     "slug": "Mark-ronson",
+     "url": "https://genius.com/artists/Mark-ronson",
+     "iq": 100
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27605",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "id": 27605,
+     "image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "index_character": "d",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Toomp",
+     "slug": "Dj-toomp",
+     "url": "https://genius.com/artists/Dj-toomp",
+     "iq": 520
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27937",
+     "header_image_url": "https://images.genius.com/d8bd23110a39b87ec43f6fdfd83e9967.480x300x1.jpg",
+     "id": 27937,
+     "image_url": "https://images.genius.com/4927bbf737c527d22f67618e02e782ad.512x512x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Batson",
+     "slug": "Mark-batson",
+     "url": "https://genius.com/artists/Mark-batson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27578",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 27578,
+     "image_url": "https://images.genius.com/cde817afd31cef5140dade9b1387eeac.1000x750x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "StarGate",
+     "slug": "Stargate",
+     "url": "https://genius.com/artists/Stargate"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/8382",
+     "header_image_url": "https://images.genius.com/7ad7e0a25c8ca8eba242a615bc3fd05d.1000x206x1.jpg",
+     "id": 8382,
+     "image_url": "https://images.genius.com/3ccacede25dd22c48e942189ab4f6fe0.305x305x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Polow da Don",
+     "slug": "Polow-da-don",
+     "url": "https://genius.com/artists/Polow-da-don"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/42",
+     "header_image_url": "https://images.genius.com/5862783a10f54de5c61799bc3b4ff207.1000x428x1.jpg",
+     "id": 42,
+     "image_url": "https://images.genius.com/23a3ca8df26e9dea38634304ba6d972f.596x596x1.png",
+     "index_character": "g",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "The Game",
+     "slug": "The-game",
+     "url": "https://genius.com/artists/The-game",
+     "iq": 1179
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/932957",
+     "header_image_url": "https://images.genius.com/785d06c68da4b6b69c578e9af3dc3a05.300x300x1.jpg",
+     "id": 932957,
+     "image_url": "https://images.genius.com/3f88d95ec08dedcf86a3d21fedb1f06f.250x250x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cool N Dre",
+     "slug": "Cool-n-dre",
+     "url": "https://genius.com/artists/Cool-n-dre"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58464",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58464,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J. Myers",
+     "slug": "J-myers",
+     "url": "https://genius.com/artists/J-myers"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58463",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58463,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dustin Moore",
+     "slug": "Dustin-moore",
+     "url": "https://genius.com/artists/Dustin-moore"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27765",
+     "header_image_url": "https://images.genius.com/c9ae7d139cec1cc0a1d71222109d1a82.427x427x1.jpg",
+     "id": 27765,
+     "image_url": "https://images.genius.com/c9ae7d139cec1cc0a1d71222109d1a82.427x427x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salaam Remi",
+     "slug": "Salaam-remi",
+     "url": "https://genius.com/artists/Salaam-remi"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/198",
+     "header_image_url": "https://images.genius.com/f503cab8a5c0da1b16a111bc4a8eba1a.853x853x1.jpg",
+     "id": 198,
+     "image_url": "https://images.genius.com/f503cab8a5c0da1b16a111bc4a8eba1a.853x853x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "slug": "Jay-electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/79113",
+     "header_image_url": "https://images.genius.com/9252f253b2afab55a38379b49c295886.1000x563x1.jpg",
+     "id": 79113,
+     "image_url": "https://images.genius.com/1220b035ce57f5791d0338aa053acf7b.800x800x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Def Jam Recordings",
+     "slug": "Def-jam-recordings",
+     "url": "https://genius.com/artists/Def-jam-recordings"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1137338",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1137338,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Jones Experience",
+     "slug": "The-jones-experience",
+     "url": "https://genius.com/artists/The-jones-experience"
+    }
+   ]
+  },
+  {
+   "label": "Mastering",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/198492",
+     "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
+     "id": 198492,
+     "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Gehringer",
+     "slug": "Chris-gehringer",
+     "url": "https://genius.com/artists/Chris-gehringer"
+    }
+   ]
+  },
+  {
+   "label": "Executive Producers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1181020",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1181020,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "A. Saleh",
+     "slug": "A-saleh",
+     "url": "https://genius.com/artists/A-saleh"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/70728",
+     "header_image_url": "https://images.genius.com/37f61beab85cbc337e45689fc7cf629a.1000x563x1.jpg",
+     "id": 70728,
+     "image_url": "https://images.genius.com/bc2658acd9dab9a52425acac9af0766e.1000x1000x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LA Reid",
+     "slug": "La-reid",
+     "url": "https://genius.com/artists/La-reid"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    }
+   ]
+  }
+ ],
+ "song_performances": [
+  {
+   "label": "Featuring",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/338",
+     "header_image_url": "https://images.genius.com/3b5bbef2983cf4f309a6cdf466a530a1.1000x667x1.jpg",
+     "id": 338,
+     "image_url": "https://images.genius.com/d872e4b2ec49a47787457eac5fba7895.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Busta Rhymes",
+     "slug": "Busta-rhymes",
+     "url": "https://genius.com/artists/Busta-rhymes",
+     "iq": 400
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/438",
+     "header_image_url": "https://images.genius.com/10b8087d5a34b24f8d2c9c29ecbce552.1000x333x1.png",
+     "id": 438,
+     "image_url": "https://images.genius.com/2c3d218869657bd87e10e29860e23d16.380x380x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Brown",
+     "slug": "Chris-brown",
+     "url": "https://genius.com/artists/Chris-brown"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1145030",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1145030,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eban Thomas",
+     "slug": "Eban-thomas",
+     "url": "https://genius.com/artists/Eban-thomas"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/42",
+     "header_image_url": "https://images.genius.com/5862783a10f54de5c61799bc3b4ff207.1000x428x1.jpg",
+     "id": 42,
+     "image_url": "https://images.genius.com/23a3ca8df26e9dea38634304ba6d972f.596x596x1.png",
+     "index_character": "g",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "The Game",
+     "slug": "The-game",
+     "url": "https://genius.com/artists/The-game",
+     "iq": 1179
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/759",
+     "header_image_url": "https://images.genius.com/1a27f30675f983a5b683e5cb88fa783e.1000x251x1.jpg",
+     "id": 759,
+     "image_url": "https://images.genius.com/fd15addc0eaae85e719b175679b4158e.886x886x1.jpg",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Keri Hilson",
+     "slug": "Keri-hilson",
+     "url": "https://genius.com/artists/Keri-hilson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2582",
+     "header_image_url": "https://images.genius.com/0c144909375314c8ca3e544017a9307f.300x180x1.jpg",
+     "id": 2582,
+     "image_url": "https://images.genius.com/a4a798abf88f32abcd9c8969a199f0a1.687x687x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Last Poets",
+     "slug": "The-last-poets",
+     "url": "https://genius.com/artists/The-last-poets"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1744",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1744,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mykel",
+     "slug": "Mykel",
+     "url": "https://genius.com/artists/Mykel"
+    }
+   ]
+  },
+  {
+   "label": "Producers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/932957",
+     "header_image_url": "https://images.genius.com/785d06c68da4b6b69c578e9af3dc3a05.300x300x1.jpg",
+     "id": 932957,
+     "image_url": "https://images.genius.com/3f88d95ec08dedcf86a3d21fedb1f06f.250x250x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cool N Dre",
+     "slug": "Cool-n-dre",
+     "url": "https://genius.com/artists/Cool-n-dre"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2014",
+     "header_image_url": "https://images.genius.com/690da5dc431d6281564e94ccccb013aa.1000x1000x1.jpg",
+     "id": 2014,
+     "image_url": "https://images.genius.com/690da5dc431d6281564e94ccccb013aa.1000x1000x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Green Lantern",
+     "slug": "Dj-green-lantern",
+     "url": "https://genius.com/artists/Dj-green-lantern"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27605",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "id": 27605,
+     "image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "index_character": "d",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Toomp",
+     "slug": "Dj-toomp",
+     "url": "https://genius.com/artists/Dj-toomp",
+     "iq": 520
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58463",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58463,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dustin Moore",
+     "slug": "Dustin-moore",
+     "url": "https://genius.com/artists/Dustin-moore"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27502",
+     "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+     "id": 27502,
+     "image_url": "https://images.genius.com/15dcc8e6dec36481821d7f3856caa154.388x388x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eric Hudson",
+     "slug": "Eric-hudson",
+     "url": "https://genius.com/artists/Eric-hudson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/42",
+     "header_image_url": "https://images.genius.com/5862783a10f54de5c61799bc3b4ff207.1000x428x1.jpg",
+     "id": 42,
+     "image_url": "https://images.genius.com/23a3ca8df26e9dea38634304ba6d972f.596x596x1.png",
+     "index_character": "g",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "The Game",
+     "slug": "The-game",
+     "url": "https://genius.com/artists/The-game",
+     "iq": 1179
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/198",
+     "header_image_url": "https://images.genius.com/f503cab8a5c0da1b16a111bc4a8eba1a.853x853x1.jpg",
+     "id": 198,
+     "image_url": "https://images.genius.com/f503cab8a5c0da1b16a111bc4a8eba1a.853x853x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "slug": "Jay-electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58464",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58464,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J. Myers",
+     "slug": "J-myers",
+     "url": "https://genius.com/artists/J-myers"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27937",
+     "header_image_url": "https://images.genius.com/d8bd23110a39b87ec43f6fdfd83e9967.480x300x1.jpg",
+     "id": 27937,
+     "image_url": "https://images.genius.com/4927bbf737c527d22f67618e02e782ad.512x512x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Batson",
+     "slug": "Mark-batson",
+     "url": "https://genius.com/artists/Mark-batson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/8231",
+     "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+     "id": 8231,
+     "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mark Ronson",
+     "slug": "Mark-ronson",
+     "url": "https://genius.com/artists/Mark-ronson",
+     "iq": 100
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/8382",
+     "header_image_url": "https://images.genius.com/7ad7e0a25c8ca8eba242a615bc3fd05d.1000x206x1.jpg",
+     "id": 8382,
+     "image_url": "https://images.genius.com/3ccacede25dd22c48e942189ab4f6fe0.305x305x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Polow da Don",
+     "slug": "Polow-da-don",
+     "url": "https://genius.com/artists/Polow-da-don"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27765",
+     "header_image_url": "https://images.genius.com/c9ae7d139cec1cc0a1d71222109d1a82.427x427x1.jpg",
+     "id": 27765,
+     "image_url": "https://images.genius.com/c9ae7d139cec1cc0a1d71222109d1a82.427x427x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salaam Remi",
+     "slug": "Salaam-remi",
+     "url": "https://genius.com/artists/Salaam-remi"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27578",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 27578,
+     "image_url": "https://images.genius.com/cde817afd31cef5140dade9b1387eeac.1000x750x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "StarGate",
+     "slug": "Stargate",
+     "url": "https://genius.com/artists/Stargate"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1921391",
+     "header_image_url": "https://images.genius.com/b8061588aa8894c4a8b590f00433eed2.1000x1000x1.jpg",
+     "id": 1921391,
+     "image_url": "https://images.genius.com/b8061588aa8894c4a8b590f00433eed2.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bstic.man",
+     "slug": "Sticman",
+     "url": "https://genius.com/artists/Sticman"
+    }
+   ]
+  },
+  {
+   "label": "Writers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/59",
+     "header_image_url": "https://images.genius.com/40ecf8460b42287ba6ef0f62272fccd1.1000x667x1.png",
+     "id": 59,
+     "image_url": "https://images.genius.com/33fbfb347a0e60fb12ac2132c9aa0538.1000x1000x1.jpg",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "2Pac",
+     "slug": "2pac",
+     "url": "https://genius.com/artists/2pac"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/3020",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290442_141224_abiodungrammy.jpg",
+     "id": 3020,
+     "image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290442_141224_abiodungrammy.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Abiodun Oyewole",
+     "slug": "Abiodun-oyewole",
+     "url": "https://genius.com/artists/Abiodun-oyewole",
+     "iq": 100
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/206365",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 206365,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amber Rives",
+     "slug": "Amber-rives",
+     "url": "https://genius.com/artists/Amber-rives"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/326091",
+     "header_image_url": "https://images.genius.com/ffd2f164dd754cc873b27b57ee87c859.540x540x1.jpg",
+     "id": 326091,
+     "image_url": "https://images.genius.com/ffd2f164dd754cc873b27b57ee87c859.540x540x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barrett Strong",
+     "slug": "Barrett-strong",
+     "url": "https://genius.com/artists/Barrett-strong"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/338",
+     "header_image_url": "https://images.genius.com/3b5bbef2983cf4f309a6cdf466a530a1.1000x667x1.jpg",
+     "id": 338,
+     "image_url": "https://images.genius.com/d872e4b2ec49a47787457eac5fba7895.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Busta Rhymes",
+     "slug": "Busta-rhymes",
+     "url": "https://genius.com/artists/Busta-rhymes",
+     "iq": 400
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/49606",
+     "header_image_url": "https://images.genius.com/c02381f3d7655b0efff6ca698d50a511.206x206x1.png",
+     "id": 49606,
+     "image_url": "https://images.genius.com/c02381f3d7655b0efff6ca698d50a511.206x206x1.png",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cool",
+     "slug": "Cool",
+     "url": "https://genius.com/artists/Cool"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2014",
+     "header_image_url": "https://images.genius.com/690da5dc431d6281564e94ccccb013aa.1000x1000x1.jpg",
+     "id": 2014,
+     "image_url": "https://images.genius.com/690da5dc431d6281564e94ccccb013aa.1000x1000x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Green Lantern",
+     "slug": "Dj-green-lantern",
+     "url": "https://genius.com/artists/Dj-green-lantern"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27605",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "id": 27605,
+     "image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "index_character": "d",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Toomp",
+     "slug": "Dj-toomp",
+     "url": "https://genius.com/artists/Dj-toomp",
+     "iq": 520
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/57147",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 57147,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "D\u2019Maq",
+     "slug": "Dmaq",
+     "url": "https://genius.com/artists/Dmaq"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/523",
+     "header_image_url": "https://images.genius.com/f5183545ca5ac47286efad036d10d4eb.480x601x1.png",
+     "id": 523,
+     "image_url": "https://images.genius.com/29e3cb9c13cadc94638bb264b7dec611.241x241x1.png",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dre",
+     "slug": "Dre",
+     "url": "https://genius.com/artists/Dre"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58463",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58463,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dustin Moore",
+     "slug": "Dustin-moore",
+     "url": "https://genius.com/artists/Dustin-moore"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1145030",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1145030,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eban Thomas",
+     "slug": "Eban-thomas",
+     "url": "https://genius.com/artists/Eban-thomas"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/650197",
+     "header_image_url": "https://images.genius.com/6124e28aabd6be62ebfbe7c20d697812.225x225x1.jpg",
+     "id": 650197,
+     "image_url": "https://images.genius.com/6124e28aabd6be62ebfbe7c20d697812.225x225x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eddie \u201cKrack Keys\u201d Montilla",
+     "slug": "Eddie-krack-keys-montilla",
+     "url": "https://genius.com/artists/Eddie-krack-keys-montilla"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27502",
+     "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+     "id": 27502,
+     "image_url": "https://images.genius.com/15dcc8e6dec36481821d7f3856caa154.388x388x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eric Hudson",
+     "slug": "Eric-hudson",
+     "url": "https://genius.com/artists/Eric-hudson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/42",
+     "header_image_url": "https://images.genius.com/5862783a10f54de5c61799bc3b4ff207.1000x428x1.jpg",
+     "id": 42,
+     "image_url": "https://images.genius.com/23a3ca8df26e9dea38634304ba6d972f.596x596x1.png",
+     "index_character": "g",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "The Game",
+     "slug": "The-game",
+     "url": "https://genius.com/artists/The-game",
+     "iq": 1179
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1182334",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1182334,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamaal Sublett",
+     "slug": "Jamaal-sublett",
+     "url": "https://genius.com/artists/Jamaal-sublett"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/198",
+     "header_image_url": "https://images.genius.com/f503cab8a5c0da1b16a111bc4a8eba1a.853x853x1.jpg",
+     "id": 198,
+     "image_url": "https://images.genius.com/f503cab8a5c0da1b16a111bc4a8eba1a.853x853x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Electronica",
+     "slug": "Jay-electronica",
+     "url": "https://genius.com/artists/Jay-electronica",
+     "iq": 115
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58464",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58464,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J. Myers",
+     "slug": "J-myers",
+     "url": "https://genius.com/artists/J-myers"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2149",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1361975495_johnnypolygon.jpeg",
+     "id": 2149,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1361975495_johnnypolygon.jpeg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Johnny Polygon",
+     "slug": "Johnny-polygon",
+     "url": "https://genius.com/artists/Johnny-polygon",
+     "iq": 824
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1706126",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1706126,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J. Sublett",
+     "slug": "J-sublett",
+     "url": "https://genius.com/artists/J-sublett"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/759",
+     "header_image_url": "https://images.genius.com/1a27f30675f983a5b683e5cb88fa783e.1000x251x1.jpg",
+     "id": 759,
+     "image_url": "https://images.genius.com/fd15addc0eaae85e719b175679b4158e.886x886x1.jpg",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Keri Hilson",
+     "slug": "Keri-hilson",
+     "url": "https://genius.com/artists/Keri-hilson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/473451",
+     "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+     "id": 473451,
+     "image_url": "https://images.genius.com/212655b41a68435b96368834b9e06161.194x194x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Larry Troutman",
+     "slug": "Larry-troutman",
+     "url": "https://genius.com/artists/Larry-troutman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/55662",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 55662,
+     "image_url": "https://images.genius.com/94cea3501d17fc85c850f68d84dba2c5.179x179x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laylaw",
+     "slug": "Laylaw",
+     "url": "https://genius.com/artists/Laylaw"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27937",
+     "header_image_url": "https://images.genius.com/d8bd23110a39b87ec43f6fdfd83e9967.480x300x1.jpg",
+     "id": 27937,
+     "image_url": "https://images.genius.com/4927bbf737c527d22f67618e02e782ad.512x512x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Batson",
+     "slug": "Mark-batson",
+     "url": "https://genius.com/artists/Mark-batson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/8231",
+     "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+     "id": 8231,
+     "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mark Ronson",
+     "slug": "Mark-ronson",
+     "url": "https://genius.com/artists/Mark-ronson",
+     "iq": 100
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1021143",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 1021143,
+     "image_url": "https://images.genius.com/1dc765341b09c358ff8d4c84d5de4d10.239x239x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mikkel Storleer Eriksen",
+     "slug": "Mikkel-storleer-eriksen",
+     "url": "https://genius.com/artists/Mikkel-storleer-eriksen"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1744",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1744,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mykel",
+     "slug": "Mykel",
+     "url": "https://genius.com/artists/Mykel"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/148",
+     "header_image_url": "https://images.genius.com/26166dfaa1e2ab8fb20b9de5734485d0.620x826x1.jpg",
+     "id": 148,
+     "image_url": "https://images.genius.com/746259b48b90e0d9e17b39d8a4e362a8.370x370x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nelly",
+     "slug": "Nelly",
+     "url": "https://genius.com/artists/Nelly"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/38018",
+     "header_image_url": "https://images.genius.com/ab2accf19b6d6f7e4ce8348ba72f6f18.547x547x1.jpg",
+     "id": 38018,
+     "image_url": "https://images.genius.com/ab2accf19b6d6f7e4ce8348ba72f6f18.547x547x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Norman Whitfield",
+     "slug": "Norman-whitfield",
+     "url": "https://genius.com/artists/Norman-whitfield"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/977932",
+     "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+     "id": 977932,
+     "image_url": "https://images.genius.com/d80e3d6e72d40374b07140562877e794.414x414x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Phil Hurtt",
+     "slug": "Phil-hurtt",
+     "url": "https://genius.com/artists/Phil-hurtt"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/8382",
+     "header_image_url": "https://images.genius.com/7ad7e0a25c8ca8eba242a615bc3fd05d.1000x206x1.jpg",
+     "id": 8382,
+     "image_url": "https://images.genius.com/3ccacede25dd22c48e942189ab4f6fe0.305x305x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Polow da Don",
+     "slug": "Polow-da-don",
+     "url": "https://genius.com/artists/Polow-da-don"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/5347",
+     "header_image_url": "https://images.genius.com/eb20c5e7a34519b75c3aae82b5203fdd.448x448x1.jpg",
+     "id": 5347,
+     "image_url": "https://images.genius.com/eb20c5e7a34519b75c3aae82b5203fdd.448x448x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roger Troutman",
+     "slug": "Roger-troutman",
+     "url": "https://genius.com/artists/Roger-troutman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27765",
+     "header_image_url": "https://images.genius.com/c9ae7d139cec1cc0a1d71222109d1a82.427x427x1.jpg",
+     "id": 27765,
+     "image_url": "https://images.genius.com/c9ae7d139cec1cc0a1d71222109d1a82.427x427x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salaam Remi",
+     "slug": "Salaam-remi",
+     "url": "https://genius.com/artists/Salaam-remi"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1921391",
+     "header_image_url": "https://images.genius.com/b8061588aa8894c4a8b590f00433eed2.1000x1000x1.jpg",
+     "id": 1921391,
+     "image_url": "https://images.genius.com/b8061588aa8894c4a8b590f00433eed2.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bstic.man",
+     "slug": "Sticman",
+     "url": "https://genius.com/artists/Sticman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/979555",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979555,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tony Bell",
+     "slug": "Tony-bell",
+     "url": "https://genius.com/artists/Tony-bell"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/401419",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 401419,
+     "image_url": "https://images.genius.com/05ba928b80a20b096ebb463c31bb4998.550x550x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tor Erik Hermansen",
+     "slug": "Tor-erik-hermansen",
+     "url": "https://genius.com/artists/Tor-erik-hermansen"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/353282",
+     "header_image_url": "https://images.genius.com/cbf76a0d6195adade2849710ef972268.745x510x1.jpg",
+     "id": 353282,
+     "image_url": "https://images.genius.com/ad372306eb64e5eeb61c0e28797d1f68.1000x1000x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yann Tiersen",
+     "slug": "Yann-tiersen",
+     "url": "https://genius.com/artists/Yann-tiersen"
+    }
+   ]
+  },
+  {
+   "label": "Additional Keyboards",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/43900",
+     "header_image_url": "https://images.genius.com/7004a1ac7e5d9e58a53c5e0640692066.599x899x1.jpg",
+     "id": 43900,
+     "image_url": "https://images.genius.com/7004a1ac7e5d9e58a53c5e0640692066.599x899x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Kennedy",
+     "slug": "Brian-kennedy",
+     "url": "https://genius.com/artists/Brian-kennedy"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/65566",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 65566,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Perry",
+     "slug": "Jason-perry",
+     "url": "https://genius.com/artists/Jason-perry"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/979566",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979566,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mikuak Rai",
+     "slug": "Mikuak-rai",
+     "url": "https://genius.com/artists/Mikuak-rai"
+    }
+   ]
+  },
+  {
+   "label": "Additional Vocals",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/979569",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979569,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anthony Wilson",
+     "slug": "Anthony-wilson",
+     "url": "https://genius.com/artists/Anthony-wilson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/158",
+     "header_image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+     "id": 158,
+     "image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Khaled",
+     "slug": "Dj-khaled",
+     "url": "https://genius.com/artists/Dj-khaled",
+     "iq": 5199
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/137058",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 137058,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dwayne Collins",
+     "slug": "Dwayne-collins",
+     "url": "https://genius.com/artists/Dwayne-collins"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2149",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1361975495_johnnypolygon.jpeg",
+     "id": 2149,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1361975495_johnnypolygon.jpeg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Johnny Polygon",
+     "slug": "Johnny-polygon",
+     "url": "https://genius.com/artists/Johnny-polygon",
+     "iq": 824
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1921391",
+     "header_image_url": "https://images.genius.com/b8061588aa8894c4a8b590f00433eed2.1000x1000x1.jpg",
+     "id": 1921391,
+     "image_url": "https://images.genius.com/b8061588aa8894c4a8b590f00433eed2.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bstic.man",
+     "slug": "Sticman",
+     "url": "https://genius.com/artists/Sticman"
+    }
+   ]
+  },
+  {
+   "label": "All Instruments",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/58464",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58464,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J. Myers",
+     "slug": "J-myers",
+     "url": "https://genius.com/artists/J-myers"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/401419",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 401419,
+     "image_url": "https://images.genius.com/05ba928b80a20b096ebb463c31bb4998.550x550x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tor Erik Hermansen",
+     "slug": "Tor-erik-hermansen",
+     "url": "https://genius.com/artists/Tor-erik-hermansen"
+    }
+   ]
+  },
+  {
+   "label": "All Other Instruments",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/932957",
+     "header_image_url": "https://images.genius.com/785d06c68da4b6b69c578e9af3dc3a05.300x300x1.jpg",
+     "id": 932957,
+     "image_url": "https://images.genius.com/3f88d95ec08dedcf86a3d21fedb1f06f.250x250x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cool N Dre",
+     "slug": "Cool-n-dre",
+     "url": "https://genius.com/artists/Cool-n-dre"
+    }
+   ]
+  },
+  {
+   "label": "Arranged By",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1921391",
+     "header_image_url": "https://images.genius.com/b8061588aa8894c4a8b590f00433eed2.1000x1000x1.jpg",
+     "id": 1921391,
+     "image_url": "https://images.genius.com/b8061588aa8894c4a8b590f00433eed2.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bstic.man",
+     "slug": "Sticman",
+     "url": "https://genius.com/artists/Sticman"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/27697",
+     "header_image_url": "https://images.genius.com/07755836ae61479e2624509cc9c27789.962x962x1.jpg",
+     "id": 27697,
+     "image_url": "https://images.genius.com/07755836ae61479e2624509cc9c27789.962x962x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Noah Goldstein",
+     "slug": "Noah-goldstein",
+     "url": "https://genius.com/artists/Noah-goldstein"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/978803",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 978803,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Seamus Tyson",
+     "slug": "Seamus-tyson",
+     "url": "https://genius.com/artists/Seamus-tyson"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Recording Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/27697",
+     "header_image_url": "https://images.genius.com/07755836ae61479e2624509cc9c27789.962x962x1.jpg",
+     "id": 27697,
+     "image_url": "https://images.genius.com/07755836ae61479e2624509cc9c27789.962x962x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Noah Goldstein",
+     "slug": "Noah-goldstein",
+     "url": "https://genius.com/artists/Noah-goldstein"
+    }
+   ]
+  },
+  {
+   "label": "Backing Vocals",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/978801",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 978801,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bruce Purse",
+     "slug": "Bruce-purse",
+     "url": "https://genius.com/artists/Bruce-purse"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58463",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58463,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dustin Moore",
+     "slug": "Dustin-moore",
+     "url": "https://genius.com/artists/Dustin-moore"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58464",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58464,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J. Myers",
+     "slug": "J-myers",
+     "url": "https://genius.com/artists/J-myers"
+    }
+   ]
+  },
+  {
+   "label": "Baritone Saxophone",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/670422",
+     "header_image_url": "https://images.genius.com/72a54ce5f42a07872f0e97afd6b6e55b.1000x668x1.jpg",
+     "id": 670422,
+     "image_url": "https://images.genius.com/3c65e632982d029faea95eed6792d32f.500x500x1.jpg",
+     "index_character": "i",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ian Hendrickson-Smith",
+     "slug": "Ian-hendrickson-smith",
+     "url": "https://genius.com/artists/Ian-hendrickson-smith"
+    }
+   ]
+  },
+  {
+   "label": "Bass",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/979554",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979554,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "01 (Zero One)",
+     "slug": "01-zero-one",
+     "url": "https://genius.com/artists/01-zero-one"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/24558",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 24558,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JMac",
+     "slug": "Jmac",
+     "url": "https://genius.com/artists/Jmac"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/500757",
+     "header_image_url": "https://images.genius.com/58fbad89d403b36f70084eb80404cc19.999x667x1.jpg",
+     "id": 500757,
+     "image_url": "https://images.genius.com/cac76767f6049f8831b3246abbe51b89.517x517x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Movshon",
+     "slug": "Nick-movshon",
+     "url": "https://genius.com/artists/Nick-movshon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/979320",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979320,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Hatcher",
+     "slug": "Thomas-hatcher",
+     "url": "https://genius.com/artists/Thomas-hatcher"
+    }
+   ]
+  },
+  {
+   "label": "Drums",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/46637",
+     "header_image_url": "https://images.genius.com/2f0ed84c8701987edc2f421a9ae29aa8.1000x663x1.jpg",
+     "id": 46637,
+     "image_url": "https://images.genius.com/efe0152997b6bbbfb2fef1e0867502bb.847x847x1.jpg",
+     "index_character": "h",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Homer Steinweiss",
+     "slug": "Homer-steinweiss",
+     "url": "https://genius.com/artists/Homer-steinweiss"
+    }
+   ]
+  },
+  {
+   "label": "Electric Guitar",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/979554",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979554,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "01 (Zero One)",
+     "slug": "01-zero-one",
+     "url": "https://genius.com/artists/01-zero-one"
+    }
+   ]
+  },
+  {
+   "label": "Guitar",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/979560",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979560,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Binky Griptite",
+     "slug": "Binky-griptite",
+     "url": "https://genius.com/artists/Binky-griptite"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58463",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58463,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dustin Moore",
+     "slug": "Dustin-moore",
+     "url": "https://genius.com/artists/Dustin-moore"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/58464",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 58464,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J. Myers",
+     "slug": "J-myers",
+     "url": "https://genius.com/artists/J-myers"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/646662",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 646662,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kevin Mayer",
+     "slug": "Kevin-mayer",
+     "url": "https://genius.com/artists/Kevin-mayer"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/648299",
+     "header_image_url": "https://images.genius.com/479ab38c1d9d0ece8ba7a3a7db72d402.1000x752x1.jpg",
+     "id": 648299,
+     "image_url": "https://images.genius.com/894f6aebf1dd0ee4cc1c290b03e1cf8a.762x762x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Brenneck",
+     "slug": "Thomas-brenneck",
+     "url": "https://genius.com/artists/Thomas-brenneck"
+    }
+   ]
+  },
+  {
+   "label": "Horns",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/978801",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 978801,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bruce Purse",
+     "slug": "Bruce-purse",
+     "url": "https://genius.com/artists/Bruce-purse"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/978714",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 978714,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vincent Henry",
+     "slug": "Vincent-henry",
+     "url": "https://genius.com/artists/Vincent-henry"
+    }
+   ]
+  },
+  {
+   "label": "Keyboards",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/27605",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "id": 27605,
+     "image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "index_character": "d",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Toomp",
+     "slug": "Dj-toomp",
+     "url": "https://genius.com/artists/Dj-toomp",
+     "iq": 520
+    }
+   ]
+  },
+  {
+   "label": "Keyboards Arranged By",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/27605",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "id": 27605,
+     "image_url": "https://s3.amazonaws.com/rapgenius/dj-toomp-fill.jpg",
+     "index_character": "d",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Toomp",
+     "slug": "Dj-toomp",
+     "url": "https://genius.com/artists/Dj-toomp",
+     "iq": 520
+    }
+   ]
+  },
+  {
+   "label": "Mixing",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/681586",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 681586,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billy Hume",
+     "slug": "Billy-hume",
+     "url": "https://genius.com/artists/Billy-hume"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2014",
+     "header_image_url": "https://images.genius.com/690da5dc431d6281564e94ccccb013aa.1000x1000x1.jpg",
+     "id": 2014,
+     "image_url": "https://images.genius.com/690da5dc431d6281564e94ccccb013aa.1000x1000x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Green Lantern",
+     "slug": "Dj-green-lantern",
+     "url": "https://genius.com/artists/Dj-green-lantern"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/647528",
+     "header_image_url": "https://images.genius.com/748245ce3d52cff41245f9cb5af96e28.269x269x1.jpg",
+     "id": 647528,
+     "image_url": "https://images.genius.com/748245ce3d52cff41245f9cb5af96e28.269x269x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Frye",
+     "slug": "John-frye",
+     "url": "https://genius.com/artists/John-frye"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/644366",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 644366,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kevin Crouse",
+     "slug": "Kevin-crouse",
+     "url": "https://genius.com/artists/Kevin-crouse"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27937",
+     "header_image_url": "https://images.genius.com/d8bd23110a39b87ec43f6fdfd83e9967.480x300x1.jpg",
+     "id": 27937,
+     "image_url": "https://images.genius.com/4927bbf737c527d22f67618e02e782ad.512x512x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Batson",
+     "slug": "Mark-batson",
+     "url": "https://genius.com/artists/Mark-batson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/647073",
+     "header_image_url": "https://images.genius.com/1c60abffcc70c71e0894dbec003639e2.420x280x1.jpg",
+     "id": 647073,
+     "image_url": "https://images.genius.com/2193c11f72c527a794c34dfb521fb5ab.453x453x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Phil Tan",
+     "slug": "Phil-tan",
+     "url": "https://genius.com/artists/Phil-tan"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1000861",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1000861,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve \u201cSteve B\u201d Baughman",
+     "slug": "Steve-steve-b-baughman",
+     "url": "https://genius.com/artists/Steve-steve-b-baughman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/979570",
+     "header_image_url": "https://images.genius.com/0421c76e6877d12c8ba43034d639e1db.626x626x1.jpg",
+     "id": 979570,
+     "image_url": "https://images.genius.com/0421c76e6877d12c8ba43034d639e1db.626x626x1.jpg",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Wade Martin",
+     "slug": "Wade-martin",
+     "url": "https://genius.com/artists/Wade-martin"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Assistant",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/648705",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 648705,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Houghkirk",
+     "slug": "Josh-houghkirk",
+     "url": "https://genius.com/artists/Josh-houghkirk"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27697",
+     "header_image_url": "https://images.genius.com/07755836ae61479e2624509cc9c27789.962x962x1.jpg",
+     "id": 27697,
+     "image_url": "https://images.genius.com/07755836ae61479e2624509cc9c27789.962x962x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Noah Goldstein",
+     "slug": "Noah-goldstein",
+     "url": "https://genius.com/artists/Noah-goldstein"
+    }
+   ]
+  },
+  {
+   "label": "Piano",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/977024",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 977024,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Victor Axelrod",
+     "slug": "Victor-axelrod",
+     "url": "https://genius.com/artists/Victor-axelrod"
+    }
+   ]
+  },
+  {
+   "label": "Recorded By",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/644154",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 644154,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Sumner",
+     "slug": "Brian-sumner",
+     "url": "https://genius.com/artists/Brian-sumner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/648697",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 648697,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Derrick Selby",
+     "slug": "Derrick-selby",
+     "url": "https://genius.com/artists/Derrick-selby"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27502",
+     "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+     "id": 27502,
+     "image_url": "https://images.genius.com/15dcc8e6dec36481821d7f3856caa154.388x388x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eric Hudson",
+     "slug": "Eric-hudson",
+     "url": "https://genius.com/artists/Eric-hudson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/978802",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 978802,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "f",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Franklin Socorro",
+     "slug": "Franklin-socorro",
+     "url": "https://genius.com/artists/Franklin-socorro"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/979559",
+     "header_image_url": "https://images.genius.com/a0d7c2971363c24b87a5e895aff80350.512x512x1.jpg",
+     "id": 979559,
+     "image_url": "https://images.genius.com/a0d7c2971363c24b87a5e895aff80350.512x512x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gabriel Roth",
+     "slug": "Gabriel-roth",
+     "url": "https://genius.com/artists/Gabriel-roth"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/979319",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979319,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Geoff Gibbs",
+     "slug": "Geoff-gibbs",
+     "url": "https://genius.com/artists/Geoff-gibbs"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/647240",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 647240,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gina Victoria",
+     "slug": "Gina-victoria",
+     "url": "https://genius.com/artists/Gina-victoria"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/644366",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 644366,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kevin Crouse",
+     "slug": "Kevin-crouse",
+     "url": "https://genius.com/artists/Kevin-crouse"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/3632",
+     "header_image_url": "https://images.genius.com/cbd91d7485a0be6722ce3af06ac23a89.512x512x1.jpg",
+     "id": 3632,
+     "image_url": "https://images.genius.com/cbd91d7485a0be6722ce3af06ac23a89.512x512x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Wilson",
+     "slug": "Mike-wilson",
+     "url": "https://genius.com/artists/Mike-wilson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1021143",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 1021143,
+     "image_url": "https://images.genius.com/1dc765341b09c358ff8d4c84d5de4d10.239x239x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mikkel Storleer Eriksen",
+     "slug": "Mikkel-storleer-eriksen",
+     "url": "https://genius.com/artists/Mikkel-storleer-eriksen"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/979567",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979567,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rich Leissler",
+     "slug": "Rich-leissler",
+     "url": "https://genius.com/artists/Rich-leissler"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/401419",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 401419,
+     "image_url": "https://images.genius.com/05ba928b80a20b096ebb463c31bb4998.550x550x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tor Erik Hermansen",
+     "slug": "Tor-erik-hermansen",
+     "url": "https://genius.com/artists/Tor-erik-hermansen"
+    }
+   ]
+  },
+  {
+   "label": "Recording Assistant",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/979565",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979565,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Naught",
+     "slug": "Brian-naught",
+     "url": "https://genius.com/artists/Brian-naught"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/979556",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979556,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Danny Ogle",
+     "slug": "Danny-ogle",
+     "url": "https://genius.com/artists/Danny-ogle"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/27697",
+     "header_image_url": "https://images.genius.com/07755836ae61479e2624509cc9c27789.962x962x1.jpg",
+     "id": 27697,
+     "image_url": "https://images.genius.com/07755836ae61479e2624509cc9c27789.962x962x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Noah Goldstein",
+     "slug": "Noah-goldstein",
+     "url": "https://genius.com/artists/Noah-goldstein"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/978803",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 978803,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Seamus Tyson",
+     "slug": "Seamus-tyson",
+     "url": "https://genius.com/artists/Seamus-tyson"
+    }
+   ]
+  },
+  {
+   "label": "Released by",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/30372",
+     "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+     "id": 30372,
+     "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Columbia Records",
+     "slug": "Columbia-records",
+     "url": "https://genius.com/artists/Columbia-records",
+     "iq": 129
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/79113",
+     "header_image_url": "https://images.genius.com/9252f253b2afab55a38379b49c295886.1000x563x1.jpg",
+     "id": 79113,
+     "image_url": "https://images.genius.com/1220b035ce57f5791d0338aa053acf7b.800x800x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Def Jam Recordings",
+     "slug": "Def-jam-recordings",
+     "url": "https://genius.com/artists/Def-jam-recordings"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1136266",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1136266,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "i",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ill Will Records",
+     "slug": "Ill-will-records",
+     "url": "https://genius.com/artists/Ill-will-records"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1137338",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 1137338,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Jones Experience",
+     "slug": "The-jones-experience",
+     "url": "https://genius.com/artists/The-jones-experience"
+    }
+   ]
+  },
+  {
+   "label": "Sample",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/71544",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 71544,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bThe Persuaders",
+     "slug": "The-persuaders",
+     "url": "https://genius.com/artists/The-persuaders"
+    }
+   ]
+  },
+  {
+   "label": "Samples",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/12037",
+     "header_image_url": "https://images.genius.com/cf9e8bdee7c729aa421a4c4253c9a727.300x170x1.jpg",
+     "id": 12037,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1359822732_Malcolm-X-9396195-1-402.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Malcolm X",
+     "slug": "Malcolm-x",
+     "url": "https://genius.com/artists/Malcolm-x"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/484427",
+     "header_image_url": "https://images.genius.com/7cd50347d0d50519f4a97ff2e70e6a9e.750x422x1.jpg",
+     "id": 484427,
+     "image_url": "https://images.genius.com/134add396ab55b5c07cc382e1ad450e2.1000x1000x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Mooney",
+     "slug": "Paul-mooney",
+     "url": "https://genius.com/artists/Paul-mooney"
+    }
+   ]
+  },
+  {
+   "label": "Strings",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/650197",
+     "header_image_url": "https://images.genius.com/6124e28aabd6be62ebfbe7c20d697812.225x225x1.jpg",
+     "id": 650197,
+     "image_url": "https://images.genius.com/6124e28aabd6be62ebfbe7c20d697812.225x225x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eddie \u201cKrack Keys\u201d Montilla",
+     "slug": "Eddie-krack-keys-montilla",
+     "url": "https://genius.com/artists/Eddie-krack-keys-montilla"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/979557",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979557,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "i",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Idalia String Ensemble",
+     "slug": "The-idalia-string-ensemble",
+     "url": "https://genius.com/artists/The-idalia-string-ensemble"
+    }
+   ]
+  },
+  {
+   "label": "Tenor Saxophone",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/670421",
+     "header_image_url": "https://images.genius.com/da17baf82238cd5d08d0052049558c28.900x314x1.jpg",
+     "id": 670421,
+     "image_url": "https://images.genius.com/26d64335253fa90ba85d22464a7ff98f.600x600x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Neal Sugarman",
+     "slug": "Neal-sugarman",
+     "url": "https://genius.com/artists/Neal-sugarman"
+    }
+   ]
+  },
+  {
+   "label": "Trumpet",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/670424",
+     "header_image_url": "https://images.genius.com/8876f0096c30cf6ca3530ff439c8af8d.1000x1000x1.png",
+     "id": 670424,
+     "image_url": "https://images.genius.com/8876f0096c30cf6ca3530ff439c8af8d.1000x1000x1.png",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Guy",
+     "slug": "Dave-guy",
+     "url": "https://genius.com/artists/Dave-guy"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/379571",
+     "header_image_url": "https://images.genius.com/46fe9a86fac788432d4ea8bd43608499.357x357x1.jpg",
+     "id": 379571,
+     "image_url": "https://images.genius.com/46fe9a86fac788432d4ea8bd43608499.357x357x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Robinson",
+     "slug": "Chris-robinson",
+     "url": "https://genius.com/artists/Chris-robinson"
+    }
+   ]
+  },
+  {
+   "label": "Vocals",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/979550",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "id": 979550,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+     "index_character": "f",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Flo Simpson",
+     "slug": "Flo-simpson",
+     "url": "https://genius.com/artists/Flo-simpson"
+    }
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 25,
+    "api_path": "/songs/917",
+    "artist_names": "Nas",
+    "full_title": "Queens Get the Money by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 917,
+    "instrumental": false,
+    "lyrics_owner_id": 273,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1620680067,
+    "path": "/Nas-queens-get-the-money-lyrics",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Nas-queens-get-the-money-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 91909
+    },
+    "title": "Queens Get the Money",
+    "title_with_featured": "Queens Get the Money",
+    "updated_by_human_at": 1614109510,
+    "url": "https://genius.com/Nas-queens-get-the-money-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Queens Get the Money Lyrics[Produced by Jay Electronica]\n\n[Verse]\nAyo, Queens get the money, niggas still screaming, paper-chasing\nWhere presidential candidates is planning wars with other nations\nOver steak with Masons\nPregnant teens give birth to intelligent gangsters\nThey daddies faceless\nPlay this, by your stomach, let my words massage it and rub it\nI'll be his daddy if there's nobody there to love it\nTell him his name Nasir, tell him how he got here\nMama was just having fun with someone above her years\nNiggas is still hating\nTalking that Nas done fell off with rhyming\nHe'd rather floss with diamonds\nThey pray \"Please God, let him spit that 'Uzi in the army lining'\nThat 'shorty doo-wop rolling oo-wops in the park reclining'\"\nTake 27 emcees, put 'em in a line and they're out of alignment\nMy assignment since he said retirement\nHiding behind 8 Mile and The Chronic\nGets rich but dies rhyming\nThis is high science\nNow add 23 more from Queens to B-more\nI'm over their heads like a bulimic on a seesaw\nNow that's 50 porch monkeys ate up at the same time\nNasty Nasdaq, y'all gon' bow holmes, this Dow Jones\n.80 cal chrome, needed time alone to zone\nThe mack left his iPhone and his nine at home\nMy queen used her milkshake to bring y'all to my slaughterhouses\nI do this for the group home kids in boarding houses\nThis that \"nigga\" shit that's on the album\nFor them niggas inside the chalk line in 40 houses\nBring back Arsenio\nHip-hop was aborted so Nas breathes life, back into the embryo\nLet us make man in our image, spit it\nI'm Huey P in Louis V\nAt the eulogy throwing Molotovs for Emmett\nAnd you ain't as hot as I is\nAll of these false prophets is not messiahs\nYou don't know how high the sky is\nThe square mileage of Earth or what pi is\nI'm the shaky hand that touched George Foreman in Zaire\nThe same hand that punched down devils\nThat brought down the Towers18Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 22,
+    "api_path": "/songs/2200",
+    "artist_names": "Nas (Ft. Eban Thomas & The Last Poets)",
+    "full_title": "You Can't Stop Us Now by\u00a0Nas (Ft.\u00a0Eban\u00a0Thomas & The\u00a0Last Poets)",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 2200,
+    "instrumental": false,
+    "lyrics_owner_id": 1239,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1651835174,
+    "path": "/Nas-you-cant-stop-us-now-lyrics",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Nas-you-cant-stop-us-now-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 25650
+    },
+    "title": "You Can\u2019t Stop Us Now",
+    "title_with_featured": "You Can't Stop Us Now (Ft.\u00a0Eban\u00a0Thomas & The\u00a0Last Poets)",
+    "updated_by_human_at": 1651835174,
+    "url": "https://genius.com/Nas-you-cant-stop-us-now-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1145030",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+      "id": 1145030,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+      "index_character": "e",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Eban Thomas",
+      "slug": "Eban-thomas",
+      "url": "https://genius.com/artists/Eban-thomas"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/2582",
+      "header_image_url": "https://images.genius.com/0c144909375314c8ca3e544017a9307f.300x180x1.jpg",
+      "id": 2582,
+      "image_url": "https://images.genius.com/a4a798abf88f32abcd9c8969a199f0a1.687x687x1.jpg",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Last Poets",
+      "slug": "The-last-poets",
+      "url": "https://genius.com/artists/The-last-poets"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "You Can\u2019t Stop Us Now Lyrics[Verse 1: Nas]\nFrom Willie Lynch to Willie Hutch, right on, we Superfly\nMade Gucci the shit, Louie too, suits and ties\nPlayer trophies, pray to Goldie\nPicture wax museums full of Black Panth's and triple OGs\nAunt Jemina hoes, historic horse shit\nGirls from long time ago, stagecoach with the horse, kid\nWitchdoctors, good ol' pickpockets\nSip moonshine, so-called coons, shines, and darkies\nI love y'all, pyramids to cotton fields\nTo Wrigley Fields, forgotten men who did get killed\nCrispus Attucks, the first blasted\nPeace to the rich lady purse snatcher shot in the back\nI know your hunger kid, I know they hung your dad\nBurnt ya mama crib, I know that hurt you bad\nMinstrel shows, from gold to shackles and back to gold\nWe act like we home, matter of fact, we are home\nBad attitudes, octoroon skin tones\nSlave food turned to soul food, collards to neck bones\nBetsy Ross sewed the first American flag\nBet she had a nigga with her to help her old ass!\n[Interlude: Eban Thomas]\nAs James Baldwin says:\n\"You can only be destroyed by believing that you really are\nWhat the white world considers - a nigga\"\n\n[Chorus: The Last Poets]\nOhh, no matter how hard you try\nYou can't stop us now (oh, no matter)\nNo matter how, hard you try\nYou can't stop us now (no)\n\n[Verse 2: Nas]\nCan't be stopped\nYo, on Dateline, the other night they showed hate crimes\nGave a blood time cause he fought with his canine\nBeastiality, humane society\nGo to China, see how they dine, see what they eat\nBetter yet, ask PETA, whoever, which animal makes suede?\nIf not for suede, would you have survived the Dark Ages?\nCannibal ways of the ancient Caucasians\nStare you like you're steak tartar, pinot noir\nDavid Star on the chain of Sammy Davis\nHe helped pave the way for Southern crankers and them Harlem shakers\nNow we gettin' our papers, they try to censor the words\nAnd stop our money comin' but you can't escape us - haters\n[Chorus: The Last Poets]\nOhh, no matter how hard you try\nYou can't stop us now (oh, no matter)\nNo matter how hard you try\nYou can't stop us now (no)\nYou can't stop us now2Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/34885",
+    "artist_names": "Nas",
+    "full_title": "Breathe by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 34885,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1654540741,
+    "path": "/Nas-breathe-lyrics",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Nas-breathe-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 11
+    },
+    "release_date_for_display": "July 11, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 13620
+    },
+    "title": "Breathe",
+    "title_with_featured": "Breathe",
+    "updated_by_human_at": 1654540741,
+    "url": "https://genius.com/Nas-breathe-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Breathe Lyrics[Chorus]\nIn America, you'll never be free\nMiddle fingers up, fuck the police\nDamn, can't a nigga just breathe?\nBraveheart, still QB's Finest\nGrinding, enough diamonds to change the climate\nNot only do you see a nigga shining, you can see a nigga breathe\nJewels enchanted, like they was new from Atlantis (Uhh)\nCruise with the hammer, jealous hearted, can't stand him\nHaters are scandalous, damn, can't a nigga just breathe? (Woo!)\nTo all my niggas getting money in the streets (Yeah)\nMiddle fingers up, fuck the police\nLight up my trees, and I just breathe...\n[Verse 1]\nI twist 'em, baby mama beef victim\nChronic leaf hitting, all kinds of heat with him, wisdom\nFrom pot to piss in to high position\nIntense hustle, it's pain like a pinched muscle\n'Til it rains and my Timbs stain my socks\n'Til I dodge enough shots and the presiding judge slams a mallet\nAnd says life I'ma guap, then I cop\nThen I yacht, then I dock\nIsland hopping away from nightmare holders\nOr cowboy slingers, who shoot up any club\nTo see they names ring loud on some FBI poster\nMust be on X or they coked up\nSuggesting I post a, bail, I'm like, \"Yes\" 'cause we soldiers\nWe just getting older, in time, we still in our prime\nI can't afford a new arrest on my folder\n(Nigga, breathe...)\n\n[Chorus]\nIn America, you'll never be free\nMiddle fingers up, fuck the police\nDamn, can't a nigga just breathe?\nBraveheart, still QB's Finest\nGrinding, enough diamonds to change the climate\nNot only do you see a nigga shining, you can see a nigga breathe\nJewels enchanted like they was new from Atlantis (Uhh)\nCruise with the hammer, jealous hearted, can't stand him\nHaters are scandalous, damn, can't a nigga just breathe? (Woo!)\nTo all my niggas getting money in the streets (Get money)\nMiddle fingers up, fuck the police (Fuck 'em)\nLight up my trees, and I just breathe...\n[Verse 2]\nI'm, fresh out of city housing, ain't have too many options\nPennies on a pension or penitentiary bounded\nPlenty Henny in me, envy was simply they trend, see\nMy enemy was every hater that was bigger than me\nThe high life, the fly life\nPierre Hardy, imitation of Christ\nIce-wear gaudy, since '94 flossy\nThe Lex was an excellent choice now fast forward me\nThe pestilence of the ghetto informed me\nAs a shorty, to push nothing less than a 740\nWith fresh linen, sip Pellegrinos with Airs on\nThey sick, mixing they water with Airborne\n\n[Interlude]\nOh, they so sick!\nLook how I got 'em going crazy, look at that!\nYou gotta let it out, stress, ain't good man\nYou gotta breathe (Breathe...)\nAnd America, we gotta be free\n\n[Outro]\nBreathe...\nBreathe...\nBreathe...\nBreathe...3Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/34888",
+    "artist_names": "Nas (Ft. Chris Brown & The Game)",
+    "full_title": "Make the World Go Round by\u00a0Nas (Ft.\u00a0Chris\u00a0Brown & The\u00a0Game)",
+    "header_image_thumbnail_url": "https://images.rapgenius.com/64a06486ccb754bd07d7b667729b9473.300x300x1.jpg",
+    "header_image_url": "https://images.rapgenius.com/64a06486ccb754bd07d7b667729b9473.1000x1000x1.jpg",
+    "id": 34888,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1660948527,
+    "path": "/Nas-make-the-world-go-round-lyrics",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Nas-make-the-world-go-round-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 9,
+     "hot": false,
+     "pageviews": 25631
+    },
+    "title": "Make the World Go Round",
+    "title_with_featured": "Make the World Go Round (Ft.\u00a0Chris\u00a0Brown & The\u00a0Game)",
+    "updated_by_human_at": 1660948527,
+    "url": "https://genius.com/Nas-make-the-world-go-round-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/438",
+      "header_image_url": "https://images.genius.com/10b8087d5a34b24f8d2c9c29ecbce552.1000x333x1.png",
+      "id": 438,
+      "image_url": "https://images.genius.com/2c3d218869657bd87e10e29860e23d16.380x380x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Chris Brown",
+      "slug": "Chris-brown",
+      "url": "https://genius.com/artists/Chris-brown"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/42",
+      "header_image_url": "https://images.genius.com/5862783a10f54de5c61799bc3b4ff207.1000x428x1.jpg",
+      "id": 42,
+      "image_url": "https://images.genius.com/23a3ca8df26e9dea38634304ba6d972f.596x596x1.png",
+      "index_character": "g",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "The Game",
+      "slug": "The-game",
+      "url": "https://genius.com/artists/The-game",
+      "iq": 1179
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Make the World Go Round Lyrics[Verse 1: Nas]\nYeah, laced at Macy's, don't have it, a hatred addict\nI need faces mad with frowns when I'm around, or I'm wasting fabric\nI don't feel greater 'til my plush pieces, cause you to suck your teeth\nSo mean-mugging on my clean-thugging mean nothing\nWomen dream I'm your husband\nI'm Alex Pushkin, the black poetry-writing Russian, ice disgusting\nI started bling, how could you question my direction\nOr my Tom Ford collection? Gangstas two-stepping\nYou hate me, should thank me, but lately\nI burned so much trees, I keep environmentalists angry\nI'm a rare dude, I'm a wonder, your best success is my worst blunder\nY'all livin' trendy on pennies, I cop plenty Fendi\nVivienne Westwood, I'm good\nGet the whole Trump Tower top floor for the hood\nDre & Cool, we riding heavy, NY to Miami 'cause\n[Chorus: Chris Brown & Nas]\nWe make the world go round\nNow let's toast to the hustlers\nWe make the world go round\nTell the hustlers to toast to the gangstas\nWe make the world go round\nTell the gangstas to toast to the ballers\nWe make the world go round\nAnd tell the ballers pour a glass for all us\nWe make the world go round\n\n[Verse 2: The Game & Chris Brown]\nI see the haters on the floor jocking my swag\nI'm popping Ralph Lauren tags and pouring champagne inside a Polo glass\nModel bitches rolling grass, Escobar unfolding cash\nToasting with my entourage, went from robbing armored cars\nTo all my stars, red carpet to the L'Ermitage\nWe throwing red dice at the Mirage\nI pull that red Lamborghini on twenties out my garage\nSet up shop in South Beach like Khaled and Terror Squad\n(We The Best!) Big pimping, top down chrome spinning\n\"Top Gun\", Tom Cruise tucked inside my Gucci linen\nNo [censored], just Romo\nYou tryna shine, I put the nine on your jersey for promo\nJessica Simpson, that's so-so\nNick want his (baby back), but that's Loso\nTell Hawaii Five-O to catch me at the Pro Bowl\nOn the field, diamonds choking the jockey on my Polo\nCB, let 'em know though\n[Chorus: Chris Brown & Nas]\nWe make the world go round\nTell the hustlers to toast to the gangstas\nWe make the world go round\nTell the gangstas to toast to the ballers\nWe make the world go round\nAnd tell the ballers pour a glass for all us\nWe make the world go round\n\n[Bridge: Chris Brown]\nWe make the world go round\nFrom my town to your town\nWe on top, no stopping us now\nWe got Patron, the ballers two stepping\nLadies on the floor and all 'em two stepping\nFrom L.A. to Harlem, two stepping\n(From L.A. to Harlem, two stepping)\nSo iced out, it's easy to point them haters out\n\n[Verse 3: Nas]\nWe start with Bellini's and end with Patr\u00f3n shots\nH. Lorenzo belt buckle from Chrome Heart\nAlife tag popper, it'd be sad not to walk out the store with bags\nWorth a hundred cash shopping\nViolence only when have to, have to to swell you up\nPrefer peach Schnaps, Perrier-Jou\u00ebt, a vanilla dutch\nMets cap, that's Queens, I'm a vet, bet that\n300 carats the average up on the neck, black\nPaid the cost, be the boss, Black Caesar floss\nWeekends at the Venetian, pull up in that black Porsche\nTop down, new fashion\nSeeing me's like seeing through the lens of Helmut Newton's camera light flashing\nAnd I'm laughing, my plaques' from album sales\nY'all is ringtone platinum but ninety-nine cents adds up\nI don't hate 'em, I congratulate 'em\nThe new young Prince with young Mike Jackson on the same track\nWhat!\n[Chorus: Nas & Chris Brown]\nNow let's toast to the hustlers\nWe make the world go round\nTell the hustlers to toast to the gangstas\nWe make the world go round\nTell the gangstas to toast to the ballers\nWe make the world go round\nAnd tell the ballers pour a glass for all us\nWe make the world go round5Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/1966",
+    "artist_names": "Nas (Ft. Keri Hilson)",
+    "full_title": "Hero by\u00a0Nas (Ft.\u00a0Keri\u00a0Hilson)",
+    "header_image_thumbnail_url": "https://images.genius.com/c36e5c7db2006588050516faa9963739.300x299x1.jpg",
+    "header_image_url": "https://images.genius.com/c36e5c7db2006588050516faa9963739.316x315x1.jpg",
+    "id": 1966,
+    "instrumental": false,
+    "lyrics_owner_id": 1649,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1649649627,
+    "path": "/Nas-hero-lyrics",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Nas-hero-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 6,
+     "day": 23
+    },
+    "release_date_for_display": "June 23, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c36e5c7db2006588050516faa9963739.300x299x1.jpg",
+    "song_art_image_url": "https://images.genius.com/c36e5c7db2006588050516faa9963739.316x315x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 94635
+    },
+    "title": "Hero",
+    "title_with_featured": "Hero (Ft.\u00a0Keri\u00a0Hilson)",
+    "updated_by_human_at": 1649649627,
+    "url": "https://genius.com/Nas-hero-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/759",
+      "header_image_url": "https://images.genius.com/1a27f30675f983a5b683e5cb88fa783e.1000x251x1.jpg",
+      "id": 759,
+      "image_url": "https://images.genius.com/fd15addc0eaae85e719b175679b4158e.886x886x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Keri Hilson",
+      "slug": "Keri-hilson",
+      "url": "https://genius.com/artists/Keri-hilson"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Hero Lyrics[Intro: Polow da Don]\nQB\nWhere the fuck y'all at?\nHa, ha\nYeah, let's go\nGets Money\n\n[Chorus: Nas & (Keri Hilson)]\nChain gleamin', switchin' lanes, two-seater\nHate him or love him for the same reason (fresh)\nCan't leave it, the game needs him\nPlus the people need someone to believe in (yes)\nSo in God's Son we trust\n'Cause they know I'ma give 'em what they want\nThey lookin' for a (hero)\nI guess that makes me a (hero)\n[Verse 1: Nas]\nAnother chapter of the cleanest rapper, distinguished gentlemen\nCrooks & Castle on his back, Maybacher\nExotic lady eye-catcher, holla at ya, call me the chiropractor\nWorkin' like Muay Thai class, get perspire out ya\nAnd of course I've been the boss since back when\nRockin' D Boy, Fila velour in one-ninety black Benz\nNow they shut down the stores when I'm shoppin'\nUsed to be train robbin', face covered in stockin'\u2014I'm him\n\n[Chorus: Nas & (Keri Hilson)]\nChain gleamin', switchin' lanes, two-seater\nHate him or love him for the same reason (fresh)\nCan't leave it, the game needs him\nPlus the people need someone to believe in (yes)\nSo in God's Son we trust\n'Cause they know I'ma give 'em what they want\nThey lookin' for a (hero)\nI guess that makes me a (hero)\n\n[Verse 2: Nas]\nRubber-grip-holder, reloader\nCome at me, I'ma rip your soldiers in half\nSilverback ape, nickel-plated mag\nYoung, rich and flashy; young bitch, I'm nasty\nAll black clothes 'til ice lay on me so classy\nAnd every time I close my lids\nI can still see the borough, I can still see the Bridge\nI can still see the dreams that my niggas ain't never lived to see\nTell them angels open the door for me\nFrom nine Berettas and movin' raw\nTo chillin' in wine cellars, sticks and humidors\nThat's what I call mature\nThat's what I call a G, that's what I call a pimp\nThat's what I call a gangsta, to the fullest, shit\nI try to make more cream\nBy every September 14th, that's my dream\nSo I can be more clean, as I grow yearly\nI can see things more clearly, that's why they fear me (let's go!)\n[Chorus: Nas & (Keri Hilson)]\nChain gleamin', switchin' lanes, two-seater\nHate him or love him for the same reason (fresh)\nCan't leave it, the game needs him\nPlus the people need someone to believe in (yes)\nSo in God's Son we trust\n'Cause they know I'ma give 'em what they want\nThey lookin' for a (hero)\nI guess that makes me a (hero)\n\n[Verse 3: Nas]\nThis universal apartheid, I'm hog-tied, the corporate side\nBlockin' y'all from goin' to stores and buyin' it\nFirst L.A. and Doug Morris was ridin' with it\nBut Newsweek article startled big wigs\nThey said \"Nas, why is he tryin' it?\"\nMy lawyers only see the Billboard charts as winnin'\nForgettin' Nas the only true rebel since the beginnin'\nStill in musical prison, in jail for the flow\nTry tellin' Bob Dylan, Bruce or Billy Joel\nThey can't sing what's in their soul\nSo \"Untitled\" it is\nI never change nothin', but people remember this\nIf Nas can't say it, think about these talented kids\nWith new ideas bein' told what they can and can't spit\nI can't sit and watch it, so shit, I'ma drop it\nLike it or not, you ain't gotta cop it\nI'm a hustler in the studio, cups of Don Julio\nNo matter what the CD called, I'm unbeatable y'all, let's go!\n[Outro: Polow da Don]\nYeah, Nas, Polow da Don18Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/3910",
+    "artist_names": "Nas",
+    "full_title": "America by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 3910,
+    "instrumental": false,
+    "lyrics_owner_id": 778,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1601679889,
+    "path": "/Nas-america-lyrics",
+    "pyongs_count": 9,
+    "relationships_index_url": "https://genius.com/Nas-america-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 32087
+    },
+    "title": "America",
+    "title_with_featured": "America",
+    "updated_by_human_at": 1601679889,
+    "url": "https://genius.com/Nas-america-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "America Lyrics[Intro: Nas & Flo Simpson]\nYo, it's like waking up, from a bad dream (America)\nJust to figure out, you wasn't dreaming in the first place (no)\n\n[Verse 1: Nas]\nIf all I saw was gangsters coming up as a youngster\nPussy and money the only language I clung to\nClaim to, I mold myself up to become one\nAin't ya happy I chose rap? I'm a monster\nStreets deceiving, can't believe my achievements\nCultural strata, persona's that of a non-needer\nCause I don't need nada 'cept for Prada beaver\nFor cold winters, tattoos got my summer sleeveless\nTo my G's on the flee from the coppers\nStiff bodies on freeze in funeral parlors\nFrom the slums I come up, a phoenix caked up\nTrying to take what I'm eating came up\nA dismissive kid\nYou lucky if you allowed to witness this\nSavvy, mild, wild hardly\nA man's man, who would've knew the beach houses and wild parties\nJezebels and Stella McCartneys\nFor years, all that, how can I not be dead?\nThis old German said I was a thug with a knotty head\nLooked at my Benz and called that a Nazi sled\nWith a face like he wonder where I got my bread\nProbably all these stones he see, from my shows overseas\nFrom crime to rhyme\nMy story is I'm from the home of the thieves\n[Chorus: Nas, Flo Simpson & Both]\nAmerica (Americaaaaaa), pay attention\nWake up (Americaaaaaa), this is not what you think it is\nAmerica (Americaaaaaa), pay attention\nThis is not what you think it is\n\n[Verse 2: Nas]\nBlessed, the Lord is a G, he gotta be\nWho's the God of suckers and snitches? The economy\nLipstick from Marilyn Monroe blew a death kiss to Fidel Castro\nHe'd want me to spit this\nOnly the strong survive, Nas bear witness\nThe hypocrisy is all I can see\nWhite cop acquitted for murder, black cop, cop a plea\nThat type of shit make me stop and think\nWe in chronic need of a second look of the law books\nAnd the whole race dichotomy\nToo many rappers athletes and actors\nBut not enough niggas in NASA\nWho give you the latest dances, trends and fashion?\nBut when it comes to residuals, they look past us\nWoven into the fabric, they can't stand us\nEven in white tees, blue jeans and red bandanas\n\n[Chorus: Nas, Flo Simpson & Both]\nAmerica (Americaaaaaa), pay attention\nWake up (Americaaaaaa), this is not what you think it is\nAmerica (Americaaaaaa), pay attention\nThis is not what you think it is\nAmerica (America, Americaaaaaa\nThis is not what you think it is)\n[Verse 3: Nas]\nAssassinations, diplomatic relations\nKilled indigenous people built a new nation\nInvoluntary labor, took a knife split a woman naval\nTook her premature baby, let her man see you rape her\nIf I could travel to the 1700s\nI'd push a wheelbarrow full of dynamite through your covenant\nLove to sit on the Senate, and tell the whole government\nY'all don't treat women fair, she read about herself in the Bible\nBelieving she the reason sin is here\nYou played her, with an apron like, \"Bring me my dinner dear\"\nShe the 'nigga' here, ain't we in the free world?\nDeath penalty in Texas kill young boys and girls\nBarbarity, I'm in the double-R casually\nBugging how I made it out the hood, dazzle me\nHow far are we really from third world savagery?\nWhen the empire fall, imagine how crazy that'll be\n\n[Chorus: Nas & Flo Simpson]\nAmerica (Americaaaaaa, Americaaaaaa)\nAmerica (Americaaaaaa\nThis is not what you think it is)\nAmerica (Americaaaaaa, ohh\nThis is not what you think it is)\n\n[Outro: Nas]\nAmerica9Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 26,
+    "api_path": "/songs/4179",
+    "artist_names": "Nas",
+    "full_title": "Sly Fox by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 4179,
+    "instrumental": false,
+    "lyrics_owner_id": 5878,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1616688893,
+    "path": "/Nas-sly-fox-lyrics",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Nas-sly-fox-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 36961
+    },
+    "title": "Sly Fox",
+    "title_with_featured": "Sly Fox",
+    "updated_by_human_at": 1616688894,
+    "url": "https://genius.com/Nas-sly-fox-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Sly Fox Lyrics[Audio sample]\n\n[Verse 1]\nThe sly fox, cyclops\nWe locked in an idiot box\nThe video slots broadcasting Waco Davidian plots\nThey own YouTube, MySpace\nWhen this ignorant shit going to stop?\nThey monopolizing news, your views\nAnd the channel you choose, propaganda, visual cancer\nThe eye in the sky, number 5 on the dial\nSecret agenda, frequency antenna, Dr. Mindbender\nRemote control, soul controller, your brain holder\nSlave culture, game's over\nWhat's a fox characteristic? Slick shit, censored misinformation\nPimp the station, over-stimulation\nReception, deception, Comcast digital Satan\nThe fox has a bushy tail\nAnd Bush tells lies and fox-trots\nSo, I don't know what's real (what's real)\n[Chorus]\nWatch what you're watching, Fox keeps feeding us toxins\nStop sleeping, start thinking outside of the box\nAnd unplug from the Matrix doctrine\nBut watch what you say, Big Brother is watching\nWatch what you're watching, Fox keeps feeding us toxins\nStop sleeping, start thinking outside of the box\nAnd unplug from the Matrix doctrine\nBut watch what you say, Fox Five is watching\n\n[Verse 2]\nThe Fear Factor got you all riled up\nO'Reilly? Oh really? No rally needed, I'll tie you up\nNetwork for child predators, setting them up\nMySpace, pimps, hoes and sluts\nY'all exploit rap culture, then y'all flip on us\nAnd you own the Post, and y'all shit on us\nWhat is their net worth?\nThey're going to try to censor my next verse\nThrow them off the roof neck first\nWhile I'm clicking my cursor\nReading blogs about pressure they put on Universal\nIt gets worse\nWhile I'm clicking my mouse, while they kick in my house\nThey figured us out, why a nigga go south?\nIt's either he caught a body\nDon't sleep, they're watching\nI watch CBS, and I see BS\nTrying to track us down with GPS\nMake a nigga want to invest in PBS (see BS)\n[Chorus]\nWatch what you're watching, Fox keeps feeding us toxins\nStop sleeping, start thinking outside of the box\nAnd unplug from the Matrix doctrine\nBut watch what you say, Big Brother is watching\nWatch what you're watching, Fox keeps feeding us toxins\nStop sleeping, start thinking outside of the box\nAnd unplug from the Matrix doctrine\nBut watch what you say, Fox Five is watching\n\n[Verse 3]\nThey say I'm all about murder murder and kill kill\nBut what about Grindhouse and Kill Bill?\nWhat about Cheney and Halliburton?\nThe back door deals on oil fields?\nHow is Nas the most violent person?\nY'all don't know talent if it hit you\nBringing up my criminal possession charges with a pistol\nI use Viacom as my firearm\nThen let the lyrics split you, who do you rely upon?\nThen shoot shells at Leviath-o-n\nI'm dealing with the higher form\nFuck if you care of how I write a poem\nOnly fox that I loved was the Red one\nOnly black man that Fox love is in jail or a dead one\nRed rum, political bedlam\nDon't let the hype into your eyes and ear drum\nMurdoch owns Fox, not A-Team with Baracus\nAnd he hates Barack cause he march with the marches\n[Interlude: Deep voice]\nI pledge allegiance to the fair and balanced truth\nNot the biased truth\nNot the liest truth\nBut the highest truth\nI will not be deceived\nNor will I believe in the propaganda\nI will not fall for the okie-doke\nI am tuned in...\n\n[Outro]\nWatch what they watching\nWatch what you're watching\nBetter watch because they're watching\nWatch what you're watching\nM-m-media, misleading you\nWatch what you're watching8Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/5674",
+    "artist_names": "Nas",
+    "full_title": "Testify by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 5674,
+    "instrumental": false,
+    "lyrics_owner_id": 1649,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1556991017,
+    "path": "/Nas-testify-lyrics",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Nas-testify-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 15117
+    },
+    "title": "Testify",
+    "title_with_featured": "Testify",
+    "updated_by_human_at": 1556991017,
+    "url": "https://genius.com/Nas-testify-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Testify Lyrics[Intro]\nI want to dedicate this song right here\nTo Jonathan Jackson and George Jackson\nPeace to those brothers\nI want to shout out my man Sherm the Worm\nEighty years\nCome home nigga\nCome home, niggas\n.. Ugh\n\n[Verse 1]\nI just burnt my American flag\nAnd sent three cracker Nazis to hell and I'm sad\nUgh, I'm loading tips in my Mag'\nTo send these redneck bigots some death in a bag\nChoke him out with his confederate flag\nI know these devils are mad\nLittle rap fans who live way out in safe suburbia\nWould you stand with me, a United States murdurer?\n[Chorus]\n(Testifyyyyy for me)\nHuh? Would you testify?\nYou buy my songs\nYou buy my songs\nBut will you ride with me?\n(Testifyyyyy for me)\nYou understand my struggle\nThat's what you claim right?\n(Testifyyyyy for me)\nThen get your aim right\nAnd get your game tight\n\n[Verse 2]\nDon't buy my songs, y'all don't roll with it\nComing to concerts singing ho and shit\nFuck y'all lil' lil' ho bitches\nI don't need y'all, I'll go gold with it\nI heard y'all was downloading it, heh\nLike I'm y'all man who be exposing shit, heh\nLike ah, William Cooper\nWho told you the Pale Horse is the future\n\n[Chorus]\n(Testifyyyyy for me)\nWould you testify on some realness like that?\nI think you scared (heh)\nI don't think you prepared\nYeah\n(Testifyyyyy for me)\nYou know what I'm asking you?\n(Testifyyyyy for me)\nDo we know what I'm asking you? (hahaha)\nWow...\n(Testifyyyyy for me)\nWow...\n(Testifyyyyy for me)\n(Testifyyyyy for me)7Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 27,
+    "api_path": "/songs/34886",
+    "artist_names": "Nas",
+    "full_title": "N.I.G.G.E.R. (The Slave and the Master) by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 34886,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1649280822,
+    "path": "/Nas-nigger-the-slave-and-the-master-lyrics",
+    "pyongs_count": 13,
+    "relationships_index_url": "https://genius.com/Nas-nigger-the-slave-and-the-master-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 50719
+    },
+    "title": "N.I.G.G.E.R. (The Slave and the Master)",
+    "title_with_featured": "N.I.G.G.E.R. (The Slave and the Master)",
+    "updated_by_human_at": 1649280822,
+    "url": "https://genius.com/Nas-nigger-the-slave-and-the-master-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "N.I.G.G.E.R. (The Slave and the Master) Lyrics[Chorus]\nThey say we N-I-double-G-E-R, we are\nMuch more, still we choose to ignore\nThe obvious, man this history don't acknowledge us\nWe were scholars long before colleges\nThey say we N-I double G-E-R, we are\nMuch more, but still we choose to ignore\nThe obvious, we are the slave and the master\nWhat you looking for? You the question and the answer\n\n[Verse 1]\nWe trust no black leaders, use the stove to heat us\nPowdered eggs and government cheeses\nThe calendars with Martin, JFK and Jesus\nGotta be fresh to go to school with fly sneakers\nSchools with outdated books, we are the forgotten\nSummers, cooling off by the fire hydrant\nYeah I'm from the ghetto\nWhere old black women talk about their sugar level\nIt's not unusual\nTo see photos of dead homies funerals\nAluminum foil on TV antennas\nLittle TV sit on top the big TV, eating TV dinners\nGirls dye their hair with Kool-Aid\nThey gave us lemons, we made lemonade\nBut this nigga's paid, ancestry of slaves\nDescendant of kings, it's necessary I - bling\nPut rims on everything, wear Timbs on every scene\n[Chorus]\nThey say we N-I double G-E-R, we are\nMuch more, still we choose to ignore\nThe obvious, man this history don't acknowledge us\nWe were scholars long before colleges\nThey say we N-I double G-E-R, we are\nMuch more, but still we choose to ignore\nThe obvious, we are the slave and the master\nWhat you looking for? You the question and the answer\n\n[Verse 2]\nDo I mean it like a slave master, nigga?\nNo I'm gangsta, gotta eat rappers\nMy abbreviation was young when I caught the cases\nThat should mean the court could see my changes\nTake off the bracelets\nSavage when broke, smoke sour diesel, need no Bowflex\nMy chest still cut up like a bag of dope\nThought patterns consist of boss matters\nSpit Moses' lost commandments like a gross sandwich out my mouth\nToast to government cameras peeping us, every week I must\nHave my cars, homes and phones squeaked for bugs\nBut this is what I was dreaming of\nBetween cutting hard coke with new razors slicing my fingers up\nThey used to string us up, we wanted everything\nBut the one bringing us cake be the snakes like the\nLike the New Jack City wedding scene\nNo time for mistakes, trying to get it like Medellin\n[Chorus]\nThey say we N-I double G-E-R, we are\nMuch more, still we choose to ignore\nThe obvious, man this history don't acknowledge us\nWe were scholars long before colleges\nThey say we N-I double G-E-R, we are\nMuch more, but still we choose to ignore\nThe obvious, we are the slave and the master\nWhat you looking for? You the question and the answer\n\n[Verse 3]\nMy nig', what up my nig'? Yep!\nPeople afraid of criticism\nBut I always put myself in a sacrificial position\nThey been know I ain't just rapping for fame\nI got my old homie's half-sister father asking for chains\nYep, I give the cash up, this paper don't matter\nThey see me from skinny to fatter, when I rap about war\nThey got a tendency to scatter, they ain't my backup no more\nSo now my enemies are at my front door\n'Cause anytime we mention our condition, our history or existence\nThey calling it reverse racism\nStill to this day the streets torn - my brother Jung'\nI'll always have a seat for him - not behind me, beside me\nYou'll always know where to find me\nThey say the close ones will hurt you\nSo let's keep a small circle\nOn the road to riches and diamond rings\nIn the land of the blind, the man with one eye is the king\n[Chorus]\nThey say we N-I double G-E-R, we are\nMuch more, still we choose to ignore\nThe obvious, man this history don't acknowledge us\nWe were scholars long before colleges\nThey say we N-I double G-E-R, we are\nMuch more, but still we choose to ignore\nThe obvious, we are the slave and the master\nWhat you looking for? You the question and the answer13Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/4180",
+    "artist_names": "Nas",
+    "full_title": "Untitled by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 4180,
+    "instrumental": false,
+    "lyrics_owner_id": 5878,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1566413945,
+    "path": "/Nas-untitled-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Nas-untitled-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 25132
+    },
+    "title": "Untitled",
+    "title_with_featured": "Untitled",
+    "updated_by_human_at": 1566413945,
+    "url": "https://genius.com/Nas-untitled-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Untitled Lyrics[Sample]\n\"They did not have the power to stop Louis Farrakhan\nThey were trying to touch on and thieve envy within the leadership\nBut as a general and a man that rose through the ranks through discipline\nHis presence inspired those men with the discipline he imposed on his own life\nLouis Farrakhan\"\n\n[Verse 1]\nUhh, yeah, wow..\nNo revolutionary gets old or so I'm told\nYou're left full of bullet holes when you tell the people go free\nOh, it's a matter of days before they try to take me\nI heard gun shots rang; his bullet's got my name\nI ain't see 'em take aim, I dreamt this day came\n'Cause I stood in the face of damnation\nSatan spat at 'em, flat out disgraced 'em\nHe want my blood, why me?\nWhy not the fake ones who deserve death, man?\nFuck it, I'll take one, 'cause stop me\nBut can't stop a whole nation of millions who feel you deceived them\nThey believe in reparation makes it even\nSo I'm deadly now because of one reason, they listening\nIn Budapest, Japan, China, and Switzerland\nWe getting it in son\nAnother bullet pass by, missed me\nWondering who plotting to get me?\nAlphabet boys still plotting against me\nTo hush me and stuff me in the pockets of history\nYou won't remember why they came to clip me\nWhen time go by you'll soon forget me\nThey say he was the king of bling, jewels, and Bentleys\nThen they use one of my lines just to prove I'm guilty\nDon't let 'em kill me...\n[Sample]\n\"They did not have the power to stop Louis Farrakhan.\"\n\"They did not have the power to stop Louis Farrakhan.\"\n\"They did not have the power to stop Louis Farrakhan.\"\n\"They did not have the power to stop Louis Farrakhan.\"\n\n[Verse 2]\nSome revolutionaries do live long\nAm I one of them? Guess we'll know in due time\nEverybody has rights, can I use mine?\nCan I rock shine? Can I have a girl that's too fine?\nGot a swell life, tell me will I lose mine?\nEvery time I turn around somebody new dying\nLet's start living, \u00c0 la carte, Escargot\nEscobar, invest my millions\nMansion for the wife, the rest for the children\nKnowing that they coming anytime\nBut until then, i'm at large till they shoot me\nMillion dollar stones in my camouflaged Gucci\nGiving you this crack like Pookie\nTo question the system, be the resistance\nNo matter what color you are, everybody niggers\nOr you can stand by or watch or you can march on with us\n\n[Chorus]\nSome revolutionaries get old although I'm told\nYou'll get a left full of bullet holes when you tell the people go free\nOh, it's a matter of days before they try to take me\nSome revolutionaries get old although I'm told\nYou'll get a left full of bullet holes when you tell the people go free\nOh, it's just a matter of days before they try to take me...1Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/3610",
+    "artist_names": "Nas (Ft. Busta Rhymes)",
+    "full_title": "Fried Chicken by\u00a0Nas (Ft.\u00a0Busta\u00a0Rhymes)",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 3610,
+    "instrumental": false,
+    "lyrics_owner_id": 4627,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1642040747,
+    "path": "/Nas-fried-chicken-lyrics",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Nas-fried-chicken-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 56989
+    },
+    "title": "Fried Chicken",
+    "title_with_featured": "Fried Chicken (Ft.\u00a0Busta\u00a0Rhymes)",
+    "updated_by_human_at": 1642040747,
+    "url": "https://genius.com/Nas-fried-chicken-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/338",
+      "header_image_url": "https://images.genius.com/3b5bbef2983cf4f309a6cdf466a530a1.1000x667x1.jpg",
+      "id": 338,
+      "image_url": "https://images.genius.com/d872e4b2ec49a47787457eac5fba7895.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Busta Rhymes",
+      "slug": "Busta-rhymes",
+      "url": "https://genius.com/artists/Busta-rhymes",
+      "iq": 400
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Fried Chicken Lyrics[Intro: Nas]\nUhh, Lord, Lord, Jah\nWhat I'm gon' do?\nUhh, schhh, Lord, Lord, Jah\nHahaha, shit is all true\n\n[Verse 1: Nas]\nMmm, fried chicken, fly vixen\nGive me heart disease but need you in my kitchen\nYou a bird but you ain't a ki'\nGot wings but you can't fly away from me\nDriving in your bucket seats, all the way from Kentucky to fuck with me\nLook what you done to me, was number one to me\nAfter you shower, you and your gold medal flour\nThen you rub your hot oil for about a half an hour\nYou in your hot tub, I'm looking at you salivating\nDry you off, I got your paper towel waiting\nLay you down 'cause you're red hot\nLouisiana style you make my head rot\nThen I flock to the bed then plop, when we done, I need rest\nDon't know what part of you I love best\nYour legs or your breast\nMrs. Fried Chicken, you gon' be a nigga death\nCreated by southern black women to serve massa' guest\nYou gon' be a nigga death\nMrs. Fried Chicken, you was my addiction\nDripping with high cholest-\nLike Greeks with his falafel, Italian with his tomato pasta\nWhat roti is to a rasta\nTrapping me, you and your friend mac' and cheese\nCandy yams, collard greens but you knocking me to my knees\nIt's killing me when I'm inside, nothing I need more than a fish fry\n[Verse 2: Busta Rhymes]\nShit, it taste good, I can't lie\nIt's like you're walking out the tanning salon\nWhen I pull you out the oven from baking, I got you on my mind\nRubbing that sun tan lotion all up over your body\nSo amazing how you sparkle when I glaze you swine\nHey, my pretty ham hock\nIt's so feminine the way you submitted and how you gave me power\nTo massaging me to shower you with lemon water\nMarinate you with seasoning and dipping you in chowder\nBaby it's like you at the spa the way you gently lay in the pan\nWhile enjoying your butter milk treatment\nI sit and watch the grease sizzle bubbling on your skin\nDespite the funny fragrance, still I lick my finger frequent\nIn any event, I'm reflecting on all the signs\nThat I got saying that I shouldn't fuck with you\nBut the way you that you would taste made you hard to resist\nWhen I put my mouth on you but that's another issue\nButterflies up in my stomach, when I laid eyes on you\nOr was it infection manifesting?\nConfused over the feeling, impatiently eating you\nTrichina worm chewing on the wall of my intestine\nI'm a eat you 'til there's nothing left\nUntil my very last breath, you gon' be a nigga death\nDespite I prepare it the best\nAnd specialize in cooking swine as a chef, you gon' be a nigga death\nWho cares if the swine's mixed with rat, cat and dog combined?\nYes, I'ma eat the shit to death\n[Outro: Busta Rhymes]\nAin't that some shit?\nI'ma eat some shit until what I'm eating kills me\nAnd I choose to do that, why?\n'Cause that's just what niggas do, hahahahaha8Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/34890",
+    "artist_names": "Nas (Ft. The Last Poets)",
+    "full_title": "Project Roach by\u00a0Nas (Ft.\u00a0The\u00a0Last Poets)",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 34890,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565724089,
+    "path": "/Nas-project-roach-lyrics",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Nas-project-roach-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 8449
+    },
+    "title": "Project Roach",
+    "title_with_featured": "Project Roach (Ft.\u00a0The\u00a0Last Poets)",
+    "updated_by_human_at": 1604456708,
+    "url": "https://genius.com/Nas-project-roach-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2582",
+      "header_image_url": "https://images.genius.com/0c144909375314c8ca3e544017a9307f.300x180x1.jpg",
+      "id": 2582,
+      "image_url": "https://images.genius.com/a4a798abf88f32abcd9c8969a199f0a1.687x687x1.jpg",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Last Poets",
+      "slug": "The-last-poets",
+      "url": "https://genius.com/artists/The-last-poets"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Project Roach Lyrics[Intro: Eban Thomas]\nIt is absolutely silly, and unproductive\nTo have a funeral for the word \"nigga\"\nWhen the actions continue..\nWe need to have a movement to resurrect brothers, and sisters\nNot a funeral for niggers\nCause niggers - DON'T DIE {*echoes*}\n\n[Verse: Nas]\nUh, yeah..\nYo, I'm creepy and crawlin', in your sink and your toilet\nI be drinkin' from your spit, anything cause I'm all less\nAn insect with four legs; people come in, I fake dead\nCorrection: I got eight legs, climbin' on top yo' plate, bed\nWherever I smell food, it could be even jail food\nStale food that's molded, a roach is what I am, fool\nThe ghetto is my land, fool, I'ma never be able to\nFly like a bumblebee, try not, to be underneath\nYour sneaker, pitiful creature, I'm not afraid of\nYour pesticide or RAID cause, in heaven's my Creator\nI love it when the light's off, eatin' from same knives, forks\nFrom, any man's dinner, see my antennas\nYou can't win, you can't stand the crunchy sound I make\nIf you squash me, learn to live with me\nHow much your roach motel costin' you in the city?\nBut yo, we everywhere, check your house good, I bet we there!\nLook there!\n[Outro: Eban Thomas]\nNiggers are like roaches - they're never gonna go away\nLearn from them what we should not become\nCause niggers - DON'T DIE {*echoes*}3Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/3184",
+    "artist_names": "Nas",
+    "full_title": "Y'all My Niggas by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 3184,
+    "instrumental": false,
+    "lyrics_owner_id": 4479,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1601858098,
+    "path": "/Nas-yall-my-niggas-lyrics",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Nas-yall-my-niggas-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 19697
+    },
+    "title": "Y\u2019all My Niggas",
+    "title_with_featured": "Y'all My Niggas",
+    "updated_by_human_at": 1601858098,
+    "url": "https://genius.com/Nas-yall-my-niggas-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Y\u2019all My Niggas Lyrics[Intro: sample]\nWe use the word everyday\nNow we don't know the capacity of this word\nAre we headed for conflict or not? (Yes sir)\nBecause we did not break down the capacity\nOf the same what (the same word)\nBrothers and sisters, this is why we hung up the consciousness\nWe've been taught wrong\n\n[Verse 1]\nFind a room to lock yourself in and close the door\nIt's some heavy concepts that we gotta explore\nWe gotta, strip the word down rugged and raw\nThe rhetoric of Martin King just ain't around no more\nDu Bois ain't here, James Baldwin neither, they all were leaders\nBut they ain't help me get this Porsche two seater\nA lawyer left the hood, he never looked back\nTo be a Fortune 500 CEO, it took rap\nSo what if my pants sag with my hat turned back?\nThe same swag got our merchandise flying off the rack\nMarketing companies is hiring blacks\nFresh hip-hop lingo for your campaign ads\nControversy surrounds who could say it and when\nSome niggas are full time, some play and pretend\nSo fuck that, no apologies on the issue\nIf it offends you, it's meant to, it's that simple\n[Chorus]\nTryna erase me from y'all memory\nToo late, I'm engraved in history (I'm here my niggas!)\nSpeak my name and breathe life in me\nMake sure y'all never forget me ('cause y'all give me life!)\n'Cause y'all use my name so reckless\nWhether to be accepted or disrespected (and I love it!)\nAnd I love it, especially when y'all do it in public\nAnd I'm the subject, 'cause y'all my niggas\n\n[Verse 2]\nYo, I was thinking a little bit\nWhat would it take to authenticate my nigganess?\nBall ridiculous? 26 inches when I call up the dealership?\nAww, that's some nigga shit\nWe only out for our own benefit?\nWe having too many kids? We Claudines? Welfare recipients?\nThe infamous free clinics is the sickest shit\nMake me think what the hell they clean they syringes with\nEverybody bleeding, the cops are the demons\nCourtrooms full of goons, jail buses leaning\nHandcuffs squeezed too tight on youth life\nIf you fight, they just give in, people used to do sit ins\nThey got Nigeria and Niger, two different countries\nSomehow Niger turned to nigga, and shit got ugly\nThe problem is we started thinking like the colonists\n'Til Noble Drew Ali started dropping that consciousness\n[Chorus]\nTryna erase me from y'all memory\nToo late, I'm engraved in history (I'm here my niggas!)\nSpeak my name and breathe life in me\nMake sure y'all never forget me ('cause y'all give me life!)\n'Cause y'all use my name so reckless\nWhether to be accepted or disrespected (and I love it!)\nAnd I love it, especially when y'all do it in public\nAnd I'm the subject, 'cause y'all my niggas\n\n[Verse 3]\nMy father was not a banker, neither was my neighbor\nWhen it came to getting paper, who the hell was gon' train us?\nOppression couldn't escape us through the ages\nWe changed the basis of derogatory phrases\nAnd I say it's quite amazing\nThe use of ghetto terms developed our own language\nNo matter where it came from\nIt's celebrated, now people are mad if they ain't one\n\n[Interlude: sample]\nEvery word we use, it has a capacity\nAnd if you don't understand the words you're using\nAnd understand the capacity of it\nYou are using words that is creating a destiny for you\nThat you don't even know, or even conscious of\n[Chorus]\nTryna erase me from y'all memory\nToo late, I'm engraved in history (I'm here my niggas!)\nSpeak my name and breathe life in me\nMake sure y'all never forget me ('cause y'all give me life!)\n'Cause y'all use my name so reckless\nWhether to be accepted or disrespected (and I love it!)\nAnd I love it, especially when y'all do it in public\nAnd I'm the subject\n\nTryna erase me from y'all memory\nToo late, I'm engraved in history\nSpeak my name and breathe life in me\nMake sure y'all never forget me\n'Cause y'all use my name so reckless\nWhether to be accepted or disrespected\nAnd I love it, especially when y'all do it in public\nAnd I'm the subject, 'cause y'all my niggas3Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/3944",
+    "artist_names": "Nas (Ft. Mykel)",
+    "full_title": "We're Not Alone by\u00a0Nas (Ft.\u00a0Mykel)",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 3944,
+    "instrumental": false,
+    "lyrics_owner_id": 6264,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1642085278,
+    "path": "/Nas-were-not-alone-lyrics",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Nas-were-not-alone-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 24974
+    },
+    "title": "We\u2019re Not Alone",
+    "title_with_featured": "We're Not Alone (Ft.\u00a0Mykel)",
+    "updated_by_human_at": 1642085278,
+    "url": "https://genius.com/Nas-were-not-alone-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1744",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+      "id": 1744,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1661267606",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Mykel",
+      "slug": "Mykel",
+      "url": "https://genius.com/artists/Mykel"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "We\u2019re Not Alone Lyrics[Intro: Mykel]\nWhere there's life there is water\nWe depend on Mama Nature\nThere's a message for tomorrow\nEverything connects to you\nSome say soon it will be over\nYou can see it in the weather\nOut of tune with Mama Nature\nWhat you do comes back to you\n\n[Chorus: Mykel]\nWe're not alone\nWe're not alone\nWe're not alone\nWe're not alone\n[Verse 1: Nas]\nUhh, uhh\nConfucius, Confucius, Sigmund Freud\nAnd Farad Muhammad, is it evolution or God?\nSearching for the truth is a threat\nSeems the closer we get to the truth State Troopers or Feds\nCome out to silence you, my house in Malibu probably tapped\n'Cause living next door to Demi Moore, plus I'm black\nPlus I want vengeance for the poor who's attacked daily\nPatriot Act never scared me\nJake in the Taurus, sticky in the jar-as\nNiggas I'm with got warrants\nAmerica's browning, 20 years from now every town'll be brown and Latin\nAn African looking Manhattan\nI'ma tell you what I seen with my three eyes\nWord to me, not a hoax back in '99\nA spacecraft in the skyline\nIn L.A. in daytime, ask Horse if I'm lying\n\n[Bridge 1: Mykel]\nEvery mother every father\nRaise your sons and your daughters\nWith respect and with honor\nFrom the seed comes a fruit\nIt's an unbroken circle\nAll of life is universal\nAnd we're all in the struggle\nIf I know one thing is true\n[Chorus: Mykel]\nWe're not alone\nWe're not alone\nWe're not alone\nWe're not alone\n\n[Verse 2: Nas]\nEvidence remains in debate\nDocuments of our own Air Force base\nAdditional terrestrial information\nOther planets with life population, my observation\nScientists study pictures of a flying disk\nRight on earth anthropologists are finding shit\nVisitors probably live with us, they can mimic us\nIt's sort of what we're seeing in the cinemas\n\n[Bridge 2: Mykel]\nTake a look in the mirror\nAnd see the bigger picture\nIt's good to be alive\n(It's good to be alive)\nNobody is an island\nWe are part of an environment\nOnly way we're gon' survive\nIs if we harmonize\n[Chorus: Mykel]\nWe're not alone\nWe're not alone\nWe're not alone\nWe're not alone\n\n[Verse 3: Nas]\nReginald Lewis, the black billionaire\nBefore Oprah, Bob Johnson, how'd he disappear?\nConspiracy theories, UFOs in the air\nI've seen it with my own two eyes, and I swear\nLike Warren Buffet, real money I'm just trying to touch it\nThe diamond encrusted shit, live illustrious\n'Cause we was deprived of it, suffered\nNow we pop to prove anything's possible\nMy pimp strut was invented when they whipped us\nNow we diddy bop just to show you that our strength's up\nJust when niggas 'bout to see they cut\nGlobal warming about to burn us up\nNiggas never really seen paper in this world\nAmerican blacks, the teenager of this world\nGive us 20 more years to grow up, already geniuses\nWhat I mean is this\nI used to worship a certain Queens police murderer\n'Til I read the words of Ivan Van Sertima\nHe inserted something in me that made me feel worthier\nNow I spit revolution, I'm his hood interpreter\n\n[Bridge 2: Mykel]\nTake a look in the mirror\nAnd see the bigger picture\nIt's good to be alive\n(It's good to be alive)\nNobody is an island\nWe are part of an environment\nOnly way we're gon' survive\nIs if we harmonize\n\n[Chorus: Mykel]\nWe're not alone\nWe're not alone\nWe're not alone\nWe're not alone\n\n[Outro: Nas]\nAyo I'm American born, love America\nLove my people, love all mankind, all nationalities, you know\nI think it's just recently where everybody just started to feel\nLike there was an elite group that runs everything\nAnd everybody else was sheep, ignorant\nMaking all ethnicities, colors and creeds\nNiggers, blind to what really is going on\nSo I say take off the wool from your eyes\nOut with the old America in with the new\nEnd all racism, all injustice, all oppression to poor people\nAny people anywhere in this planet\nLet's come together: a new day is rising5Embed"
+   }
+  },
+  {
+   "number": 15,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/628",
+    "artist_names": "Nas",
+    "full_title": "Black President by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 628,
+    "instrumental": false,
+    "lyrics_owner_id": 7,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1598072786,
+    "path": "/Nas-black-president-lyrics",
+    "pyongs_count": 11,
+    "relationships_index_url": "https://genius.com/Nas-black-president-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 32307
+    },
+    "title": "Black President",
+    "title_with_featured": "Black President",
+    "updated_by_human_at": 1598072786,
+    "url": "https://genius.com/Nas-black-president-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Black President Lyrics[Intro: Barack Obama]\nThey said this day would never come\nThey said our sights were set too high\nThis country is too divided, too disillusioned\nTo ever come together around a common purpose. They said\n\n[Chorus: Johnny Polygon (2Pac sample)]\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\nYes we can change the world, the world, the world\n{CHANGE THE WORLD...} they say\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\nYes we can, change the world\nThe world, the world, the WORLD...\n[Verse 1: Nas]\nThey forgot us on the block, got us in the box\nSolitary confinement: how violent are these cops?\nThey need a early retirement\nHow many rallies will I watch? I ain't got it in me to march\nI got a Semi to spark, the game's in a drought\nPublic housing, projects, cooking up in the Pyrex\nMy set, my clique, either getting money\nOr running from homicide trial, that's if they ain't died yet\nTrying to be rich, still I'm pledging allegiance\nA predicate felon, a ghetto leader\nLending my poetical genius, to whoever may need it\nI bleed this from Queensbridge, now living with my feet up\nNever defeated, so a president's needed\nYou know these colored folks and Negros hate to see\nOne of their own succeeding\nAmerica: surprise us and let a black man guide us, uhh\n\n[Chorus: Johnny Polygon (2Pac sample)]\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\nYes we can, change the world\n{CHANGE THE WORLD...} they say\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\nYes we can, change the world\nThe world, the world, the WORLD...\n[Verse 2: Nas]\nWhat's the black pres' thinking on election night?\nIs it: \"How can I protect my life?\nProtect my wife? Protect my rights?\"\nEvery other president was nothing less than white\nExcept Thomas Jefferson had mixed Indian blood.. and Calvin Coolidge\nKKK is like: \"What the fuck?!\", loading their guns up\nLoading up mine too, ready to ride\n'Cause I'm riding with my crew - he dies, we die too\nYeah, but on the positive side\nI think Obama provides hope and challenges minds\nOf all races and colors to erase the hate\nAnd try to love one another, so many political snakes\nWe in need of a break, I'm thinking I can trust this brother\n...but will he keep it way real?\nEvery innocent nigga in jail gets out on appeal\nWhen he wins, will he really care still?\nI feel\n\n[Chorus: Johnny Polygon (2Pac sample)]\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\nYes we can, change the world\n{CHANGE THE WORLD...} they say\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\nYes we can, change the world\nThe world, the world, the WORLD...\n[Verse 3: Nas]\nSay a prayer for \"Do we have to?\"\nYou ain't right, Jeremiah Wrong pastor\nIn love with a slave master\nSincerely yours, USA's most brave rapper\nJesse carjacker, Uncle Tom kidnapper\nAsk around: Bentley coupe off the Richter\nBitch called \"Life\": I pimped her, what\nPolitics, politricks, Klan-shooter\nDeacon for defense, progress-producer\nNothing on the stove, a survival-booster\nGotta do what we gotta do\nWe ain't got no governors coming through to help\nAnything we need done, gotta do for self\nNew, improved JFK on the way\nIt ain't the 60s again, niggas ain't hippies again\nWe ain't falling for the same traps\nStanding on the balconies where they shot the King at\nMcCain got apologies; ain't nobody hearing that\nPeople need honesty\n\n[Chorus: Johnny Polygon (2Pac sample)]\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\nYes we can, change the world\n{CHANGE THE WORLD...} they say\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\n(\"Although it seems heaven-sent\nWe ain't ready, to have a black president\")\nYes we can, change the world\nThe world, the world, the WORLD...\n\n[Outro: Governor Bill Richardson]\nIt is my distinct honor, and privilege to introduce\nThe next President of the United States - Barack Obama\n{*crowd cheers LOUDLY*}11Embed"
+   }
+  },
+  {
+   "number": 16,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/34889",
+    "artist_names": "Nas",
+    "full_title": "Like Me by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 34889,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1566413155,
+    "path": "/Nas-like-me-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Nas-like-me-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false
+    },
+    "title": "Like Me",
+    "title_with_featured": "Like Me",
+    "updated_by_human_at": 1607088011,
+    "url": "https://genius.com/Nas-like-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Like Me Lyrics[Intro: Anthony Wilson]\nAy yeah, what's happening mommy? How you doing baby?\nOh you looking kinda good and everything, I see you with them stilettos on baby\nAy check this out, you ain't got time to talk to me?\nAy let me put the bug in your ear baby\nWhy don't you turning them floor shoes into some ho shoes, ya dig?\nYeah, check this out, this Universe Finest, your Royal Highness\nYou know what baby? I can do a whole lot of thangs for you\nGuess why, 'cause I'm a motherfucking pimp\n\n[Chorus: Dwayne Collins (Nas)]\n(Like me...) Hustling and grinding babe\n(I be...) Staying on that paper chase\nI-In this life there's pimps and hoes\nTell me which one are you, you a nigga\n(Like me...) Hustling and grinding babe\n(I be...) Staying on that paper chase\nIn this life there's pimps and hoes\nTell me which one are you, you\n[Verse 1: Nas]\nThe good man in me say, \"Get money and stay on the path\"\nBut the pimp shit in me say, \"Yo, keep looking for ass\"\nBut my daughter gave me a gift, something to hold\nA little city in water, when you shake it, it snow\nI told her never let a sucker nigga take off her clothes\nBetter wait 'til you grown, when he love you, you'll know\nEverybody's got a dream, a hopeful wish to own a six times two\nCylinder whip, a fantasy, a bone to pick\nRevenge to get, against - who I don't know\nSomeone who said you won't blow, you won't eat, you won't cake\nThey mistake blaming me for they failures, I'm fresh, getting tailored\nSingle breasted, a lint brush is senseless, some pimp shit\nA woman hates a man and stays with him for many years\nTell him she loves him and be jealous of him\nNow lame is how the ghetto judge him, 'cause he still with her\nShe'll take his cash and give it to some other real nigga...\n\n[Chorus: Dwayne Collins (Nas)]\n(Like me...) Hustling and grinding babe\n(I be...) Staying on that paper chase\nI-In this life there's pimps and hoes\nTell me which one are you, you a nigga\n(Like me...) Hustling and grinding babe\n(I be...) Staying on that paper chase\nIn this life there's pimps and hoes\nTell me which one are you, you\n[Interlude: Anthony Wilson]\nAy pimping been going on man for eons and eons man since the beginning of time\nYou know me, the only thing I need to do is get on the grind, and get mine\nSo the only thing I gotta tell you man is you know\nDo what you gotta do man\nBring my money back, get on that track and get on your back\n\n[Verse 2: Nas]\nI heard 'em say the NBA's a bunch of million-dollar slaves\nA portea wasn't real back in the days, the point I make is\nJerry owns the Lakers, his yearly takings\nLet's just say more than collectively all of his players\nThat's business, not really pimp shit\nMaybe a tid-bit similar to when we rappers make big hits\nAnd not own the masters, that's the deal\nBy the way, Poitier helps all the Denzels excel\nHe kept it more than real, but Hollywood can turn a girl out\nI knew a girl 'bout, 5'9\", so fine, she could for sure grind\nShe was sleek, chic, with a classic mouth\nMovie directors always fucked her on the casting couch\nShe came out with a blockbuster, can't knock a hustler\nShe not a hooker, she focused, a hopeless soul on a lonely road\nI showed her all my stones and gold\nI said \"Bitch, life is cold, you need to roll with a nigga\"\n\n[Chorus: Dwayne Collins (Nas)]\n(Like me...) Hustling and grinding babe\n(I be...) Staying on that paper chase\nI-In this life there's pimps and hoes\nTell me which one are you, you a nigga\n(Like me...) Hustling and grinding babe\n(I be...) Staying on that paper chase\nIn this life there's pimps and hoes\nTell me which one are you, youEmbed"
+   }
+  },
+  {
+   "number": 17,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/34887",
+    "artist_names": "Nas",
+    "full_title": "Proclamation (Nigger Hatred) by\u00a0Nas",
+    "header_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "id": 34887,
+    "instrumental": false,
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1556992181,
+    "path": "/Nas-proclamation-nigger-hatred-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Nas-proclamation-nigger-hatred-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 15
+    },
+    "release_date_for_display": "July 15, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b494ca4151f14803123849b4f34be37f.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 5830
+    },
+    "title": "Proclamation (Nigger Hatred)",
+    "title_with_featured": "Proclamation (Nigger Hatred)",
+    "updated_by_human_at": 1642085364,
+    "url": "https://genius.com/Nas-proclamation-nigger-hatred-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/56",
+     "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+     "id": 56,
+     "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Nas",
+     "slug": "Nas",
+     "url": "https://genius.com/artists/Nas",
+     "iq": 40366
+    },
+    "artist": "Nas",
+    "lyrics": "Proclamation (Nigger Hatred) Lyrics[Intro 1: Malcolm X sample]\nThe white power structure of today is just as much interested in perpetuating slavery\nAs the white power structure was 100 years ago\nOnly now they use modern methods of doing so\nAnd, uh\u2026\n\n[Intro 2: Paul Mooney sample]\nWhite folks made up nigga and don't want me to say it\nAin't that a bitch?\nYou made it up, you shouldn't have made it up!\nYou done fucked up, you shouldn't have made up nigga\nAnd you made up a song to go with it\nPlease don't make me sing the song\nEenie meenie minie\nYou know the god damn song I'm talking about\nAnd you change the words when you see black folks\n[Verse: Nas]\nThis is my opening scripture - I've been preparing this album\nMy whole life, might be uncomfortable for most you listeners\nSatan's bombarding me with propositions, but I decline\nI started in the Bridge without a pot to piss in\nI overcame all the opposition\nMy teachers told that I'd a broken mayne on a cot in prison\nCloaked in the finest drapes, not Bathing Apes\nBut we still filthy, Supreme Court say we still guilty\nThis is the Genesis, and I don't even see a worthy arch nemesis\nI get loose like the Jena Six, they put a noose on 'Pac\nNow I'm defending Vick, and free that nigga T.I.P\nI'd take the grave or a bid\nThen let some dirty clan members run up in my crib\nAnd plant cracks on the man that's going to church\nPlants packs on the man that's going to work\nAnd build cases, meanwhile they daddies and they brothers\nIs recruiting all my brothers and cousins to fill bases\nThe nerve of y'all to call Escobar a racist\nNigga, nigga, nigga, nigga, nigga, nigga hatred1Embed"
+   }
+  }
+ ]
+}
