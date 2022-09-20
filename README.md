@@ -1,2 +1,2 @@
-# Nas_Lyrics_NLP_Analysis
+# Nas Lyrics NLP Analysis
 Using NLP to analyze Rap/Hip-Hop lyrics from artist Nas
