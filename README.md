@@ -8,7 +8,7 @@ To begin the first step was to get the list of Nas' albums to later save the lyr
 
 # Exploratory Data Analysis (EDA)
 1. # Data Cleaning
-To perform any type of natural language processing often times the first step is to clean the text and prepare it for analysis. Rap/Hip-Hop could be challenging due to the amount of slang words that are used.  being While there is more that can be done like stemming/lemmatizing text, for T removing unnecessary characters and formatting, tokenizing the text (), removing stop words etc.  
+To perform any type of natural language processing often times the first step is to clean the text and prepare it for analysis. Rap/Hip-Hop could be challenging due to the amount of slang words that are used. While there is more that can be done like stemming/lemmatizing text, for the purposes of this project unnecessary characters and stop words wil be removed, along with formatting and tokenizing the corpus.  
 
 A snippet of the lyrics from the .json file is shown below:
 
