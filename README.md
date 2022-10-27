@@ -1,5 +1,5 @@
 # Using NLP to Analyze Rap/Hip-Hop Lyrics from Nas
-#### The notebook for everything explained below can be found [here](Nas_Lyrics_EDA.ipynb). 
+### The notebook for everything explained below can be found [here](Nas_Lyrics_EDA.ipynb). 
 After taking the CodeCademy course on Natural Language Processing I was inspired by their [Taylor Swift Analysis](https://www.codecademy.com/article/the-machine-learning-process-taylor-swift) to perform a similar type of analysis on the rap artist Nas. Nas is widely regarded as one of the best rappers and lyricsts so choosing him for this was study easy. The intent of this project was to use NLP to find common reoccuring words and groupings of words that create topics in songs and to see the frequency in which Nas used these topics throughout his career on different albums.
 ![alt text](https://github.com/Raatid-Dilly/Nas_Lyrics_NLP_Analysis/blob/main/images/nas_image.png?raw=true)
 
