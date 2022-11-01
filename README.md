@@ -31,8 +31,14 @@ def clean_lyrics_format(lyrics):
     return str(lyrics)
 ```
 2. # Text Analysis
-  - **Word Count** - After the text is processed, next is performing analysis to find the albums with the highest word count and Nas' most used words. The albums God's Son, Streets Disciples, and I Am contained the most words with well over 12,000 words. His most used word was the 'n-word'. These are visualized along with a wordcloud representation of words he frequently uses.
-  
+  - **Word Count** - After the text is processed, next is performing analysis to find the albums with the highest word count and Nas' most used words. The albums God's Son, Streets Disciples, and I Am contained the most words with well over 12,000 words. 
+
+![words by album](https://github.com/Raatid-Dilly/NLP-EDA-Nas-Lyrics/blob/main/images/word_count.jpg)
+
+His most used word was the 'n-word'. These are visualized along with a wordcloud representation of words he frequently uses.
+
+![top 20](https://github.com/Raatid-Dilly/NLP-EDA-Nas-Lyrics/blob/main/images/count.jpg)
+
   * **Term Frequency Inverse Document Frequency (TFIDF)** - TFIDF is a numerical statistic used to indicate how important each word is to a document in a collection of documents. It consists of two components, term frequency and the inverse document frequency
     - Term frequency is the measure of how often a word appears in a document
     - Inverse Document frequency is the measure of how often a word appears across all corpus documents. More frequently appearing words are penalized as they give less insight into document meaning
@@ -49,6 +55,8 @@ def clean_lyrics_format(lyrics):
       * Political/Change
       * Sentimental/Family
 
+![topics](https://github.com/Raatid-Dilly/NLP-EDA-Nas-Lyrics/blob/main/images/topics.jpg)
+
 * **Word2Vec and t-Distributed Stochastic Neighbor Embedding (TSNE)** - Word2vec is a statistical learning algorithm that develops word embeddings from a corpus of text. We will be able to see how similar certain words are to each other when used by Nas. It will create a 100 dimensional vector space where similar words will be mapped next to each other. The similarity of each word is calculated by the cosine similarity between their vectors. This is used along with TSNE which is a dimensionality reduction technique designed for visualizing higher dimensional data in a 2-D space to reduce the greater dimensional vectorgenerated from the word2vec to a simple graph for visualization. TSNE created a map with the following word pairings:
   * new and york
   * one and love
@@ -56,9 +64,13 @@ def clean_lyrics_format(lyrics):
   * world and mine
   * peace and everybody
 
+![t-sne](https://github.com/Raatid-Dilly/NLP-EDA-Nas-Lyrics/blob/main/images/t-sne.jpg)
+
 Using knowledge of Nas' music there are several songs with these words used together like 'One Love', 'The World is Yours', 'N.Y. State of Mind' and 'Every Ghetto'
 
 * **Sentiment Analysis** - Finally VADER from the NLTK library is used to perform a sentiment analysis of Nas' lyrics. Analyzing rap lyrics will be difficult as there are many slang words and often times a song may contain negative words but contain an overall positive message. Additionally VADER is trained on social media texts so the results are not expected to be ideal. VADER's polarity_scores() function returns a dictionary with values of negative, positive, neutral and compound scores respectively. The compound score is used as it normalizes all the other scores and is the overall sentiment. The final results of this analysis showed that analyzing the sentiment of rap lyrics was not ideal and not recommended. Many of Nas' positive songs were incorrectly classified as negative.
+
+![sentiment](https://github.com/Raatid-Dilly/NLP-EDA-Nas-Lyrics/blob/main/images/sentiment.jpg)
 
 The notebook of the EDA is [here](https://github.com/Raatid-Dilly/Nas_Lyrics_NLP_Analysis/blob/main/Nas_Lyrics_EDA.ipynb)
    
